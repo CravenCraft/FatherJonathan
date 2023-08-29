@@ -1,0 +1,403 @@
+{
+	"root_resistance+1%": {
+		"title": "+1% Resistance",
+		"frame": "challenge",
+		"icon": {
+			"type": "effect",
+			"data": {
+				"effect": "resistance"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.resistance",
+					"value": 0.01,
+					"operation": "multiply_total"
+				}
+			}
+		],
+		"editor-color": "#fffc00"
+	},
+	"resistance+1%": {
+		"title": "+1% Resistance",
+		"icon": {
+			"type": "effect",
+			"data": {
+				"effect": "resistance"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.resistance",
+					"value": 0.01,
+					"operation": "multiply_total"
+				}
+			}
+		],
+		"editor-color": "#00ff75"
+	},
+	"roll_stamina_reduction+2": {
+		"title": "2% Roll Stamina Reduction",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "simplyswords:diamond_sai"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "betterparagliders:roll_factor",
+					"value": -0.02,
+					"operation": "addition"
+				}
+			}
+		],
+		"editor-color": "#fbff00"
+	},
+	"block_stamina_reduction+2": {
+		"title": "2% Block Stamina Reduction",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "simplyswords:diamond_sai"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "betterparagliders:block_factor",
+					"value": -0.02,
+					"operation": "addition"
+				}
+			}
+		],
+		"editor-color": "#fbff00"
+	},
+	"light_tier1_unlock": {
+		"title": "Unlock Tier 1 Light Armor",
+		"description": "Unlocks Chainmail, Ashigaru, and Raider armors",
+		"frame": "challenge",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "jet_and_elias_armors:raider_armor_helmet"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "gamestage remove @s l1_armor"
+				}
+			}
+		],
+		"editor-color": "#cab7af"
+	},
+	"light_tier2_unlock": {
+		"title": "Unlock Tier 2 Light Armor",
+		"description": "Unlocks Wolf Raider and Mercenary Light Armors",
+		"frame": "challenge",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "jet_and_elias_armors:raider_light_variant_chestplate"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "gamestage remove @s l2_armor"
+				}
+			}
+		],
+		"editor-color": "#cab7af"
+	},
+	"light_tier3_unlock": {
+		"title": "Unlock Tier 3 Light Armor",
+		"description": "Unlocks Ronin and Horo-Sha Armors",
+		"frame": "challenge",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "jet_and_elias_armors:ronin_robe_red_helmet"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "gamestage remove @s l3_armor"
+				}
+			}
+		],
+		"editor-color": "#cab7af"
+	},
+	"light_tier4_unlock": {
+		"title": "Unlock Tier 4 Light Armor",
+		"description": "Unlocks Crusader Armors",
+		"frame": "challenge",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "jet_and_elias_armors:crusader_armor_helmet"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "gamestage remove @s l4_armor"
+				}
+			}
+		],
+		"editor-color": "#cab7af"
+	},
+	"light_tier5_unlock": {
+		"title": "Unlock Tier 5 Light Armor",
+		"description": "Unlocks Samurai Armors",
+		"frame": "challenge",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "jet_and_elias_armors:samurai_set_helmet"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "gamestage remove @s l5_armor"
+				}
+			}
+		],
+		"editor-color": "#cab7af"
+	},
+	"light_tier6_unlock": {
+		"title": "Unlock Tier 6 Light Armor",
+		"description": "Unlocks Kensie Armors",
+		"frame": "challenge",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "jet_and_elias_armors:samurai_set_helmet"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "gamestage remove @s l6_armor"
+				}
+			}
+		],
+		"editor-color": "#cab7af"
+	},
+	"light_tier7_unlock": {
+		"title": "Unlock Tier 7 Light Armor",
+		"description": "Unlocks The Gladiator Armor",
+		"frame": "challenge",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "jet_and_elias_armors:gladiator_armor_helmet"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "gamestage remove @s l7_armor"
+				}
+			}
+		],
+		"editor-color": "#cab7af"
+	},
+	"light_tier8_unlock": {
+		"title": "Unlock Tier 8 Light Armor",
+		"description": "Unlocks The Takemaru Armor",
+		"frame": "challenge",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "jet_and_elias_armors:takemaru_armor_helmet"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "gamestage remove @s l8_armor"
+				}
+			}
+		],
+		"editor-color": "#cab7af"
+	},
+	"heavy_tier1_unlock": {
+		"title": "Unlock Tier 1 Heavy Armor",
+		"description": "Unlocks Iron, Drifter, and Hedge Knight Armors",
+		"frame": "challenge",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "jet_and_elias_armors:hedge_knight_armor_helmet"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "gamestage remove @s h1_armor"
+				}
+			}
+		],
+		"editor-color": "#cab7af"
+	},
+	"heavy_tier2_unlock": {
+		"title": "Unlock Tier 2 Heavy Armor",
+		"description": "Unlocks Mercenary, Brute, and Dreadnought Armors",
+		"frame": "challenge",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "jet_and_elias_armors:mercenary_gear_helmet"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "gamestage remove @s h2_armor"
+				}
+			}
+		],
+		"editor-color": "#cab7af"
+	},
+	"heavy_tier3_unlock": {
+		"title": "Unlock Tier 3 Light Armor",
+		"description": "Unlocks Diamond, Knight, and Sentinel Armors",
+		"frame": "challenge",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "jet_and_elias_armors:sentinel_set_helmet"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "gamestage remove @s h3_armor"
+				}
+			}
+		],
+		"editor-color": "#cab7af"
+	},
+	"heavy_tier4_unlock": {
+		"title": "Unlock Tier 4 Light Armor",
+		"description": "Unlocks Heavy Mercenary, Corinthos, and Dame Armors",
+		"frame": "challenge",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "jet_and_elias_armors:the_dames_armor_helmet"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "gamestage remove @s h4_armor"
+				}
+			}
+		],
+		"editor-color": "#cab7af"
+	},
+	"heavy_tier5_unlock": {
+		"title": "Unlock Tier 5 Light Armor",
+		"description": "Unlocks Netherite, Bulward, Dark Cursader, and Death Knight Armors",
+		"frame": "challenge",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "jet_and_elias_armors:death_knight_armor_helmet"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "gamestage remove @s h5_armor"
+				}
+			}
+		],
+		"editor-color": "#cab7af"
+	},
+	"heavy_tier6_unlock": {
+		"title": "Unlock Tier 6 Light Armor",
+		"description": "Unlocks The Elite Sentinel Armor",
+		"frame": "challenge",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "jet_and_elias_armors:elite_sentinel_set_helmet"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "gamestage remove @s h6_armor"
+				}
+			}
+		],
+		"editor-color": "#cab7af"
+	},
+	"heavy_tier7_unlock": {
+		"title": "Unlock Tier 7 Light Armor",
+		"description": "Unlocks The Avalon Armor",
+		"frame": "challenge",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "jet_and_elias_armors:avalon_armor_helmet"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "gamestage remove @s h7_armor"
+				}
+			}
+		],
+		"editor-color": "#cab7af"
+	},
+	"heavy_tier8_unlock": {
+		"title": "Unlock Tier 8 Light Armor",
+		"description": "Unlocks The Havoc Armor",
+		"frame": "challenge",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "jet_and_elias_armors:havoc_knight_armor_helmet"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "gamestage remove @s h8_armor"
+				}
+			}
+		],
+		"editor-color": "#cab7af"
+	}
+}

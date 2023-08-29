@@ -1,0 +1,23 @@
+{
+  "replace": false,
+  "values": [
+    "jet_and_elias_armors:ronin_set_boots",
+    "jet_and_elias_armors:ronin_set_leggings",
+    "jet_and_elias_armors:ronin_robe_black_chestplate",
+    "jet_and_elias_armors:ronin_robe_black_floral_chestplate",
+    "jet_and_elias_armors:ronin_robe_blue_black_sleeves_chestplate",
+    "jet_and_elias_armors:ronin_robe_blue_white_sleeves_chestplate",
+    "jet_and_elias_armors:ronin_robe_red_black_sleeves_chestplate",
+    "jet_and_elias_armors:ronin_robe_red_chestplate",
+    "jet_and_elias_armors:ronin_robe_red_helmet",
+    "jet_and_elias_armors:ronin_robe_red_white_sleeves_chestplate",
+    "jet_and_elias_armors:ronin_robe_white_chestplate",
+    "jet_and_elias_armors:ronin_robe_white_floral_chestplate",
+    "jet_and_elias_armors:wokou_armor_black_chestplate",
+    "jet_and_elias_armors:wokou_armor_black_helmet",
+    "jet_and_elias_armors:wokou_armor_blue_chestplate",
+    "jet_and_elias_armors:wokou_armor_blue_helmet",
+    "jet_and_elias_armors:wokou_armor_chestplate",
+    "jet_and_elias_armors:wokou_armor_helmet"
+  ]
+}

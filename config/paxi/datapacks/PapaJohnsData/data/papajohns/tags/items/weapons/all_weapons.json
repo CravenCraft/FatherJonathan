@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "#papajohns:weapons/tier1_weapons",
+    "#papajohns:weapons/tier2_weapons",
+    "#papajohns:weapons/tier3_weapons",
+    "#papajohns:weapons/tier4_weapons",
+    "#papajohns:weapons/tier5_weapons",
+    "#papajohns:weapons/unique_weapons"
+  ]
+}

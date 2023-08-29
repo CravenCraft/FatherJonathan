@@ -1,0 +1,12 @@
+{
+	"unlocked_by_default": true,
+	"exclusive_root": true,
+	"title": "Defense",
+	"icon": {
+		"type": "effect",
+		"data": {
+			"effect": "resistance"
+		}
+	},
+	"background": "textures/gui/advancements/backgrounds/adventure.png"
+}

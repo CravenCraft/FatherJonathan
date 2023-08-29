@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:netherite_helmet",
+    "minecraft:netherite_chestplate",
+    "minecraft:netherite_leggings",
+    "minecraft:netherite_boots",
+    "jet_and_elias_armors:bulwark_armor_boots",
+    "jet_and_elias_armors:bulwark_armor_chestplate",
+    "jet_and_elias_armors:bulwark_armor_helmet",
+    "jet_and_elias_armors:bulwark_armor_leggings",
+    "jet_and_elias_armors:dark_crusader_armor_boots",
+    "jet_and_elias_armors:dark_crusader_armor_chestplate",
+    "jet_and_elias_armors:dark_crusader_armor_helmet",
+    "jet_and_elias_armors:dark_crusader_armor_leggings",
+    "jet_and_elias_armors:death_knight_armor_boots",
+    "jet_and_elias_armors:death_knight_armor_chestplate",
+    "jet_and_elias_armors:death_knight_armor_helmet",
+    "jet_and_elias_armors:death_knight_armor_leggings"
+  ]
+}

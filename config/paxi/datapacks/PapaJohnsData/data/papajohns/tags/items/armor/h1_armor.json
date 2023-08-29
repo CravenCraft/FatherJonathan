@@ -1,0 +1,19 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:iron_helmet",
+    "minecraft:iron_chestplate",
+    "minecraft:iron_leggings",
+    "minecraft:iron_boots",
+    "jet_and_elias_armors:knight_armet_helmet",
+    "jet_and_elias_armors:bandit_armor_boots",
+    "jet_and_elias_armors:bandit_armor_chestplate",
+    "jet_and_elias_armors:bandit_armor_helmet",
+    "jet_and_elias_armors:bandit_armor_leggings",
+    "jet_and_elias_armors:hedge_knight_armor_boots",
+    "jet_and_elias_armors:hedge_knight_armor_chestplate",
+    "jet_and_elias_armors:hedge_knight_armor_helmet",
+    "jet_and_elias_armors:hedge_knight_armor_leggings",
+    "jet_and_elias_armors:hedge_knight_helmet_no_shadow_helmet"
+  ]
+}

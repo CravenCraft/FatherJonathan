@@ -1,0 +1,838 @@
+[
+    {
+        "bothhandsitem": [    
+            "minecraft:iron_sword",
+            "minecraft:iron_axe",
+            "simplyswords:iron_chakram",
+            "simplyswords:iron_rapier",
+            "simplyswords:iron_warglaive",
+            "simplyswords:iron_spear",
+            "simplyswords:iron_sai",
+            "simplyswords:iron_cutlass",
+            "simplyswords:iron_longsword"
+        ],
+        "gamestage": "tier2_one_handed",
+        "message": "Unlock Tier 2 One Handed Weapons",
+        "potion": "minecraft:weakness,20,1",
+        "timeout": 20
+    },
+    {
+        "bothhandsitem": [
+            "simplyswords:iron_glaive",
+            "simplyswords:iron_scythe",
+            "simplyswords:iron_katana",
+            "simplyswords:iron_claymore",
+            "simplyswords:iron_twinblade",
+            "simplyswords:iron_greathammer",
+            "simplyswords:iron_greataxe",
+            "simplyswords:iron_halberd"
+        ],
+        "gamestage": "tier2_two_handed",
+        "message": "Unlock Tier 2 Two Handed Weapons",
+        "potion": "minecraft:weakness,20,1",
+        "timeout": 20
+    },
+    {
+        "bothhandsitem": [
+            "minecraft:diamond_sword",
+            "minecraft:diamond_axe",
+            "simplyswords:diamond_chakram",
+            "simplyswords:diamond_rapier",
+            "simplyswords:diamond_warglaive",
+            "simplyswords:diamond_spear",
+            "simplyswords:diamond_sai",
+            "simplyswords:diamond_cutlass",
+            "simplyswords:diamond_longsword"
+        ],
+        "gamestage": "tier3_one_handed",
+        "message": "Unlock Tier 3 One Handed Weapons",
+        "potion": "minecraft:weakness,20,1",
+        "timeout": 20
+    },
+    {
+        "bothhandsitem": [
+            "simplyswords:diamond_katana",
+            "simplyswords:diamond_scythe",
+            "simplyswords:diamond_glaive",
+            "simplyswords:diamond_claymore",
+            "simplyswords:diamond_twinblade",
+            "simplyswords:diamond_greathammer",
+            "simplyswords:diamond_greataxe",
+            "simplyswords:diamond_halberd"
+        ],
+        "gamestage": "tier3_two_handed",
+        "message": "Unlock Tier 3 Two Handed Weapons",
+        "potion": "minecraft:weakness,20,1",
+        "timeout": 20
+    },
+    {
+        "bothhandsitem": [
+            "minecraft:netherite_sword",
+            "minecraft:netherite_axe",
+            "simplyswords:netherite_chakram",
+            "simplyswords:netherite_rapier",
+            "simplyswords:netherite_warglaive",
+            "simplyswords:netherite_spear",
+            "simplyswords:netherite_sai",
+            "simplyswords:netherite_cutlass",
+            "simplyswords:netherite_longsword"
+          ],
+          "gamestage": "tier4_one_handed",
+          "message": "Unlock Tier 4 One Handed Weapons",
+          "potion": "minecraft:weakness,20,1",
+          "timeout": 20
+    },
+    {
+        "bothhandsitem": [
+            "simplyswords:netherite_katana",
+            "simplyswords:netherite_scythe",
+            "simplyswords:netherite_glaive",
+            "simplyswords:netherite_claymore",
+            "simplyswords:netherite_twinblade",
+            "simplyswords:netherite_greathammer",
+            "simplyswords:netherite_greataxe",
+            "simplyswords:netherite_halberd"
+        ],
+        "gamestage": "tier4_two_handed",
+        "message": "Unlock Tier 4 Two Handed Weapons",
+        "potion": "minecraft:weakness,20,1",
+        "timeout": 20
+    },
+    {
+        "bothhandsitem": [
+            "simplyswords:runic_chakram",
+            "simplyswords:runic_rapier",
+            "simplyswords:runic_warglaive",
+            "simplyswords:runic_spear",
+            "simplyswords:runic_sai",
+            "simplyswords:runic_cutlass",
+            "simplyswords:runic_longsword"
+          ],
+          "gamestage": "tier5_one_handed",
+          "message": "Unlock Tier 5 One Handed Weapons",
+          "potion": "minecraft:weakness,20,1",
+          "timeout": 20
+    },
+    {
+        "bothhandsitem": [
+            "simplyswords:runic_scythe",
+            "simplyswords:runic_glaive",
+            "simplyswords:runic_katana",
+            "simplyswords:runic_claymore",
+            "simplyswords:runic_twinblade",
+            "simplyswords:runic_greathammer",
+            "simplyswords:runic_greataxe",
+            "simplyswords:runic_halberd"
+        ],
+        "gamestage": "tier5_two_handed",
+        "message": "Unlock Tier 5 Two Handed Weapons",
+        "potion": "minecraft:weakness,20,1",
+        "timeout": 20
+    },
+    {
+        "bothhandsitem": [
+            "simplyswords:stormbringer",
+            "simplyswords:watching_warglaive",
+            "simplyswords:toxic_longsword",
+            "simplyswords:emberblade",
+            "simplyswords:frostfall",
+            "simplyswords:molten_edge",
+            "simplyswords:livyatan",
+            "simplyswords:soulrender",
+            "simplyswords:soulstealer",
+            "simplyswords:mjolnir",
+            "simplyswords:shadowsting",
+            "simplyswords:dormant_relic",
+            "simplyswords:tainted_relic",
+            "simplyswords:righteous_relic",
+            "simplyswords:sunfire",
+            "simplyswords:harbinger"
+          ],
+        "gamestage": "unique_one_handed",
+        "message": "Unlock Unique One Handed Weapons",
+          "potion": "minecraft:weakness,20,1",
+          "timeout": 20
+    },
+    {
+        "bothhandsitem": [
+            "simplyswords:watcher_claymore",
+            "simplyswords:brimstone_claymore",
+            "simplyswords:storms_edge",
+            "simplyswords:bramblethorn",
+            "simplyswords:hearthflame",
+            "simplyswords:soulkeeper",
+            "simplyswords:twisted_blade",
+            "simplyswords:soulpyre",
+            "simplyswords:icewhisper",
+            "simplyswords:arcanethyst",
+            "simplyswords:thunderbrand",
+            "simplyswords:slumbering_lichblade",
+            "simplyswords:waking_lichblade",
+            "simplyswords:awakened_lichblade"
+        ],
+        "gamestage": "unique_two_handed",
+        "message": "Unlock Unique Two Handed Weapons",
+        "potion": "minecraft:weakness,20,1",
+        "timeout": 20
+    },
+
+    {
+        "helmet": [
+            "minecraft:chainmail_helmet",
+            "jet_and_elias_armors:drifter_hood_armor_helmet",
+            "jet_and_elias_armors:raider_armor_helmet",
+            "jet_and_elias_armors:japanese_footsoldier_helmet"
+        ],
+        "gamestage": "l1_armor",
+        "message": "Unlock Tier 1 Light Armor",
+        "potion": "minecraft:weakness,20,1",
+        "timeout": 20
+    },
+    {
+        "chestplate": [
+            "minecraft:chainmail_chestplate",      
+            "jet_and_elias_armors:raider_armor_chestplate",        
+            "jet_and_elias_armors:japanese_footsoldier_chestplate"
+        ],
+        "gamestage": "l1_armor",
+        "message": "Unlock Tier 1 Light Armor",
+        "potion": "minecraft:weakness,20,1",
+        "timeout": 20
+    },
+    {
+        "leggings": [
+            "minecraft:chainmail_leggings",
+            "jet_and_elias_armors:raider_armor_leggings",
+            "jet_and_elias_armors:japanese_footsoldier_leggings"
+        ],
+        "gamestage": "l1_armor",
+        "message": "Unlock Tier 1 Light Armor",
+        "potion": "minecraft:weakness,20,1",
+        "timeout": 20
+    },
+    {
+        "boots": [
+            "minecraft:chainmail_boots",
+            "jet_and_elias_armors:raider_armor_boots"
+        ],
+        "gamestage": "l1_armor",
+        "message": "Unlock Tier 1 Light Armor",
+        "potion": "minecraft:weakness,20,1",
+        "timeout": 20
+    },
+
+    {
+        "chestplate": [
+            "jet_and_elias_armors:raider_light_variant_chestplate",
+            "jet_and_elias_armors:mercenary_light_chestplate"
+        ],
+        "gamestage": "l2_armor",
+        "message": "Unlock Tier 2 Light Armor",
+        "potion": "minecraft:weakness,20,1",
+        "timeout": 20
+    },
+
+    {
+        "helmet": [
+            "jet_and_elias_armors:ronin_robe_red_helmet",
+            "jet_and_elias_armors:wokou_armor_black_helmet",
+            "jet_and_elias_armors:wokou_armor_blue_helmet",
+            "jet_and_elias_armors:wokou_armor_helmet"
+        ],
+        "gamestage": "l3_armor",
+        "message": "Unlock Tier 3 Light Armor",
+        "potion": "minecraft:weakness,20,1",
+        "timeout": 20
+    },
+    {
+        "chestplate": [
+            "jet_and_elias_armors:ronin_robe_black_chestplate",
+            "jet_and_elias_armors:ronin_robe_black_floral_chestplate",
+            "jet_and_elias_armors:ronin_robe_blue_black_sleeves_chestplate",
+            "jet_and_elias_armors:ronin_robe_blue_white_sleeves_chestplate",
+            "jet_and_elias_armors:ronin_robe_red_black_sleeves_chestplate",
+            "jet_and_elias_armors:ronin_robe_red_chestplate",
+            "jet_and_elias_armors:ronin_robe_red_white_sleeves_chestplate",
+            "jet_and_elias_armors:ronin_robe_white_chestplate",
+            "jet_and_elias_armors:ronin_robe_white_floral_chestplate",
+            "jet_and_elias_armors:wokou_armor_black_chestplate",
+            "jet_and_elias_armors:wokou_armor_chestplate",
+            "jet_and_elias_armors:wokou_armor_blue_chestplate"
+        ],
+        "gamestage": "l3_armor",
+        "message": "Unlock Tier 3 Light Armor",
+        "potion": "minecraft:weakness,20,1",
+        "timeout": 20
+    },
+    {
+        "leggings": [
+            "jet_and_elias_armors:ronin_set_leggings"
+        ],
+        "gamestage": "l3_armor",
+        "message": "Unlock Tier 3 Light Armor",
+        "potion": "minecraft:weakness,20,1",
+        "timeout": 20
+    },
+    {
+        "boots": [
+            "jet_and_elias_armors:ronin_set_boots"
+        ],
+        "gamestage": "l3_armor",
+        "message": "Unlock Tier 3 Light Armor",
+        "potion": "minecraft:weakness,20,1",
+        "timeout": 20
+    },
+
+    {
+        "helmet": [
+            "jet_and_elias_armors:beehive_armet_helmet",
+            "jet_and_elias_armors:crusader_armor_helmet",
+            "jet_and_elias_armors:estanese_crusader_armor_helmet",
+            "jet_and_elias_armors:refalian_crusader_armor_helmet"
+        ],
+        "gamestage": "l4_armor",
+        "message": "Unlock Tier 4 Light Armor",
+        "potion": "minecraft:weakness,20,1",
+        "timeout": 20
+    },
+    {
+        "chestplate": [
+
+            "jet_and_elias_armors:iron_ronin_chestplate",
+            "jet_and_elias_armors:crusader_armor_chestplate",
+            "jet_and_elias_armors:estanese_crusader_armor_chestplate",
+            "jet_and_elias_armors:refalian_crusader_armor_chestplate"
+        ],
+        "gamestage": "l4_armor",
+        "message": "Unlock Tier 4 Light Armor",
+        "potion": "minecraft:weakness,20,1",
+        "timeout": 20
+    },
+    {
+        "leggings": [
+
+            "jet_and_elias_armors:crusader_armor_leggings",
+            "jet_and_elias_armors:estanese_crusader_armor_leggings",
+            "jet_and_elias_armors:refalian_crusader_armor_leggings"
+        ],
+        "gamestage": "l4_armor",
+        "message": "Unlock Tier 4 Light Armor",
+        "potion": "minecraft:weakness,20,1",
+        "timeout": 20
+    },
+    {
+        "boots": [
+            "jet_and_elias_armors:crusader_armor_boots"
+        ],
+        "gamestage": "l4_armor",
+        "message": "Unlock Tier 4 Light Armor",
+        "potion": "minecraft:weakness,20,1",
+        "timeout": 20
+    },
+
+    {
+        "helmet": [
+            "jet_and_elias_armors:ronin_set_helmet",
+            "jet_and_elias_armors:legacy_samurai_armor_blue_helmet",
+            "jet_and_elias_armors:legacy_samurai_armor_helmet"
+        ],
+        "gamestage": "l5_armor",
+        "message": "Unlock Tier 5 Light Armor",
+        "potion": "minecraft:weakness,20,1",
+        "timeout": 20
+    },
+    {
+        "chestplate": [
+            "jet_and_elias_armors:ronin_set_chestplate",
+            "jet_and_elias_armors:legacy_samurai_armor_blue_chestplate",
+            "jet_and_elias_armors:legacy_samurai_armor_chestplate"
+        ],
+        "gamestage": "l5_armor",
+        "message": "Unlock Tier 5 Light Armor",
+        "potion": "minecraft:weakness,20,1",
+        "timeout": 20
+    },
+
+    {
+        "helmet": [
+            "jet_and_elias_armors:samurai_set_helmet",
+            "jet_and_elias_armors:blue_samurai_set_helmet"
+        ],
+        "gamestage": "l6_armor",
+        "message": "Unlock Tier 6 Light Armor",
+        "potion": "minecraft:weakness,20,1",
+        "timeout": 20
+    },
+    {
+        "chestplate": [
+            "jet_and_elias_armors:samurai_set_chestplate",
+            "jet_and_elias_armors:blue_samurai_set_chestplate"
+        ],
+        "gamestage": "l6_armor",
+        "message": "Unlock Tier 6 Light Armor",
+        "potion": "minecraft:weakness,20,1",
+        "timeout": 20
+    },
+    {
+        "leggings": [
+
+            "jet_and_elias_armors:samurai_set_leggings",
+            "jet_and_elias_armors:blue_samurai_set_leggings"
+        ],
+        "gamestage": "l6_armor",
+        "message": "Unlock Tier 6 Light Armor",
+        "potion": "minecraft:weakness,20,1",
+        "timeout": 20
+    },
+    {
+        "boots": [
+
+            "jet_and_elias_armors:samurai_set_boots",
+            "jet_and_elias_armors:blue_samurai_set_boots"
+        ],
+        "gamestage": "l6_armor",
+        "message": "Unlock Tier 6 Light Armor",
+        "potion": "minecraft:weakness,20,1",
+        "timeout": 20
+    },
+
+    {
+        "helmet": [
+            "jet_and_elias_armors:gladiator_armor_helmet"
+        ],
+        "gamestage": "l7_armor",
+        "message": "Unlock Tier 7 Light Armor",
+        "potion": "minecraft:weakness,20,1",
+        "timeout": 20
+    },
+    {
+        "chestplate": [
+            "jet_and_elias_armors:gladiator_armor_chestplate"
+        ],
+        "gamestage": "l7_armor",
+        "message": "Unlock Tier 7 Light Armor",
+        "potion": "minecraft:weakness,20,1",
+        "timeout": 20
+    },
+    {
+        "leggings": [
+            "jet_and_elias_armors:gladiator_armor_leggings"
+        ],
+        "gamestage": "l7_armor",
+        "message": "Unlock Tier 7 Light Armor",
+        "potion": "minecraft:weakness,20,1",
+        "timeout": 20
+    },
+    {
+        "boots": [
+            "jet_and_elias_armors:gladiator_armor_boots"
+        ],
+        "gamestage": "l7_armor",
+        "message": "Unlock Tier 7 Light Armor",
+        "potion": "minecraft:weakness,20,1",
+        "timeout": 20
+    },
+
+    {
+        "helmet": [
+            "jet_and_elias_armors:takemaru_armor_helmet"
+        ],
+        "gamestage": "l8_armor",
+        "message": "Unlock Tier 8 Light Armor",
+        "potion": "minecraft:weakness,20,1",
+        "timeout": 20
+    },
+    {
+        "chestplate": [
+            "jet_and_elias_armors:takemaru_armor_chestplate"
+        ],
+        "gamestage": "l8_armor",
+        "message": "Unlock Tier 8 Light Armor",
+        "potion": "minecraft:weakness,20,1",
+        "timeout": 20
+    },
+    {
+        "leggings": [
+            "jet_and_elias_armors:takemaru_armor_leggings"
+        ],
+        "gamestage": "l8_armor",
+        "message": "Unlock Tier 8 Light Armor",
+        "potion": "minecraft:weakness,20,1",
+        "timeout": 20
+    },
+    {
+        "boots": [
+            "jet_and_elias_armors:takemaru_armor_boots"
+        ],
+        "gamestage": "l8_armor",
+        "message": "Unlock Tier 8 Light Armor",
+        "potion": "minecraft:weakness,20,1",
+        "timeout": 20
+    },
+
+    {
+        "helmet": [
+            "minecraft:iron_helmet",
+            "jet_and_elias_armors:knight_armet_helmet",
+            "jet_and_elias_armors:bandit_armor_helmet",
+            "jet_and_elias_armors:hedge_knight_armor_helmet",
+            "jet_and_elias_armors:hedge_knight_helmet_no_shadow_helmet"
+        ],
+        "gamestage": "h1_armor",
+        "message": "Unlock Tier 1 Heavy Armor",
+        "potion": "minecraft:weakness,20,1",
+        "timeout": 20
+    },
+    {
+        "chestplate": [
+            "minecraft:iron_chestplate",
+            "jet_and_elias_armors:bandit_armor_chestplate",
+            "jet_and_elias_armors:hedge_knight_armor_chestplate"
+        ],
+        "gamestage": "h1_armor",
+        "message": "Unlock Tier 1 Heavy Armor",
+        "potion": "minecraft:weakness,20,1",
+        "timeout": 20
+    },
+    {
+        "leggings": [
+            "minecraft:iron_leggings",
+            "jet_and_elias_armors:bandit_armor_leggings",
+            "jet_and_elias_armors:hedge_knight_armor_leggings"
+        ],
+        "gamestage": "h1_armor",
+        "message": "Unlock Tier 1 Heavy Armor",
+        "potion": "minecraft:weakness,20,1",
+        "timeout": 20
+    },
+    {
+        "boots": [
+            "minecraft:iron_boots",
+            "jet_and_elias_armors:bandit_armor_boots",
+            "jet_and_elias_armors:hedge_knight_armor_boots"
+        ],
+        "gamestage": "h1_armor",
+        "message": "Unlock Tier 1 Heavy Armor",
+        "potion": "minecraft:weakness,20,1",
+        "timeout": 20
+    },
+
+    {
+        "helmet": [
+            "jet_and_elias_armors:menacing_knight_helmet_big_helmet",
+            "jet_and_elias_armors:menacing_knight_set_helmet",
+            "jet_and_elias_armors:mercenary_gear_helmet",
+            "jet_and_elias_armors:brute_armor_helmet",
+            "jet_and_elias_armors:dreadnought_armor_helmet"
+        ],
+        "gamestage": "h2_armor",
+        "message": "Unlock Tier 2 Heavy Armor",
+        "potion": "minecraft:weakness,20,1",
+        "timeout": 20
+    },
+    {
+        "chestplate": [
+            "jet_and_elias_armors:mercenary_gear_chestplate",
+            "jet_and_elias_armors:brute_armor_chestplate",
+            "jet_and_elias_armors:dreadnought_armor_chestplate"
+        ],
+        "gamestage": "h2_armor",
+        "message": "Unlock Tier 2 Heavy Armor",
+        "potion": "minecraft:weakness,20,1",
+        "timeout": 20
+    },
+    {
+        "leggings": [
+            "jet_and_elias_armors:mercenary_gear_leggings",
+            "jet_and_elias_armors:brute_armor_leggings",
+            "jet_and_elias_armors:dreadnought_armor_leggings"
+        ],
+        "gamestage": "h2_armor",
+        "message": "Unlock Tier 2 Heavy Armor",
+        "potion": "minecraft:weakness,20,1",
+        "timeout": 20
+    },
+    {
+        "boots": [
+
+            "jet_and_elias_armors:mercenary_gear_boots",
+            "jet_and_elias_armors:brute_armor_boots",
+            "jet_and_elias_armors:dreadnought_armor_boots"
+        ],
+        "gamestage": "h2_armor",
+        "message": "Unlock Tier 2 Heavy Armor",
+        "potion": "minecraft:weakness,20,1",
+        "timeout": 20
+    },
+
+    {
+        "helmet": [
+            "minecraft:diamond_helmet",
+            "jet_and_elias_armors:knight_f_blue_helmet",
+            "jet_and_elias_armors:knight_f_pink_helmet",
+            "jet_and_elias_armors:knight_f_red_helmet",
+            "jet_and_elias_armors:knight_f_white_helmet",
+            "jet_and_elias_armors:knight_m_blue_helmet",
+            "jet_and_elias_armors:knight_m_pink_helmet",
+            "jet_and_elias_armors:knight_m_red_helmet",
+            "jet_and_elias_armors:knight_m_white_helmet",
+            "jet_and_elias_armors:sentinel_set_helmet"
+        ],
+        "gamestage": "h3_armor",
+        "message": "Unlock Tier 3 Heavy Armor",
+        "potion": "minecraft:weakness,20,1",
+        "timeout": 20
+    },
+    {
+        "chestplate": [
+            "minecraft:diamond_chestplate",
+            "jet_and_elias_armors:knight_f_blue_chestplate",
+            "jet_and_elias_armors:knight_f_pink_chestplate",
+            "jet_and_elias_armors:knight_f_red_chestplate",
+            "jet_and_elias_armors:knight_f_white_chestplate",
+            "jet_and_elias_armors:knight_m_blue_chestplate",
+            "jet_and_elias_armors:knight_m_pink_chestplate",
+            "jet_and_elias_armors:knight_m_red_chestplate",
+            "jet_and_elias_armors:knight_m_white_chestplate",
+            "jet_and_elias_armors:sentinel_set_chestplate"
+        ],
+        "gamestage": "h3_armor",
+        "message": "Unlock Tier 3 Heavy Armor",
+        "potion": "minecraft:weakness,20,1",
+        "timeout": 20
+    },
+    {
+        "leggings": [
+            "minecraft:diamond_leggings",
+            "jet_and_elias_armors:knight_f_pink_leggings",
+            "jet_and_elias_armors:knight_m_pink_leggings",
+            "jet_and_elias_armors:sentinel_set_leggings"
+        ],
+        "gamestage": "h3_armor",
+        "message": "Unlock Tier 3 Heavy Armor",
+        "potion": "minecraft:weakness,20,1",
+        "timeout": 20
+    },
+    {
+        "boots": [
+            "minecraft:diamond_boots",
+            "jet_and_elias_armors:knight_m_pink_boots",
+            "jet_and_elias_armors:sentinel_set_boots"
+        ],
+        "gamestage": "h3_armor",
+        "message": "Unlock Tier 3 Heavy Armor",
+        "potion": "minecraft:weakness,20,1",
+        "timeout": 20
+    },
+
+    {
+        "helmet": [
+            "jet_and_elias_armors:blue_gold_mercenary_heavy_helmet",
+            "jet_and_elias_armors:blue_mercenary_heavy_helmet",
+            "jet_and_elias_armors:blue_corinthos_helmet",
+            "jet_and_elias_armors:blue_gold_corinthos_helmet",
+            "jet_and_elias_armors:pink_gold_mercenary_heavy_helmet",
+            "jet_and_elias_armors:pink_mercenary_heavy_helmet",
+            "jet_and_elias_armors:pink_corinthos_helmet",
+            "jet_and_elias_armors:pink_gold_corinthos_helmet",
+            "jet_and_elias_armors:red_corinthos_helmet",
+            "jet_and_elias_armors:red_gold_corinthos_helmet",
+            "jet_and_elias_armors:red_gold_mercenary_heavy_helmet",
+            "jet_and_elias_armors:red_mercenary_heavy_helmet",
+            "jet_and_elias_armors:white_gold_mercenary_heavy_helmet",
+            "jet_and_elias_armors:white_mercenary_heavy_helmet",
+            "jet_and_elias_armors:white_corinthos_helmet",
+            "jet_and_elias_armors:white_gold_corinthos_helmet",
+            "jet_and_elias_armors:the_dames_armor_helmet"
+        ],
+        "gamestage": "h4_armor",
+        "message": "Unlock Tier 4 Heavy Armor",
+        "potion": "minecraft:weakness,20,1",
+        "timeout": 20
+    },
+    {
+        "chestplate": [
+            "jet_and_elias_armors:heavy_knight_armor_chestplate",
+            "jet_and_elias_armors:blue_gold_mercenary_heavy_chestplate",
+            "jet_and_elias_armors:blue_mercenary_heavy_chestplate",
+            "jet_and_elias_armors:pink_gold_mercenary_heavy_chestplate",
+            "jet_and_elias_armors:pink_mercenary_heavy_chestplate",
+            "jet_and_elias_armors:red_gold_mercenary_heavy_chestplate",
+            "jet_and_elias_armors:red_mercenary_heavy_chestplate",
+            "jet_and_elias_armors:white_gold_mercenary_heavy_chestplate",
+            "jet_and_elias_armors:white_mercenary_heavy_chestplate",
+            "jet_and_elias_armors:the_dames_armor_chestplate"
+        ],
+        "gamestage": "h4_armor",
+        "message": "Unlock Tier 4 Heavy Armor",
+        "potion": "minecraft:weakness,20,1",
+        "timeout": 20
+    },
+    {
+        "leggings": [
+            "jet_and_elias_armors:heavy_knight_armor_leggings",
+            "jet_and_elias_armors:red_gold_mercenary_heavy_leggings",
+            "jet_and_elias_armors:red_mercenary_heavy_leggings",
+            "jet_and_elias_armors:the_dames_armor_leggings"
+        ],
+        "gamestage": "h4_armor",
+        "message": "Unlock Tier 4 Heavy Armor",
+        "potion": "minecraft:weakness,20,1",
+        "timeout": 20
+    },
+    {
+        "boots": [
+            "jet_and_elias_armors:red_gold_mercenary_heavy_boots",
+            "jet_and_elias_armors:red_mercenary_heavy_boots"
+        ],
+        "gamestage": "h4_armor",
+        "message": "Unlock Tier 4 Heavy Armor",
+        "potion": "minecraft:weakness,20,1",
+        "timeout": 20
+    },
+
+    {
+        "helmet": [
+            "minecraft:netherite_helmet",
+            "jet_and_elias_armors:bulwark_armor_helmet",
+            "jet_and_elias_armors:dark_crusader_armor_helmet",
+            "jet_and_elias_armors:death_knight_armor_helmet"
+        ],
+        "gamestage": "h5_armor",
+        "message": "Unlock Tier 5 Heavy Armor",
+        "potion": "minecraft:weakness,20,1",
+        "timeout": 20
+    },
+    {
+        "chestplate": [
+            "minecraft:netherite_chestplate",
+            "jet_and_elias_armors:bulwark_armor_chestplate",
+            "jet_and_elias_armors:dark_crusader_armor_chestplate",
+            "jet_and_elias_armors:death_knight_armor_chestplate"
+        ],
+        "gamestage": "h5_armor",
+        "message": "Unlock Tier 5 Heavy Armor",
+        "potion": "minecraft:weakness,20,1",
+        "timeout": 20
+    },
+    {
+        "leggings": [
+            "minecraft:netherite_leggings",
+            "jet_and_elias_armors:bulwark_armor_leggings",
+            "jet_and_elias_armors:dark_crusader_armor_leggings",
+            "jet_and_elias_armors:death_knight_armor_leggings"
+        ],
+        "gamestage": "h5_armor",
+        "message": "Unlock Tier 5 Heavy Armor",
+        "potion": "minecraft:weakness,20,1",
+        "timeout": 20
+    },
+    {
+        "boots": [
+            "minecraft:netherite_boots",
+            "jet_and_elias_armors:bulwark_armor_boots",
+            "jet_and_elias_armors:dark_crusader_armor_boots",
+            "jet_and_elias_armors:death_knight_armor_boots"
+        ],
+        "gamestage": "h5_armor",
+        "message": "Unlock Tier 5 Heavy Armor",
+        "potion": "minecraft:weakness,20,1",
+        "timeout": 20
+    },
+
+    {
+        "helmet": [
+            "jet_and_elias_armors:elite_sentinel_set_helmet"
+        ],
+        "gamestage": "h6_armor",
+        "message": "Unlock Tier 6 Heavy Armor",
+        "potion": "minecraft:weakness,20,1",
+        "timeout": 20
+    },
+    {
+        "chestplate": [
+            "jet_and_elias_armors:elite_sentinel_set_chestplate"
+        ],
+        "gamestage": "h6_armor",
+        "message": "Unlock Tier 6 Heavy Armor",
+        "potion": "minecraft:weakness,20,1",
+        "timeout": 20
+    },
+
+    {
+        "helmet": [
+            "jet_and_elias_armors:avalon_armor_helmet",
+            "jet_and_elias_armors:avalon_cursed_helmet_helmet",
+            "jet_and_elias_armors:avalons_helmet_masked_helmet"
+        ],
+        "gamestage": "h7_armor",
+        "message": "Unlock Tier 7 Heavy Armor",
+        "potion": "minecraft:weakness,20,1",
+        "timeout": 20
+    },
+    {
+        "chestplate": [
+            "jet_and_elias_armors:avalon_armor_chestplate"
+        ],
+        "gamestage": "h7_armor",
+        "message": "Unlock Tier 7 Heavy Armor",
+        "potion": "minecraft:weakness,20,1",
+        "timeout": 20
+    },
+    {
+        "leggings": [
+            "jet_and_elias_armors:avalon_armor_leggings"
+        ],
+        "gamestage": "h7_armor",
+        "message": "Unlock Tier 7 Heavy Armor",
+        "potion": "minecraft:weakness,20,1",
+        "timeout": 20
+    },
+    {
+        "boots": [
+            "jet_and_elias_armors:avalon_armor_boots"
+        ],
+        "gamestage": "h7_armor",
+        "message": "Unlock Tier 7 Heavy Armor",
+        "potion": "minecraft:weakness,20,1",
+        "timeout": 20
+    },
+
+    {
+        "helmet": [
+            "jet_and_elias_armors:big_havoc_knighe_helmet_helmet",
+            "jet_and_elias_armors:havoc_knight_armor_helmet"
+        ],
+        "gamestage": "h8_armor",
+        "message": "Unlock Tier 8 Heavy Armor",
+        "potion": "minecraft:weakness,20,1",
+        "timeout": 20
+    },
+    {
+        "chestplate": [
+            "jet_and_elias_armors:havoc_knight_armor_chestplate"
+        ],
+        "gamestage": "h8_armor",
+        "message": "Unlock Tier 8 Heavy Armor",
+        "potion": "minecraft:weakness,20,1",
+        "timeout": 20
+    },
+    {
+        "leggings": [
+            "jet_and_elias_armors:havoc_knight_armor_leggings"
+        ],
+        "gamestage": "h8_armor",
+        "message": "Unlock Tier 8 Heavy Armor",
+        "potion": "minecraft:weakness,20,1",
+        "timeout": 20
+    },
+    {
+        "boots": [
+            "jet_and_elias_armors:havoc_knight_armor_boots"
+        ],
+        "gamestage": "h8_armor",
+        "message": "Unlock Tier 8 Heavy Armor",
+        "potion": "minecraft:weakness,20,1",
+        "timeout": 20
+    }
+]

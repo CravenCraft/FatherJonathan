@@ -1,0 +1,21 @@
+{
+    "replace": false,
+    "values": [
+        "#papajohns:armor/l1_armor",
+        "#papajohns:armor/l2_armor",
+        "#papajohns:armor/l3_armor",
+        "#papajohns:armor/l4_armor",
+        "#papajohns:armor/l5_armor",
+        "#papajohns:armor/l6_armor",
+        "#papajohns:armor/l7_armor",
+        "#papajohns:armor/l8_armor",
+        "#papajohns:armor/h1_armor",
+        "#papajohns:armor/h2_armor",
+        "#papajohns:armor/h3_armor",
+        "#papajohns:armor/h4_armor",
+        "#papajohns:armor/h5_armor",
+        "#papajohns:armor/h6_armor",
+        "#papajohns:armor/h7_armor",
+        "#papajohns:armor/h8_armor"
+    ]
+}

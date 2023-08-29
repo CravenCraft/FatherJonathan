@@ -1,0 +1,218 @@
+{
+	"h9ng4xw9l62jto9r": {
+		"definition": "root_resistance+1%",
+		"x": 0,
+		"y": 500,
+		"root": true
+	},
+	"wjfkx1bujznh04ew": {
+		"definition": "heavy_tier1_unlock",
+		"x": 200,
+		"y": 300,
+		"root": false
+	},
+	"mzr40yyi23uf1psj": {
+		"definition": "heavy_tier2_unlock",
+		"x": -200,
+		"y": 300,
+		"root": false
+	},
+	"gw7wzpdtxz5b2w4k": {
+		"definition": "heavy_tier3_unlock",
+		"x": 300,
+		"y": -200,
+		"root": false
+	},
+	"6caxs7u5m1nhlzr8": {
+		"definition": "heavy_tier4_unlock",
+		"x": -300,
+		"y": -200,
+		"root": false
+	},
+	"hmiojdniacvzos86": {
+		"definition": "heavy_tier5_unlock",
+		"x": 0,
+		"y": -350,
+		"root": false
+	},
+	"57fxl4szg3dtzxpo": {
+		"definition": "resistance+1%",
+		"x": -100,
+		"y": -300,
+		"root": false
+	},
+	"pqf7pmhylqf0de4s": {
+		"definition": "block_stamina_reduction+2",
+		"x": 100,
+		"y": -300,
+		"root": false
+	},
+	"11ymzmsqn6edoyiq": {
+		"definition": "light_tier1_unlock",
+		"x": 0,
+		"y": 400,
+		"root": false
+	},
+	"xz5wvztwf45unexu": {
+		"definition": "block_stamina_reduction+2",
+		"x": 0,
+		"y": -250,
+		"root": false
+	},
+	"ing98cutcptpfty8": {
+		"definition": "resistance+1%",
+		"x": 100,
+		"y": 300,
+		"root": false
+	},
+	"5vwtj7chi3mx87bp": {
+		"definition": "roll_stamina_reduction+2",
+		"x": -100,
+		"y": 300,
+		"root": false
+	},
+	"nd5tyvfxmlpqfe4l": {
+		"definition": "resistance+1%",
+		"x": 300,
+		"y": -50,
+		"root": false
+	},
+	"9zf94yiwztpvzrue": {
+		"definition": "block_stamina_reduction+2",
+		"x": 300,
+		"y": 100,
+		"root": false
+	},
+	"grgsqt29mhgnbjf9": {
+		"definition": "resistance+1%",
+		"x": -300,
+		"y": 100,
+		"root": false
+	},
+	"i06y9q9kp6nkw6vg": {
+		"definition": "block_stamina_reduction+2",
+		"x": -300,
+		"y": -50,
+		"root": false
+	},
+	"b3cxh0ryiavwlvdh": {
+		"definition": "roll_stamina_reduction+2",
+		"x": -200,
+		"y": -50,
+		"root": false
+	},
+	"4gzacgyexuyegsfc": {
+		"definition": "resistance+1%",
+		"x": -200,
+		"y": -150,
+		"root": false
+	},
+	"r2l6g5zrxc62da1f": {
+		"definition": "roll_stamina_reduction+2",
+		"x": 200,
+		"y": -150,
+		"root": false
+	},
+	"sioiz73o8smp5o8o": {
+		"definition": "resistance+1%",
+		"x": 200,
+		"y": -50,
+		"root": false
+	},
+	"0gkdaltxcbxp0hr3": {
+		"definition": "light_tier2_unlock",
+		"x": -200,
+		"y": 100,
+		"root": false
+	},
+	"08awehhehvbu3nhe": {
+		"definition": "light_tier3_unlock",
+		"x": 200,
+		"y": 100,
+		"root": false
+	},
+	"hgy53w9hen1p50ls": {
+		"definition": "roll_stamina_reduction+2",
+		"x": 150,
+		"y": 200,
+		"root": false
+	},
+	"4zwv4c10dlfcdk19": {
+		"definition": "resistance+1%",
+		"x": -150,
+		"y": 200,
+		"root": false
+	},
+	"m3ugwix1115r5ace": {
+		"definition": "light_tier5_unlock",
+		"x": 100,
+		"y": -200,
+		"root": false
+	},
+	"s4alwjhjevasfcsm": {
+		"definition": "light_tier4_unlock",
+		"x": -100,
+		"y": -200,
+		"root": false
+	},
+	"r9gt2nqb6oqaanmm": {
+		"definition": "light_tier6_unlock",
+		"x": -100,
+		"y": -100,
+		"root": false
+	},
+	"bpry5wobd24f9eo4": {
+		"definition": "heavy_tier6_unlock",
+		"x": 100,
+		"y": -100,
+		"root": false
+	},
+	"8o8qlgotu9iblqm5": {
+		"definition": "heavy_tier7_unlock",
+		"x": 50,
+		"y": 0,
+		"root": false
+	},
+	"yt9tldmhhj2e0t3k": {
+		"definition": "light_tier7_unlock",
+		"x": -50,
+		"y": 0,
+		"root": false
+	},
+	"vl5sm0zbi7saegxs": {
+		"definition": "heavy_tier8_unlock",
+		"x": 100,
+		"y": 100,
+		"root": false
+	},
+	"6kocqipoaaaxphpw": {
+		"definition": "light_tier7_unlock",
+		"x": -100,
+		"y": 100,
+		"root": false
+	},
+	"v9x0vaq1gathxizo": {
+		"definition": "block_stamina_reduction+2",
+		"x": 100,
+		"y": 0,
+		"root": false
+	},
+	"u7wasm1x1w0l6zne": {
+		"definition": "roll_stamina_reduction+2",
+		"x": -100,
+		"y": 0,
+		"root": false
+	},
+	"zq879gllb5etumd1": {
+		"definition": "resistance+1%",
+		"x": 0,
+		"y": 150,
+		"root": false
+	},
+	"s2oa7u3n4pukd4rc": {
+		"definition": "resistance+1%",
+		"x": 0,
+		"y": -150,
+		"root": false
+	}
+}

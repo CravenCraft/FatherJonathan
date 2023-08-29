@@ -1,0 +1,13 @@
+{
+    "replace": false,
+    "values": [
+        "jet_and_elias_armors:highlander_set_chestplate",
+        "jet_and_elias_armors:highlander_set_helmet",
+        "jet_and_elias_armors:highlander_set_leggings",
+        "jet_and_elias_armors:highlander_sleeved_chestplate",
+        "jet_and_elias_armors:outrider_set_boots",
+        "jet_and_elias_armors:outrider_set_chestplate",
+        "jet_and_elias_armors:outrider_set_helmet",
+        "jet_and_elias_armors:outrider_set_leggings"
+    ]
+}
