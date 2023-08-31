@@ -87,7 +87,7 @@
   "smokeShadowTransformer": 0,
   "maxLoadedDynamicBlocks": 20,
   "windPhysics": true,
-  "weatherParticles": true,
+  "weatherParticles": false,
   "weatherClearStrength": 0.1,
   "weatherRainStrength": 1.0,
   "weatherThunderStrength": 1.5,
