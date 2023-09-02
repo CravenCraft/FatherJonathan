@@ -1,4 +1,4 @@
-// priority: 0
+priority: 0
 
 // Visit the wiki for more info - https://kubejs.com/
 
@@ -6,7 +6,7 @@ StartupEvents.registry('item', e => {
   // The texture for this item has to be placed in kubejs/assets/kubejs/textures/item/test_item.png
   // If you want a custom item model, you can create one in Blockbench and put it in kubejs/assets/kubejs/models/item/test_item.json
   e.create('blank')
-  e.create('tool_handle')
+  e.create('handle')
   e.create('tough_handle')
   e.create('sheet')
 
@@ -20,15 +20,14 @@ StartupEvents.registry('item', e => {
   e.create('axe_head_runic')
 
   e.create('broad_axe_head')
-  e.create('broad_axe_head')
   e.create('broad_axe_head_gold')
   e.create('broad_axe_head_iron')
   e.create('broad_axe_head_diamond')
   e.create('broad_axe_head_netherite')
   e.create('broad_axe_head_runic')
 
-  e.create('double_edged_blade')
-  e.create('single_edged_blade')
+  e.create('broad_blade')
+  e.create('small_blade')
 
   e.create('hammer_head')
   e.create('rod')
@@ -47,5 +46,5 @@ StartupEvents.registry('item', e => {
 StartupEvents.registry('fluid', e => {
     // The texture for this item has to be placed in kubejs/assets/kubejs/textures/item/test_item.png
     // If you want a custom item model, you can create one in Blockbench and put it in kubejs/assets/kubejs/models/item/test_item.json
-    e.create('molten_bronze').glow(true)
+    e.create('molten_bronze')
   })
