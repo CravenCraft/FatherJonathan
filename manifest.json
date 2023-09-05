@@ -10,7 +10,7 @@
   },
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
-  "name": "Father JonathanClient",
+  "name": "Father Jonathan",
   "author": "",
   "files": [
     {
@@ -119,6 +119,11 @@
       "required": true
     },
     {
+      "projectID": 513688,
+      "fileID": 4673786,
+      "required": true
+    },
+    {
       "projectID": 852665,
       "fileID": 4569847,
       "required": true
@@ -199,6 +204,11 @@
       "required": true
     },
     {
+      "projectID": 485681,
+      "fileID": 3970964,
+      "required": true
+    },
+    {
       "projectID": 509575,
       "fileID": 4193014,
       "required": true
@@ -261,6 +271,11 @@
     {
       "projectID": 404183,
       "fileID": 4046639,
+      "required": true
+    },
+    {
+      "projectID": 853794,
+      "fileID": 4506854,
       "required": true
     },
     {
@@ -444,6 +459,11 @@
       "required": true
     },
     {
+      "projectID": 570354,
+      "fileID": 4677633,
+      "required": true
+    },
+    {
       "projectID": 326652,
       "fileID": 4730029,
       "required": true
@@ -461,6 +481,11 @@
     {
       "projectID": 551586,
       "fileID": 4687111,
+      "required": true
+    },
+    {
+      "projectID": 682515,
+      "fileID": 4441304,
       "required": true
     },
     {
@@ -596,6 +621,11 @@
     {
       "projectID": 422301,
       "fileID": 4637293,
+      "required": true
+    },
+    {
+      "projectID": 686836,
+      "fileID": 4675602,
       "required": true
     },
     {
@@ -739,6 +769,11 @@
       "required": true
     },
     {
+      "projectID": 442508,
+      "fileID": 4151747,
+      "required": true
+    },
+    {
       "projectID": 316582,
       "fileID": 3920717,
       "required": true
@@ -781,6 +816,11 @@
     {
       "projectID": 235577,
       "fileID": 4412862,
+      "required": true
+    },
+    {
+      "projectID": 324973,
+      "fileID": 4437208,
       "required": true
     },
     {
