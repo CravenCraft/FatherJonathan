@@ -1,0 +1,21 @@
+{
+  "type": "create:mechanical_crafting",
+  "pattern": [
+  "W       W",
+  "I IIIII I",
+  "W I   I W",
+  "  II II  "
+  ],
+  "key": {
+    "I": {
+      "item": "create:iron_sheet"
+    },
+    "W": {
+      "item": "minecraft:white_wool"
+    }
+  },
+  "result": {
+    "item": "jet_and_elias_armors:knight_f_white_helmet",
+    "count": 1
+  }
+}

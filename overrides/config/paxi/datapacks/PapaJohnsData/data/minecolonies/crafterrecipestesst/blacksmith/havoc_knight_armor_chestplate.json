@@ -1,0 +1,19 @@
+{
+  "type" : "recipe",
+  "crafter": "blacksmith_crafting",
+  "inputs": [
+    {
+      "item" : "createchromaticreturn:cyber_plating",
+      "count": 12
+    },
+    {
+      "item" : "minecraft:coal",
+      "count": 15
+    }
+  ],
+  "result": "jet_and_elias_armors:havoc_knight_armor_chestplate",
+  "count": 1,
+  "min-building-level" : 5,
+  "research-id" : "minecolonies:technology/shadowsteelplatearmor",
+  "show-tooltip": true
+}

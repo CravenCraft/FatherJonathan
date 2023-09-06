@@ -1,0 +1,23 @@
+{
+  "type" : "recipe",
+  "crafter": "blacksmith_crafting",
+  "inputs": [
+    {
+      "item" : "create:sturdy_sheet",
+      "count": 4
+    },
+    {
+      "item" : "minecraft:leather",
+      "count": 4
+    },
+    {
+      "item" : "minecraft:coal",
+      "count": 5
+    }
+  ],
+  "result": "jet_and_elias_armors:gladiator_armor_chestplate",
+  "count": 1,
+  "min-building-level" : 3,
+  "research-id" : "minecolonies:technology/nethersteelplatearmor",
+  "show-tooltip": true
+}

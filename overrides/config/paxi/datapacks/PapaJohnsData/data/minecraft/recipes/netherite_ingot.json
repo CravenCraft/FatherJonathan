@@ -1,0 +1,111 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "minecraft:netherite_scrap"
+  },
+  "transitionalItem": {
+    "item": "minecraft:netherite_scrap"
+  },
+  "sequence": [
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "minecraft:netherite_scrap"
+        },
+        {
+          "item": "minecraft:netherite_scrap"
+        }
+      ],
+      "results": [
+        {
+          "item": "minecraft:netherite_scrap"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "minecraft:netherite_scrap"
+        },
+        {
+          "item": "minecraft:gold_ingot"
+        }
+      ],
+      "results": [
+        {
+          "item": "minecraft:netherite_scrap"
+        }
+      ]
+    },
+    {
+      "type": "create:filling",
+      "ingredients": [
+        {
+          "item": "minecraft:netherite_scrap"
+        },
+        {
+          "fluid": "minecraft:lava",
+          "nbt": {},
+          "amount": 250
+        }
+      ],
+      "results": [
+        {
+          "item": "minecraft:netherite_scrap"
+        }
+      ]
+    },
+    {
+      "type": "create:pressing",
+      "ingredients": [
+        {
+          "item": "minecraft:netherite_scrap"
+        }
+      ],
+      "results": [
+        {
+          "item": "minecraft:netherite_scrap"
+        }
+      ]
+    },
+    {
+      "type": "create:pressing",
+      "ingredients": [
+        {
+          "item": "minecraft:netherite_scrap"
+        }
+      ],
+      "results": [
+        {
+          "item": "minecraft:netherite_scrap"
+        }
+      ]
+    },
+    {
+      "type": "create:filling",
+      "ingredients": [
+        {
+          "item": "minecraft:netherite_scrap"
+        },
+        {
+          "fluid": "minecraft:water",
+          "nbt": {},
+          "amount": 250
+        }
+      ],
+      "results": [
+        {
+          "item": "minecraft:netherite_scrap"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "item": "minecraft:netherite_ingot"
+    }
+  ],
+  "loops": 2
+}

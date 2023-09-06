@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:nether_brick"
+    },
+    "1": {
+      "item": "minecraft:iron_ingot"
+    },
+    "2": {
+      "item": "minecraft:nether_brick"
+    },
+    "3": {
+      "item": "minecraft:blaze_powder"
+    },
+    "4": {
+      "item": "minecraft:iron_helmet"
+    },
+    "5": {
+      "item": "minecraft:blaze_powder"
+    },
+    "6": {
+      "item": "minecraft:coal_block"
+    },
+    "7": {
+      "item": "minecraft:netherite_scrap"
+    },
+    "8": {
+      "item": "minecraft:coal_block"
+    }
+  },
+  "result": {
+    "item": "jet_and_elias_armors:samurai_set_helmet",
+    "count": 1
+  }
+}

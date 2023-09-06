@@ -1,0 +1,23 @@
+{
+  "type" : "recipe",
+  "crafter": "blacksmith_crafting",
+  "inputs": [
+    {
+      "item" : "create:iron_sheet",
+      "count": 8
+    },
+    {
+      "item" : "minecraft:leather",
+      "count": 2
+    },
+    {
+      "item" : "minecraft:coal",
+      "count": 8
+    }
+  ],
+  "result": "minecraft:iron_chestplate",
+  "count": 1,
+  "min-building-level" : 1,
+  "research-id" : "minecolonies:technology/ironplatearmor",
+  "show-tooltip": true
+}

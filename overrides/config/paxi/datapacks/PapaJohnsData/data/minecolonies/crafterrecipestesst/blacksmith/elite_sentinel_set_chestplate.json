@@ -1,0 +1,19 @@
+{
+  "type" : "recipe",
+  "crafter": "blacksmith_crafting",
+  "inputs": [
+    {
+      "item" : "createchromaticreturn:cyber_plating",
+      "count": 10
+    },
+    {
+      "item" : "minecraft:coal",
+      "count": 10
+    }
+  ],
+  "result": "jet_and_elias_armors:elite_sentinel_set_chestplate",
+  "count": 1,
+  "min-building-level" : 5,
+  "research-id" : "minecolonies:technology/shadowsteelplatearmor",
+  "show-tooltip": true
+}

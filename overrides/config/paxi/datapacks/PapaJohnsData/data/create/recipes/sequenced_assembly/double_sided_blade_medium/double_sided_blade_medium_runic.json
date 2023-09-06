@@ -1,0 +1,78 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "kubejs:double_sided_blade_medium_cast"
+  },
+  "transitionalItem": {
+    "item": "kubejs:double_sided_blade_medium_cast_runic"
+  },
+  "sequence": [
+    {
+      "type": "create:filling",
+      "ingredients": [
+        {
+          "item": "kubejs:double_sided_blade_medium_cast"
+        },
+        {
+          "fluid": "kubejs:molten_runic",
+          "amount": 200
+        }
+      ],
+      "results": [
+        {
+          "item": "kubejs:double_sided_blade_medium_cast"
+        }
+      ]
+    },
+    {
+      "type": "create:pressing",
+      "ingredients": [
+        {
+          "item": "kubejs:double_sided_blade_medium_cast"
+        }
+      ],
+      "results": [
+        {
+          "item": "kubejs:double_sided_blade_medium_cast"
+        }
+      ]
+    },
+    {
+      "type": "create:pressing",
+      "ingredients": [
+        {
+          "item": "kubejs:double_sided_blade_medium_cast"
+        }
+      ],
+      "results": [
+        {
+          "item": "kubejs:double_sided_blade_medium_cast"
+        }
+      ]
+    },
+    {
+      "type": "create:filling",
+      "ingredients": [
+        {
+          "item": "kubejs:double_sided_blade_medium_cast"
+        },
+        {
+          "fluid": "minecraft:water",
+          "nbt": {},
+          "amount": 1000
+        }
+      ],
+      "results": [
+        {
+          "item": "kubejs:double_sided_blade_medium_cast"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "item": "kubejs:double_sided_blade_medium_runic"
+    }
+  ],
+  "loops": 1
+}

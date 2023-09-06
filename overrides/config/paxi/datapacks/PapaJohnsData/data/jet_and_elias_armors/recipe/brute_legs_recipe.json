@@ -1,0 +1,24 @@
+{
+  "type": "create:mechanical_crafting",
+  "pattern": [
+    "I  I",
+    "W  W",
+    "I  I",
+    "L  L"
+  ],
+  "key": {
+    "I": {
+      "item": "create:iron_sheet"
+    },
+    "L": {
+      "item": "minecraft:leather"
+    },
+    "W": {
+      "item": "minecraft:white_wool"
+    }
+  },
+  "result": {
+    "item": "jet_and_elias_armors:brute_armor_leggings",
+    "count": 1
+  }
+}

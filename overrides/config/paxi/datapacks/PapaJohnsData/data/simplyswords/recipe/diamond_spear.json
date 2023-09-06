@@ -1,0 +1,13 @@
+{
+  "type": "create:pressing",
+  "ingredients": [
+    {
+      "item": "epicparagliders:diamond_spear"
+    }
+  ],
+  "results": [
+    {
+      "item": "simplyswords:diamond_spear"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "type" : "recipe",
+  "crafter": "mechanic_crafting",
+  "inputs": [
+    {
+      "item": "minecraft:lever",
+      "count": 1
+    },
+    {
+      "item": "create:precision_mechanism",
+      "count": 1
+    },
+    {
+      "item": "create:railway_casing",
+      "count": 1
+    }
+  ],
+  "result": "create:controls",
+  "count": 1,
+  "min-building-level" : 3,
+  "research-id" : "minecolonies:technology/mechanic/traincontrols",
+  "show-tooltip": true
+}

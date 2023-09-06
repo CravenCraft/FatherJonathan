@@ -1,0 +1,27 @@
+{
+  "type" : "recipe",
+  "crafter": "blacksmith_crafting",
+  "inputs": [
+    {
+      "item" : "create:iron_sheet",
+      "count": 4
+    },
+    {
+      "item" : "minecraft:chain",
+      "count": 2
+    },
+    {
+      "item" : "minecraft:red_wool",
+      "count": 2
+    },
+    {
+      "item" : "minecraft:coal",
+      "count": 4
+    }
+  ],
+  "result": "jet_and_elias_armors:estanese_crusader_armor_leggings",
+  "count": 1,
+  "min-building-level" : 2,
+  "research-id" : "minecolonies:technology/steelplatearmor",
+  "show-tooltip": true
+}

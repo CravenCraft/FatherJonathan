@@ -1,0 +1,23 @@
+{
+  "type": "create:mechanical_crafting",
+  "pattern": [
+    "B   B", 
+    "IIGII",
+    "IG GI"
+  ],
+  "key": {
+    "I": {
+      "item": "create:iron_sheet"
+    },
+    "B": {
+      "item": "minecraft:bone"
+    },
+    "G": {
+      "item": "create:golden_sheet"
+    }
+  },
+  "result": {
+    "item": "jet_and_elias_armors:the_dames_armor_helmet",
+    "count": 1
+  }
+}

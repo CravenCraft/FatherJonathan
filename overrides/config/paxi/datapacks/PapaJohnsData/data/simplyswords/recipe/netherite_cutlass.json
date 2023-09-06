@@ -1,0 +1,13 @@
+{
+  "type": "create:pressing",
+  "ingredients": [
+    {
+      "item": "minecraft:netherite_sword"
+    }
+  ],
+  "results": [
+    {
+      "item": "simplyswords:netherite_cutlass"
+    }
+  ]
+}

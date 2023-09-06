@@ -1,0 +1,23 @@
+{
+  "type" : "recipe",
+  "crafter": "blacksmith_crafting",
+  "inputs": [
+    {
+      "item" : "createchromaticreturn:cyber_plating",
+      "count": 2
+    },
+    {
+      "item" : "minecraft:leather",
+      "count": 2
+    },
+    {
+      "item" : "minecraft:coal",
+      "count": 4
+    }
+  ],
+  "result": "jet_and_elias_armors:sentinel_set_boots",
+  "count": 1,
+  "min-building-level" : 4,
+  "research-id" : "minecolonies:technology/shadowsteelplatearmor",
+  "show-tooltip": true
+}

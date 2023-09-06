@@ -1,0 +1,94 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "minecraft:iron_pickaxe"
+  },
+  "transitionalItem": {
+    "item": "minecraft:iron_pickaxe"
+  },
+  "sequence": [
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "minecraft:iron_pickaxe"
+        },
+        {
+          "item": "createchromaticreturn:handle_cast"
+        }
+      ],
+      "results": [
+        {
+          "item": "minecraft:iron_pickaxe"
+        }
+      ]
+    },
+    {
+      "type": "create:filling",
+      "ingredients": [
+        {
+          "item": "minecraft:iron_pickaxe"
+        },
+        {
+          "fluid": "createbigcannons:molten_cast_iron",
+          "amount": 200
+        }
+      ],
+      "results": [
+        {
+          "item": "minecraft:iron_pickaxe"
+        }
+      ]
+    },
+    {
+      "type": "create:pressing",
+      "ingredients": [
+        {
+          "item": "minecraft:iron_pickaxe"
+        }
+      ],
+      "results": [
+        {
+          "item": "minecraft:iron_pickaxe"
+        }
+      ]
+    },
+    {
+      "type": "create:pressing",
+      "ingredients": [
+        {
+          "item": "minecraft:iron_pickaxe"
+        }
+      ],
+      "results": [
+        {
+          "item": "minecraft:iron_pickaxe"
+        }
+      ]
+    },
+    {
+      "type": "create:filling",
+      "ingredients": [
+        {
+          "item": "minecraft:iron_pickaxe"
+        },
+        {
+          "fluid": "minecraft:water",
+          "nbt": {},
+          "amount": 1000
+        }
+      ],
+      "results": [
+        {
+          "item": "minecraft:iron_pickaxe"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "item": "simplyswords:iron_scythe"
+    }
+  ],
+  "loops": 1
+}

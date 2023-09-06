@@ -1,0 +1,13 @@
+{
+  "type": "create:pressing",
+  "ingredients": [
+    {
+      "item": "epicparagliders:netherite_longsword"
+    }
+  ],
+  "results": [
+    {
+      "item": "simplyswords:netherite_longsword"
+    }
+  ]
+}

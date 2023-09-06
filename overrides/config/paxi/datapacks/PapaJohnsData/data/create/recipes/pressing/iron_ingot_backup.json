@@ -1,0 +1,78 @@
+{
+    "type": "create:sequenced_assembly",
+    "ingredient": {
+      "item": "createchromaticreturn:plating_cast"
+    },
+    "transitionalItem": {
+      "item": "createchromaticreturn:plating_cast"
+    },
+    "sequence": [
+      {
+        "type": "create:filling",
+        "ingredients": [
+          {
+            "item": "createchromaticreturn:plating_cast"
+          },
+          {
+            "fluid": "createbigcannons:molten_cast_iron",
+            "amount": 250
+          }
+        ],
+        "results": [
+          {
+            "item": "createchromaticreturn:plating_cast"
+          }
+        ]
+      },
+      {
+        "type": "create:pressing",
+        "ingredients": [
+          {
+            "item": "createchromaticreturn:plating_cast"
+          }
+        ],
+        "results": [
+          {
+            "item": "createchromaticreturn:plating_cast"
+          }
+        ]
+      },
+      {
+        "type": "create:pressing",
+        "ingredients": [
+          {
+            "item": "createchromaticreturn:plating_cast"
+          }
+        ],
+        "results": [
+          {
+            "item": "createchromaticreturn:plating_cast"
+          }
+        ]
+      },
+      {
+        "type": "create:filling",
+        "ingredients": [
+          {
+            "item": "createchromaticreturn:plating_cast"
+          },
+          {
+            "fluid": "minecraft:water",
+            "nbt": {},
+            "amount": 500
+          }
+        ],
+        "results": [
+          {
+            "item": "createchromaticreturn:plating_cast"
+          }
+        ]
+      }
+    ],
+    "results": [
+      {
+        "item": "create:iron_sheet"
+      }
+    ],
+    "loops": 1
+  }

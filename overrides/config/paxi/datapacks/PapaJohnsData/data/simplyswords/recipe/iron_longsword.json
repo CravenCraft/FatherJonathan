@@ -1,0 +1,13 @@
+{
+  "type": "create:pressing",
+  "ingredients": [
+    {
+      "item": "epicparagliders:iron_longsword"
+    }
+  ],
+  "results": [
+    {
+      "item": "simplyswords:iron_longsword"
+    }
+  ]
+}

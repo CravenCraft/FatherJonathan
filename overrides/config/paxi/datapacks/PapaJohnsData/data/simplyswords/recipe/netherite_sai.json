@@ -1,0 +1,13 @@
+{
+  "type": "create:pressing",
+  "ingredients": [
+    {
+      "item": "epicparagliders:netherite_dagger"
+    }
+  ],
+  "results": [
+    {
+      "item": "simplyswords:netherite_sai"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "type" : "recipe",
+  "crafter": "blacksmith_crafting",
+  "inputs": [
+    {
+      "item" : "create:iron_sheet",
+      "count": 4
+    },
+    {
+      "item" : "minecraft:leather",
+      "count": 1
+    },
+    {
+      "item": "minecraft:white_wool",
+      "count": 1
+    },
+    {
+      "item" : "minecraft:coal",
+      "count": 4
+    }
+  ],
+  "result": "jet_and_elias_armors:bandit_armor_helmet",
+  "count": 1,
+  "min-building-level" : 1,
+  "research-id" : "minecolonies:technology/ironplatearmor",
+  "show-tooltip": true
+}

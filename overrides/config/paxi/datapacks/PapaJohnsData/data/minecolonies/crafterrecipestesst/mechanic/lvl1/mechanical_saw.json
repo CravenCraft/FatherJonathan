@@ -1,0 +1,22 @@
+{
+  "type" : "recipe",
+  "crafter": "mechanic_crafting",
+  "inputs": [
+    {
+        "item" : "create:iron_sheet",
+        "count": 3
+    },
+    {
+      "item": "create:andesite_casing",
+      "count": 1
+    },
+    {
+      "item": "minecraft:iron_ingot",
+      "count": 1
+    }
+  ],
+  "result": "create:mechanical_saw",
+  "count": 1,
+  "min-building-level" : 1,
+  "show-tooltip": true
+}

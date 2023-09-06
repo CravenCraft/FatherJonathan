@@ -1,0 +1,94 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "simplyswords:netherite_chakram"
+  },
+  "transitionalItem": {
+    "item": "simplyswords:netherite_chakram"
+  },
+  "sequence": [
+    {
+      "type": "create:filling",
+      "ingredients": [
+        {
+          "item": "simplyswords:netherite_chakram"
+        },
+        {
+          "fluid": "createchromaticreturn:shadow_essence",
+          "amount": 500
+        }
+      ],
+      "results": [
+        {
+          "item": "simplyswords:netherite_chakram"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "simplyswords:netherite_chakram"
+        },
+        {
+          "item": "forbidden_arcanus:rune"
+        }
+      ],
+      "results": [
+        {
+          "item": "simplyswords:netherite_chakram"
+        }
+      ]
+    },
+    {
+      "type": "create:pressing",
+      "ingredients": [
+        {
+          "item": "simplyswords:netherite_chakram"
+        }
+      ],
+      "results": [
+        {
+          "item": "simplyswords:netherite_chakram"
+        }
+      ]
+    },
+    {
+      "type": "create:pressing",
+      "ingredients": [
+        {
+          "item": "simplyswords:netherite_chakram"
+        }
+      ],
+      "results": [
+        {
+          "item": "simplyswords:netherite_chakram"
+        }
+      ]
+    },
+    {
+      "type": "create:filling",
+      "ingredients": [
+        {
+          "item": "simplyswords:netherite_chakram"
+        },
+        {
+          "fluid": "minecraft:water",
+          "nbt": {},
+          "amount": 1000
+        }
+      ],
+      "results": [
+        {
+          "item": "simplyswords:netherite_chakram"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "item": "simplyswords:runic_chakram"
+    }
+  ],
+  "loops": 1
+}

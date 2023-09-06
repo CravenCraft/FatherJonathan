@@ -1,0 +1,27 @@
+{
+  "type": "create:mechanical_crafting",
+  "pattern": [
+    " 00 30 ",
+    "0 000 0",
+    "1 121  ",
+    "0 101 0"
+  ],
+  "key": {
+    "0": {
+      "item": "create:sturdy_sheet"
+    },
+    "1": {
+      "item": "minecraft:black_wool"
+    },
+    "2": {
+      "item": "jet_and_elias_armors:mercenary_gear_chestplate"
+    },
+    "3": {
+      "item": "minecraft:red_wool"
+    }
+  },
+  "result": {
+    "item": "jet_and_elias_armors:avalon_armor_chestplate",
+    "count": 1
+  }
+}

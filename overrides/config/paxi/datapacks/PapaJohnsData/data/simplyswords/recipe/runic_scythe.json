@@ -1,0 +1,94 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "simplyswords:netherite_scythe"
+  },
+  "transitionalItem": {
+    "item": "simplyswords:netherite_scythe"
+  },
+  "sequence": [
+    {
+      "type": "create:filling",
+      "ingredients": [
+        {
+          "item": "simplyswords:netherite_scythe"
+        },
+        {
+          "fluid": "createchromaticreturn:shadow_essence",
+          "amount": 500
+        }
+      ],
+      "results": [
+        {
+          "item": "simplyswords:netherite_scythe"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "simplyswords:netherite_scythe"
+        },
+        {
+          "item": "forbidden_arcanus:rune"
+        }
+      ],
+      "results": [
+        {
+          "item": "simplyswords:netherite_scythe"
+        }
+      ]
+    },
+    {
+      "type": "create:pressing",
+      "ingredients": [
+        {
+          "item": "simplyswords:netherite_scythe"
+        }
+      ],
+      "results": [
+        {
+          "item": "simplyswords:netherite_scythe"
+        }
+      ]
+    },
+    {
+      "type": "create:pressing",
+      "ingredients": [
+        {
+          "item": "simplyswords:netherite_scythe"
+        }
+      ],
+      "results": [
+        {
+          "item": "simplyswords:netherite_scythe"
+        }
+      ]
+    },
+    {
+      "type": "create:filling",
+      "ingredients": [
+        {
+          "item": "simplyswords:netherite_scythe"
+        },
+        {
+          "fluid": "minecraft:water",
+          "nbt": {},
+          "amount": 1000
+        }
+      ],
+      "results": [
+        {
+          "item": "simplyswords:netherite_scythe"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "item": "simplyswords:runic_scythe"
+    }
+  ],
+  "loops": 1
+}

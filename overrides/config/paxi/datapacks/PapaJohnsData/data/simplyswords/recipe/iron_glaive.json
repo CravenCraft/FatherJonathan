@@ -1,0 +1,94 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "simplyswords:iron_spear"
+  },
+  "transitionalItem": {
+    "item": "simplyswords:iron_spear"
+  },
+  "sequence": [
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "simplyswords:iron_spear"
+        },
+        {
+          "item": "createchromaticreturn:blade_cast"
+        }
+      ],
+      "results": [
+        {
+          "item": "simplyswords:iron_spear"
+        }
+      ]
+    },
+    {
+      "type": "create:filling",
+      "ingredients": [
+        {
+          "item": "simplyswords:iron_spear"
+        },
+        {
+          "fluid": "createbigcannons:molten_cast_iron",
+          "amount": 200
+        }
+      ],
+      "results": [
+        {
+          "item": "simplyswords:iron_spear"
+        }
+      ]
+    },
+    {
+      "type": "create:pressing",
+      "ingredients": [
+        {
+          "item": "simplyswords:iron_spear"
+        }
+      ],
+      "results": [
+        {
+          "item": "simplyswords:iron_spear"
+        }
+      ]
+    },
+    {
+      "type": "create:pressing",
+      "ingredients": [
+        {
+          "item": "simplyswords:iron_spear"
+        }
+      ],
+      "results": [
+        {
+          "item": "simplyswords:iron_spear"
+        }
+      ]
+    },
+    {
+      "type": "create:filling",
+      "ingredients": [
+        {
+          "item": "simplyswords:iron_spear"
+        },
+        {
+          "fluid": "minecraft:water",
+          "nbt": {},
+          "amount": 1000
+        }
+      ],
+      "results": [
+        {
+          "item": "simplyswords:iron_spear"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "item": "simplyswords:iron_glaive"
+    }
+  ],
+  "loops": 1
+}

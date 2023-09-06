@@ -1,0 +1,26 @@
+{
+  "type": "create:mechanical_crafting",
+  "pattern": [
+    " 00",
+    "121",
+    " 3 "
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:blue_wool"
+    },
+    "1": {
+      "item": "minecraft:blaze_powder"
+    },
+    "2": {
+      "item": "jet_and_elias_armors:sentinel_set_helmet"
+    },
+    "3": {
+      "item": "minecraft:netherite_block"
+    }
+  },
+  "result": {
+    "item": "jet_and_elias_armors:elite_sentinel_set_helmet",
+    "count": 1
+  }
+}

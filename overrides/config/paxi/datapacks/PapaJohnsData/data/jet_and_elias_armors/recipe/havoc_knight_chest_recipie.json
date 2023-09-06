@@ -1,0 +1,23 @@
+{
+  "type": "create:mechanical_crafting",
+  "pattern": [
+    "000",
+    "232",
+    "000"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:netherite_block"
+    },
+    "2": {
+      "item": "minecraft:blaze_powder"
+    },
+    "3": {
+      "item": "minecraft:netherite_chestplate"
+    }
+  },
+  "result": {
+    "item": "jet_and_elias_armors:havoc_knight_armor_chestplate",
+    "count": 1
+  }
+}

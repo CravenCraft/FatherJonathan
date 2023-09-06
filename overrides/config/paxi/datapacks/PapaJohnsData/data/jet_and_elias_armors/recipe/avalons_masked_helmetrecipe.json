@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 "
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:redstone"
+    },
+    "1": {
+      "item": "jet_and_elias_armors:avalon_armor_helmet"
+    },
+    "2": {
+      "item": "minecraft:redstone"
+    },
+    "4": {
+      "item": "minecraft:redstone"
+    }
+  },
+  "result": {
+    "item": "jet_and_elias_armors:avalons_helmet_masked_helmet",
+    "count": 1
+  }
+}

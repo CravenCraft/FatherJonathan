@@ -1,0 +1,19 @@
+{
+  "type" : "recipe",
+  "crafter": "mechanic_crafting",
+  "inputs": [
+    {
+        "item" : "minecraft:compass",
+        "count": 3
+    },
+    {
+      "item": "create:train_casing",
+      "count": 1
+    }
+  ],
+  "result": "create:track_station",
+  "count": 2,
+  "min-building-level" : 3,
+  "research-id" : "minecolonies:technology/mechanic/traincontrols",
+  "show-tooltip": true
+}

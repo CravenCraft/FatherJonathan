@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "jet_and_elias_armors:menacing_knight_set_helmet"
+    }
+  ],
+  "result": {
+    "item": "jet_and_elias_armors:menacing_knight_helmet_big_helmet",
+    "count": 1
+  }
+}

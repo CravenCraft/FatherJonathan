@@ -1,0 +1,19 @@
+{
+  "type": "recipe",
+  "crafter": "enchanter_custom",
+  "inputs": [
+    {
+      "item": "forbidden_arcanus:rune",
+      "count": 2
+    },
+    {
+      "item": "forbidden_arcanus:dark_soul",
+      "count": 1
+    }
+  ],
+  "result": "forbidden_arcanus:dark_rune",
+  "count": 1,
+  "min-building-level" : 2,
+  "intermediate": "minecraft:air",
+  "show-tooltip": true
+}

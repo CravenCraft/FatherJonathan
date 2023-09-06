@@ -1,0 +1,13 @@
+{
+  "type": "create:pressing",
+  "ingredients": [
+    {
+      "item": "epicparagliders:iron_greatsword"
+    }
+  ],
+  "results": [
+    {
+      "item": "simplyswords:iron_claymore"
+    }
+  ]
+}

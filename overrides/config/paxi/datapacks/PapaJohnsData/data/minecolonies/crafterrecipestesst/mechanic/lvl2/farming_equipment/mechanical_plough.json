@@ -1,0 +1,23 @@
+{
+  "type" : "recipe",
+  "crafter": "mechanic_crafting",
+  "inputs": [
+    {
+        "item" : "create:iron_sheet",
+        "count": 3
+    },
+    {
+      "item": "create:andesite_alloy",
+      "count": 3
+    },
+    {
+      "item": "create:andesite_casing",
+      "count": 1
+    }
+  ],
+  "result": "create:mechanical_plough",
+  "count": 1,
+  "min-building-level" : 2,
+  "research-id" : "minecolonies:technology/mechanic/farmingequipment",
+  "show-tooltip": true
+}

@@ -1,0 +1,13 @@
+{
+  "type": "create:pressing",
+  "ingredients": [
+    {
+      "item": "minecraft:diamond_sword"
+    }
+  ],
+  "results": [
+    {
+      "item": "simplyswords:diamond_cutlass"
+    }
+  ]
+}

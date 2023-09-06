@@ -1,0 +1,23 @@
+{
+  "type": "create:mechanical_crafting",
+  "pattern": [
+    " 00 2  ",
+    "  101  ",
+    "1 101 1"
+  ],
+  "key": {
+    "0": {
+      "item": "create:iron_sheet"
+    },
+    "1": {
+      "item": "minecraft:leather"
+    },
+    "2": {
+      "item": "jet_and_elias_armors:japanese_footsoldier_chestplate"
+    }
+  },
+  "result": {
+    "item": "jet_and_elias_armors:iron_ronin_chestplate",
+    "count": 1
+  }
+}

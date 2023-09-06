@@ -1,0 +1,94 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "simplyswords:netherite_glaive"
+  },
+  "transitionalItem": {
+    "item": "simplyswords:netherite_glaive"
+  },
+  "sequence": [
+    {
+      "type": "create:filling",
+      "ingredients": [
+        {
+          "item": "simplyswords:netherite_glaive"
+        },
+        {
+          "fluid": "createchromaticreturn:shadow_essence",
+          "amount": 500
+        }
+      ],
+      "results": [
+        {
+          "item": "simplyswords:netherite_glaive"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "simplyswords:netherite_glaive"
+        },
+        {
+          "item": "forbidden_arcanus:rune"
+        }
+      ],
+      "results": [
+        {
+          "item": "simplyswords:netherite_glaive"
+        }
+      ]
+    },
+    {
+      "type": "create:pressing",
+      "ingredients": [
+        {
+          "item": "simplyswords:netherite_glaive"
+        }
+      ],
+      "results": [
+        {
+          "item": "simplyswords:netherite_glaive"
+        }
+      ]
+    },
+    {
+      "type": "create:pressing",
+      "ingredients": [
+        {
+          "item": "simplyswords:netherite_glaive"
+        }
+      ],
+      "results": [
+        {
+          "item": "simplyswords:netherite_glaive"
+        }
+      ]
+    },
+    {
+      "type": "create:filling",
+      "ingredients": [
+        {
+          "item": "simplyswords:netherite_glaive"
+        },
+        {
+          "fluid": "minecraft:water",
+          "nbt": {},
+          "amount": 1000
+        }
+      ],
+      "results": [
+        {
+          "item": "simplyswords:netherite_glaive"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "item": "simplyswords:runic_glaive"
+    }
+  ],
+  "loops": 1
+}

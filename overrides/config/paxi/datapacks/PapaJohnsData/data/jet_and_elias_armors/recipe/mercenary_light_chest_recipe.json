@@ -1,0 +1,21 @@
+{
+  "type": "create:mechanical_crafting",
+  "pattern": [
+    "  L L  ",
+    "  III  ",
+    "  III I",
+    "  III  "
+  ],
+  "key": {
+    "I": {
+      "item": "create:iron_sheet"
+    },
+    "L": {
+      "item": "minecraft:leather"
+    }
+  },
+  "result": {
+    "item": "jet_and_elias_armors:mercenary_light_chestplate",
+    "count": 1
+  }
+}

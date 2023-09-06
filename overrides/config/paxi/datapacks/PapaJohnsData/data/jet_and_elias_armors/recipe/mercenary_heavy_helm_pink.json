@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 0 ",
+    "121",
+    " 1 "
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:pink_wool"
+    },
+    "1": {
+      "item": "create:iron_sheet"
+    },
+    "2": {
+      "item": "jet_and_elias_armors:mercenary_gear_helmet"
+    }
+  },
+  "result": {
+    "item": "jet_and_elias_armors:pink_mercenary_heavy_helmet",
+    "count": 1
+  }
+}

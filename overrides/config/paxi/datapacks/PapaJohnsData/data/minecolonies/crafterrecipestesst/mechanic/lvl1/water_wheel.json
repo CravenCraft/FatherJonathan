@@ -1,0 +1,18 @@
+{
+  "type" : "recipe",
+  "crafter": "mechanic_crafting",
+  "inputs": [
+    {
+        "item" : "create:large_cogwheel",
+        "count": "1"
+    },
+    {
+      "item": "minecraft:oak_slab",
+      "count": 8
+    }
+  ],
+  "result": "create:water_wheel",
+  "count": 1,
+  "min-building-level" : 1,
+  "show-tooltip": true
+}

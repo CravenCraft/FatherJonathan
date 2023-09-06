@@ -1,0 +1,22 @@
+{
+    "type": "create:mechanical_crafting",
+    "pattern": [
+      " IL LI ",
+      "I LIL I",
+      "L III L",
+      "I III I"
+    ],
+    "key": {
+      "I": {
+        "item": "create:iron_sheet"
+      },
+      "L": {
+        "item": "minecraft:leather"
+      }
+    },
+    "result": {
+      "item": "minecraft:iron_chestplate",
+      "count": 1
+    },
+    "acceptMirrored": false
+  }

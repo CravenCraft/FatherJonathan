@@ -1,0 +1,21 @@
+{
+  "type": "create:mechanical_crafting",
+  "pattern": [
+    " WI IW ",
+    "I III I",
+    "I III I",
+    "I III I"
+  ],
+  "key": {
+    "I": {
+      "item": "create:iron_sheet"
+    },
+    "W": {
+      "item": "minecraft:white_wool"
+    }
+  },
+  "result": {
+    "item": "jet_and_elias_armors:knight_m_white_chestplate",
+    "count": 1
+  }
+}

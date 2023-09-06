@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "jet_and_elias_armors:avalon_cursed_helmet_helmet"
+  },
+  "addition": {
+    "item": "minecraft:totem_of_undying"
+  },
+  "result": {
+    "item": "jet_and_elias_armors:avalon_armor_helmet"
+  }
+}

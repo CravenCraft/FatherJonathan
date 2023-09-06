@@ -1,0 +1,94 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "createchromaticreturn:handle_cast"
+  },
+  "transitionalItem": {
+    "item": "createchromaticreturn:handle_cast"
+  },
+  "sequence": [
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "createchromaticreturn:handle_cast"
+        },
+        {
+          "item": "createchromaticreturn:blade_cast"
+        }
+      ],
+      "results": [
+        {
+          "item": "createchromaticreturn:handle_cast"
+        }
+      ]
+    },
+    {
+      "type": "create:filling",
+      "ingredients": [
+        {
+          "item": "createchromaticreturn:handle_cast"
+        },
+        {
+          "fluid": "createbigcannons:molten_cast_iron",
+          "amount": 100
+        }
+      ],
+      "results": [
+        {
+          "item": "createchromaticreturn:handle_cast"
+        }
+      ]
+    },
+    {
+      "type": "create:pressing",
+      "ingredients": [
+        {
+          "item": "createchromaticreturn:handle_cast"
+        }
+      ],
+      "results": [
+        {
+          "item": "createchromaticreturn:handle_cast"
+        }
+      ]
+    },
+    {
+      "type": "create:pressing",
+      "ingredients": [
+        {
+          "item": "createchromaticreturn:handle_cast"
+        }
+      ],
+      "results": [
+        {
+          "item": "createchromaticreturn:handle_cast"
+        }
+      ]
+    },
+    {
+      "type": "create:filling",
+      "ingredients": [
+        {
+          "item": "createchromaticreturn:handle_cast"
+        },
+        {
+          "fluid": "minecraft:water",
+          "nbt": {},
+          "amount": 500
+        }
+      ],
+      "results": [
+        {
+          "item": "createchromaticreturn:handle_cast"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "item": "simplyswords:iron_katana"
+    }
+  ],
+  "loops": 5
+}

@@ -1,0 +1,16 @@
+{
+  "branch": "minecolonies:technology",
+  "parentResearch": "minecolonies:technology/whatyaneed",
+  "researchLevel": 3,
+  "icon": "create:controls",
+  "requirements": [
+    {
+      "mandatory-building": "mechanic",
+      "level": 3
+    },
+    {
+      "item": "create:railway_casing",
+      "quantity": 25
+    }
+  ]
+}

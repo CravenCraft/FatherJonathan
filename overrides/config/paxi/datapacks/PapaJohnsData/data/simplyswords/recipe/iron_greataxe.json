@@ -1,0 +1,94 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "minecraft:iron_axe"
+  },
+  "transitionalItem": {
+    "item": "minecraft:iron_axe"
+  },
+  "sequence": [
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "minecraft:iron_axe"
+        },
+        {
+          "item": "createchromaticreturn:handle_cast"
+        }
+      ],
+      "results": [
+        {
+          "item": "minecraft:iron_axe"
+        }
+      ]
+    },
+    {
+      "type": "create:filling",
+      "ingredients": [
+        {
+          "item": "minecraft:iron_axe"
+        },
+        {
+          "fluid": "createbigcannons:molten_cast_iron",
+          "amount": 300
+        }
+      ],
+      "results": [
+        {
+          "item": "minecraft:iron_axe"
+        }
+      ]
+    },
+    {
+      "type": "create:pressing",
+      "ingredients": [
+        {
+          "item": "minecraft:iron_axe"
+        }
+      ],
+      "results": [
+        {
+          "item": "minecraft:iron_axe"
+        }
+      ]
+    },
+    {
+      "type": "create:pressing",
+      "ingredients": [
+        {
+          "item": "minecraft:iron_axe"
+        }
+      ],
+      "results": [
+        {
+          "item": "minecraft:iron_axe"
+        }
+      ]
+    },
+    {
+      "type": "create:filling",
+      "ingredients": [
+        {
+          "item": "minecraft:iron_axe"
+        },
+        {
+          "fluid": "minecraft:water",
+          "nbt": {},
+          "amount": 1000
+        }
+      ],
+      "results": [
+        {
+          "item": "minecraft:iron_axe"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "item": "simplyswords:iron_greataxe"
+    }
+  ],
+  "loops": 1
+}

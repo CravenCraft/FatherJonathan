@@ -1,0 +1,16 @@
+{
+  "branch": "minecolonies:technology",
+  "parentResearch": "minecolonies:technology/whatyaneed",
+  "researchLevel": 2,
+  "icon": "create:mechanical_harvester",
+  "requirements": [
+    {
+      "mandatory-building": "mechanic",
+      "level": 2
+    },
+    {
+      "item": "minecraft:wheat",
+      "quantity": 50
+    }
+  ]
+}

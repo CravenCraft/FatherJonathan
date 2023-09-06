@@ -1,0 +1,19 @@
+{
+    "type": "createbigcannons:melting",
+    "ingredients": [
+        {
+            "item": "minecraft:iron_ingot"
+        },
+        {
+            "fluid": "minecraft:lava",
+            "amount": 100
+        }
+    ],
+    "results": [
+        {
+            "fluid": "createbigcannons:molten_cast_iron",
+            "amount": 100
+        }
+    ],
+    "processingTime": 180
+}

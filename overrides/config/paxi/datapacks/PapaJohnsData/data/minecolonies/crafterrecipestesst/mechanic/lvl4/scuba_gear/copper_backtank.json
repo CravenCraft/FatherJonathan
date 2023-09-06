@@ -1,0 +1,27 @@
+{
+  "type" : "recipe",
+  "crafter": "mechanic_crafting",
+  "inputs": [
+    {
+      "item": "minecraft:copper_block",
+      "count": 1
+    },
+    {
+      "item": "minecraft:copper_ingot",
+      "count": 3
+    },
+    {
+      "item": "create:andesite_alloy",
+      "count": 2
+    },
+    {
+      "item": "create:shaft",
+      "count": 1
+    }
+  ],
+  "result": "create:copper_backtank",
+  "count": 1,
+  "min-building-level" : 4,
+  "research-id" : "minecolonies:technology/mechanic/scubagear",
+  "show-tooltip": true
+}

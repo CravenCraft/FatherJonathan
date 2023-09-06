@@ -1,0 +1,94 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "simplyswords:netherite_sai"
+  },
+  "transitionalItem": {
+    "item": "simplyswords:netherite_sai"
+  },
+  "sequence": [
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "simplyswords:netherite_sai"
+        },
+        {
+          "item": "createchromaticreturn:blade_cast"
+        }
+      ],
+      "results": [
+        {
+          "item": "simplyswords:netherite_sai"
+        }
+      ]
+    },
+    {
+      "type": "create:filling",
+      "ingredients": [
+        {
+          "item": "simplyswords:netherite_sai"
+        },
+        {
+          "fluid": "createbigcannons:molten_nethersteel",
+          "amount": 200
+        }
+      ],
+      "results": [
+        {
+          "item": "simplyswords:netherite_sai"
+        }
+      ]
+    },
+    {
+      "type": "create:pressing",
+      "ingredients": [
+        {
+          "item": "simplyswords:netherite_sai"
+        }
+      ],
+      "results": [
+        {
+          "item": "simplyswords:netherite_sai"
+        }
+      ]
+    },
+    {
+      "type": "create:pressing",
+      "ingredients": [
+        {
+          "item": "simplyswords:netherite_sai"
+        }
+      ],
+      "results": [
+        {
+          "item": "simplyswords:netherite_sai"
+        }
+      ]
+    },
+    {
+      "type": "create:filling",
+      "ingredients": [
+        {
+          "item": "simplyswords:netherite_sai"
+        },
+        {
+          "fluid": "minecraft:water",
+          "nbt": {},
+          "amount": 1000
+        }
+      ],
+      "results": [
+        {
+          "item": "simplyswords:netherite_sai"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "item": "simplyswords:netherite_rapier"
+    }
+  ],
+  "loops": 1
+}

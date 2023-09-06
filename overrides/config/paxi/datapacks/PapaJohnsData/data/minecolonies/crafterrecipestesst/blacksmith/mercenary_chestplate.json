@@ -1,0 +1,23 @@
+{
+  "type" : "recipe",
+  "crafter": "blacksmith_crafting",
+  "inputs": [
+    {
+      "item" : "create:iron_sheet",
+      "count": 10
+    },
+    {
+      "item" : "minecraft:leather",
+      "count": 3
+    },
+    {
+      "item" : "minecraft:coal",
+      "count": 5
+    }
+  ],
+  "result": "jet_and_elias_armors:mercenary_gear_chestplate",
+  "count": 1,
+  "min-building-level" : 2,
+  "research-id" : "minecolonies:technology/ironplatearmor",
+  "show-tooltip": true
+}

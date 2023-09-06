@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "000",
+    "010",
+    "2 2"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:white_wool"
+    },
+    "1": {
+      "item": "jet_and_elias_armors:raider_armor_chestplate"
+    },
+    "2": {
+      "item": "minecraft:chain"
+    }
+  },
+  "result": {
+    "item": "jet_and_elias_armors:raider_light_variant_chestplate",
+    "count": 1
+  }
+}

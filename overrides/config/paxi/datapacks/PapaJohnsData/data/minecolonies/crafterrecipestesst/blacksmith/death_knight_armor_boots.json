@@ -1,0 +1,19 @@
+{
+  "type" : "recipe",
+  "crafter": "blacksmith_crafting",
+  "inputs": [
+    {
+      "item" : "create:sturdy_sheet",
+      "count": 2
+    },
+    {
+      "item" : "minecraft:coal",
+      "count": 3
+    }
+  ],
+  "result": "jet_and_elias_armors:death_knight_armor_boots",
+  "count": 1,
+  "min-building-level" : 3,
+  "research-id" : "minecolonies:technology/nethersteelplatearmor",
+  "show-tooltip": true
+}

@@ -1,0 +1,18 @@
+{
+  "type": "create:mechanical_crafting",
+  "pattern": [
+  "LLLLL",
+  "L   L",
+  "LLLLL"
+  ],
+  "key": {
+    "L": {
+      "item": "minecraft:leather"
+    }
+  },
+  "result": {
+    "item": "jet_and_elias_armors:drifter_hood_armor_helmet",
+    "count": 1
+  },
+  "acceptMirrored": false
+}

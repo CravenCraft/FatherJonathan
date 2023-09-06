@@ -1,0 +1,22 @@
+{
+  "type" : "recipe",
+  "crafter": "mechanic_crafting",
+  "inputs": [
+    {
+        "item" : "create:golden_sheet",
+        "count": 1
+    },
+    {
+      "item": "create:andesite_alloy",
+      "count": 1
+    },
+    {
+      "item": "minecraft:copper_block",
+      "count": 1
+    }
+  ],
+  "result": "create:steam_engine",
+  "count": 1,
+  "min-building-level" : 3,
+  "show-tooltip": true
+}

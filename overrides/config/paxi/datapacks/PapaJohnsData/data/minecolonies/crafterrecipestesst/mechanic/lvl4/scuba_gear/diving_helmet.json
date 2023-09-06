@@ -1,0 +1,19 @@
+{
+  "type" : "recipe",
+  "crafter": "mechanic_crafting",
+  "inputs": [
+    {
+      "item": "minecraft:glass",
+      "count": 1
+    },
+    {
+      "item": "minecraft:copper_ingot",
+      "count": 5
+    }
+  ],
+  "result": "create:diving_helmet",
+  "count": 1,
+  "min-building-level" : 4,
+  "research-id" : "minecolonies:technology/mechanic/scubagear",
+  "show-tooltip": true
+}

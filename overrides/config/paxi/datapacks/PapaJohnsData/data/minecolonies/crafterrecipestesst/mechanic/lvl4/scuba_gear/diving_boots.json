@@ -1,0 +1,19 @@
+{
+  "type" : "recipe",
+  "crafter": "mechanic_crafting",
+  "inputs": [
+    {
+      "item": "create:andesite_alloy",
+      "count": 2
+    },
+    {
+      "item": "minecraft:copper_ingot",
+      "count": 4
+    }
+  ],
+  "result": "create:diving_boots",
+  "count": 1,
+  "min-building-level" : 4,
+  "research-id" : "minecolonies:technology/mechanic/scubagear",
+  "show-tooltip": true
+}

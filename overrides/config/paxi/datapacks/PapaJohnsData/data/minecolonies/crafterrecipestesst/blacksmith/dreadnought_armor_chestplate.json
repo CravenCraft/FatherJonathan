@@ -1,0 +1,23 @@
+{
+  "type" : "recipe",
+  "crafter": "blacksmith_crafting",
+  "inputs": [
+    {
+      "item" : "create:iron_sheet",
+      "count": 6
+    },
+    {
+      "item" : "minecraft:chain",
+      "count": 4
+    },
+    {
+      "item" : "minecraft:coal",
+      "count": 6
+    }
+  ],
+  "result": "jet_and_elias_armors:dreadnought_armor_chestplate",
+  "count": 1,
+  "min-building-level" : 2,
+  "research-id" : "minecolonies:technology/steelplatearmor",
+  "show-tooltip": true
+}

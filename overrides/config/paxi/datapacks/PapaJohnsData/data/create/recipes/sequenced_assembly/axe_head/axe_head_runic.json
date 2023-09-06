@@ -1,0 +1,78 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "kubejs:axe_head_cast"
+  },
+  "transitionalItem": {
+    "item": "kubejs:axe_head_cast_runic"
+  },
+  "sequence": [
+    {
+      "type": "create:filling",
+      "ingredients": [
+        {
+          "item": "kubejs:axe_head_cast"
+        },
+        {
+          "fluid": "kubejs:molten_runic",
+          "amount": 200
+        }
+      ],
+      "results": [
+        {
+          "item": "kubejs:axe_head_cast"
+        }
+      ]
+    },
+    {
+      "type": "create:pressing",
+      "ingredients": [
+        {
+          "item": "kubejs:axe_head_cast"
+        }
+      ],
+      "results": [
+        {
+          "item": "kubejs:axe_head_cast"
+        }
+      ]
+    },
+    {
+      "type": "create:pressing",
+      "ingredients": [
+        {
+          "item": "kubejs:axe_head_cast"
+        }
+      ],
+      "results": [
+        {
+          "item": "kubejs:axe_head_cast"
+        }
+      ]
+    },
+    {
+      "type": "create:filling",
+      "ingredients": [
+        {
+          "item": "kubejs:axe_head_cast"
+        },
+        {
+          "fluid": "minecraft:water",
+          "nbt": {},
+          "amount": 1000
+        }
+      ],
+      "results": [
+        {
+          "item": "kubejs:axe_head_cast"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "item": "kubejs:axe_head_runic"
+    }
+  ],
+  "loops": 1
+}

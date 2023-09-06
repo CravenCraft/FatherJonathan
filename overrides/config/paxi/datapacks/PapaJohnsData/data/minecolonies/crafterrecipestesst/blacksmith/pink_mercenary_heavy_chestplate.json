@@ -1,0 +1,23 @@
+{
+  "type" : "recipe",
+  "crafter": "blacksmith_crafting",
+  "inputs": [
+    {
+      "item" : "create:sturdy_sheet",
+      "count": 8
+    },
+    {
+      "item" : "minecraft:pink_wool",
+      "count": 2
+    },
+    {
+      "item" : "minecraft:coal",
+      "count": 8
+    }
+  ],
+  "result": "jet_and_elias_armors:pink_mercenary_heavy_chestplate",
+  "count": 1,
+  "min-building-level" : 3,
+  "research-id" : "minecolonies:technology/nethersteelplatearmor",
+  "show-tooltip": true
+}

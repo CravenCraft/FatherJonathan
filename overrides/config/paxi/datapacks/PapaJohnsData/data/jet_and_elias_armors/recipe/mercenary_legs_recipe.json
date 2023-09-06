@@ -1,0 +1,21 @@
+{
+  "type": "create:mechanical_crafting",
+  "pattern": [
+    "I  I",
+    "L  L",
+    "L  L",
+    "I  I"
+  ],
+  "key": {
+    "I": {
+      "item": "create:iron_sheet"
+    },
+    "L": {
+      "item": "minecraft:leather"
+    }
+  },
+  "result": {
+    "item": "jet_and_elias_armors:mercenary_gear_leggings",
+    "count": 1
+  }
+}

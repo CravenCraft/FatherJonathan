@@ -1,0 +1,22 @@
+{
+  "type" : "recipe",
+  "crafter": "mechanic_crafting",
+  "inputs": [
+    {
+        "item" : "create:electron_tube",
+        "count": 1
+    },
+    {
+      "item": "create:andesite_casing",
+      "count": 1
+    },
+    {
+      "item": "create:brass_hand",
+      "count": 1
+    }
+  ],
+  "result": "create:deployer",
+  "count": 1,
+  "min-building-level" : 1,
+  "show-tooltip": true
+}

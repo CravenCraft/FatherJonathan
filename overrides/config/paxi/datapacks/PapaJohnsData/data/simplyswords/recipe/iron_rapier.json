@@ -1,0 +1,94 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "simplyswords:iron_sai"
+  },
+  "transitionalItem": {
+    "item": "simplyswords:iron_sai"
+  },
+  "sequence": [
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "simplyswords:iron_sai"
+        },
+        {
+          "item": "createchromaticreturn:blade_cast"
+        }
+      ],
+      "results": [
+        {
+          "item": "simplyswords:iron_sai"
+        }
+      ]
+    },
+    {
+      "type": "create:filling",
+      "ingredients": [
+        {
+          "item": "simplyswords:iron_sai"
+        },
+        {
+          "fluid": "createbigcannons:molten_cast_iron",
+          "amount": 200
+        }
+      ],
+      "results": [
+        {
+          "item": "simplyswords:iron_sai"
+        }
+      ]
+    },
+    {
+      "type": "create:pressing",
+      "ingredients": [
+        {
+          "item": "simplyswords:iron_sai"
+        }
+      ],
+      "results": [
+        {
+          "item": "simplyswords:iron_sai"
+        }
+      ]
+    },
+    {
+      "type": "create:pressing",
+      "ingredients": [
+        {
+          "item": "simplyswords:iron_sai"
+        }
+      ],
+      "results": [
+        {
+          "item": "simplyswords:iron_sai"
+        }
+      ]
+    },
+    {
+      "type": "create:filling",
+      "ingredients": [
+        {
+          "item": "simplyswords:iron_sai"
+        },
+        {
+          "fluid": "minecraft:water",
+          "nbt": {},
+          "amount": 1000
+        }
+      ],
+      "results": [
+        {
+          "item": "simplyswords:iron_sai"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "item": "simplyswords:iron_rapier"
+    }
+  ],
+  "loops": 1
+}

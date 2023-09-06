@@ -1,0 +1,22 @@
+{
+  "type" : "recipe",
+  "crafter": "mechanic_crafting",
+  "inputs": [
+    {
+        "item" : "create:shaft",
+        "count": 1
+    },
+    {
+      "item": "create:andesite_casing",
+      "count": 1
+    },
+    {
+      "item": "create:propeller",
+      "count": 1
+    }
+  ],
+  "result": "create:encased_fan",
+  "count": 1,
+  "min-building-level" : 1,
+  "show-tooltip": true
+}

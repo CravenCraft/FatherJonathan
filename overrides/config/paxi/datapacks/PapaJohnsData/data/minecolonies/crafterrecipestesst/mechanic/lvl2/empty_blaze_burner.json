@@ -1,0 +1,18 @@
+{
+  "type" : "recipe",
+  "crafter": "mechanic_crafting",
+  "inputs": [
+    {
+        "item" : "minecraft:netherrack",
+        "count": 1
+    },
+    {
+      "item": "create:iron_sheet",
+      "count": 4
+    }
+  ],
+  "result": "create:empty_blaze_burner",
+  "count": 1,
+  "min-building-level" : 2,
+  "show-tooltip": true
+}

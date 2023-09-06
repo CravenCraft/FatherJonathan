@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 0",
+    "121",
+    "111"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:blue_wool"
+    },
+    "1": {
+      "item": "create:golden_sheet"
+    },
+    "2": {
+      "item": "jet_and_elias_armors:mercenary_gear_chestplate"
+    }
+  },
+  "result": {
+    "item": "jet_and_elias_armors:blue_gold_mercenary_heavy_chestplate",
+    "count": 1
+  }
+}

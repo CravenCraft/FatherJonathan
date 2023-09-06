@@ -1,0 +1,79 @@
+{
+    "type": "create:sequenced_assembly",
+    "ingredient": {
+      "item": "create:brass_ingot"
+    },
+    "transitionalItem": {
+      "item": "create:brass_ingot"
+    },
+    "sequence": [
+      {
+        "type": "create:filling",
+        "ingredients": [
+          {
+            "item": "create:brass_ingot"
+          },
+          {
+            "fluid": "minecraft:lava",
+            "nbt": {},
+            "amount": 500
+          }
+        ],
+        "results": [
+          {
+            "item": "create:brass_ingot"
+          }
+        ]
+      },
+      {
+        "type": "create:pressing",
+        "ingredients": [
+          {
+            "item": "create:brass_ingot"
+          }
+        ],
+        "results": [
+          {
+            "item": "create:brass_ingot"
+          }
+        ]
+      },
+      {
+        "type": "create:pressing",
+        "ingredients": [
+          {
+            "item": "create:brass_ingot"
+          }
+        ],
+        "results": [
+          {
+            "item": "create:brass_ingot"
+          }
+        ]
+      },
+      {
+        "type": "create:filling",
+        "ingredients": [
+          {
+            "item": "create:brass_ingot"
+          },
+          {
+            "fluid": "minecraft:water",
+            "nbt": {},
+            "amount": 500
+          }
+        ],
+        "results": [
+          {
+            "item": "create:brass_ingot"
+          }
+        ]
+      }
+    ],
+    "results": [
+      {
+        "item": "create:brass_sheet"
+      }
+    ],
+    "loops": 1
+  }

@@ -1,0 +1,23 @@
+{
+  "type" : "recipe",
+  "crafter": "blacksmith_crafting",
+  "inputs": [
+    {
+      "item" : "create:sturdy_sheet",
+      "count": 4
+    },
+    {
+      "item" : "minecraft:pink_wool",
+      "count": 1
+    },
+    {
+      "item" : "minecraft:coal",
+      "count": 4
+    }
+  ],
+  "result": "jet_and_elias_armors:knight_m_pink_helmet",
+  "count": 1,
+  "min-building-level" : 3,
+  "research-id" : "minecolonies:technology/nethersteelplatearmor",
+  "show-tooltip": true
+}

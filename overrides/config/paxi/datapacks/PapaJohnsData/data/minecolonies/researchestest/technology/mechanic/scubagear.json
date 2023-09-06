@@ -1,0 +1,16 @@
+{
+  "branch": "minecolonies:technology",
+  "parentResearch": "minecolonies:technology/whatyaneed",
+  "researchLevel": 4,
+  "icon": "create:diving_helmet",
+  "requirements": [
+    {
+      "mandatory-building": "mechanic",
+      "level": 4
+    },
+    {
+      "item": "create:copper_sheet",
+      "quantity": 25
+    }
+  ]
+}

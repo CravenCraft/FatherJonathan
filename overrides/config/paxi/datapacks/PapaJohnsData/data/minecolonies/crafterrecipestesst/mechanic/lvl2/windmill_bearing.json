@@ -1,0 +1,22 @@
+{
+  "type" : "recipe",
+  "crafter": "mechanic_crafting",
+  "inputs": [
+    {
+        "item" : "minecraft:oak_slab",
+        "count": 1
+    },
+    {
+      "item": "minecraft:andesite",
+      "count": 1
+    },
+    {
+      "item": "create:shaft",
+      "count": 1
+    }
+  ],
+  "result": "create:windmill_bearing",
+  "count": 1,
+  "min-building-level" : 2,
+  "show-tooltip": true
+}

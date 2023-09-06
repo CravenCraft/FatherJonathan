@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "010",
+    " 0 "
+  ],
+  "key": {
+    "0": {
+      "item": "create:iron_sheet"
+    },
+    "1": {
+      "item": "jet_and_elias_armors:mercenary_gear_leggings"
+    }
+  },
+  "result": {
+    "item": "jet_and_elias_armors:red_mercenary_heavy_leggings",
+    "count": 1
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "type": "create:mechanical_crafting",
+  "pattern": [
+    " 0 ",
+    " 1 ",
+    "121"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:white_wool"
+    },
+    "1": {
+      "item": "create:golden_sheet"
+    },
+    "2": {
+      "item": "jet_and_elias_armors:mercenary_gear_helmet"
+    }
+  },
+  "result": {
+    "item": "jet_and_elias_armors:white_gold_corinthos_helmet",
+    "count": 1
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type" : "recipe",
+  "crafter": "blacksmith_crafting",
+  "inputs": [
+    {
+      "item" : "createchromaticreturn:cyber_plating",
+      "count": 6
+    },
+    {
+      "item" : "minecraft:leather",
+      "count": 2
+    },
+    {
+      "item" : "minecraft:chain",
+      "count": 2
+    },
+    {
+      "item" : "minecraft:coal",
+      "count": 8
+    }
+  ],
+  "result": "jet_and_elias_armors:dark_crusader_armor_leggings",
+  "count": 1,
+  "min-building-level" : 4,
+  "research-id" : "minecolonies:technology/shadowsteelplatearmor",
+  "show-tooltip": true
+}

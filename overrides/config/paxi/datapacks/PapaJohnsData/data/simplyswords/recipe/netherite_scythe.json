@@ -1,0 +1,94 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "minecraft:netherite_pickaxe"
+  },
+  "transitionalItem": {
+    "item": "minecraft:netherite_pickaxe"
+  },
+  "sequence": [
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "minecraft:netherite_pickaxe"
+        },
+        {
+          "item": "createchromaticreturn:handle_cast"
+        }
+      ],
+      "results": [
+        {
+          "item": "minecraft:netherite_pickaxe"
+        }
+      ]
+    },
+    {
+      "type": "create:filling",
+      "ingredients": [
+        {
+          "item": "minecraft:netherite_pickaxe"
+        },
+        {
+          "fluid": "createbigcannons:molten_nethersteel",
+          "amount": 200
+        }
+      ],
+      "results": [
+        {
+          "item": "minecraft:netherite_pickaxe"
+        }
+      ]
+    },
+    {
+      "type": "create:pressing",
+      "ingredients": [
+        {
+          "item": "minecraft:netherite_pickaxe"
+        }
+      ],
+      "results": [
+        {
+          "item": "minecraft:netherite_pickaxe"
+        }
+      ]
+    },
+    {
+      "type": "create:pressing",
+      "ingredients": [
+        {
+          "item": "minecraft:netherite_pickaxe"
+        }
+      ],
+      "results": [
+        {
+          "item": "minecraft:netherite_pickaxe"
+        }
+      ]
+    },
+    {
+      "type": "create:filling",
+      "ingredients": [
+        {
+          "item": "minecraft:netherite_pickaxe"
+        },
+        {
+          "fluid": "minecraft:water",
+          "nbt": {},
+          "amount": 1000
+        }
+      ],
+      "results": [
+        {
+          "item": "minecraft:netherite_pickaxe"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "item": "simplyswords:netherite_scythe"
+    }
+  ],
+  "loops": 1
+}

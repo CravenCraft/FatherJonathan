@@ -1,0 +1,35 @@
+{
+  "type" : "recipe",
+  "crafter": "alchemist_crafting",
+  "inputs": [
+    {
+      "item" : "forbidden_arcanus:arcane_crystal_dust",
+      "count": 1
+    },
+    {
+      "item" : "minecraft:redstone",
+      "count": 1
+    },
+    {
+      "item" : "minecraft:blaze_powder",
+      "count": 1
+    },
+    {
+      "item" : "minecraft:bone_meal",
+      "count": 1
+    },
+    {
+      "item" : "minecraft:phantom_membrane",
+      "count": 1
+    },
+    {
+      "item" : "minecraft:gunpowder",
+      "count": 1
+    }
+  ],
+  "result": "forbidden_arcanus:corrupti_dust",
+  "count": 1,
+  "intermediate" : "minecraft:air",
+  "min-building-level" : 2,
+  "show-tooltip": true
+}
