@@ -1,0 +1,20 @@
+{
+    "type": "create:mechanical_crafting",
+    "pattern": [
+    "DIDID",
+    "D I D"
+    ],
+    "key": {
+      "I": {
+        "item": "alloyed:steel_sheet"
+      },
+      "D": {
+        "item": "minecraft:diamond"
+      }
+    },
+    "result": {
+      "item": "minecraft:diamond_helmet",
+      "count": 1
+    },
+    "acceptMirrored": false
+  }

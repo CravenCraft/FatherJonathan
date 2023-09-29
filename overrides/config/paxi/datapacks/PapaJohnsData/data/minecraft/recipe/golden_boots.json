@@ -1,0 +1,21 @@
+{
+    "type": "create:mechanical_crafting",
+    "pattern": [
+    "  I  I  ",
+    "  L  L  ",
+    "ILI  ILI"
+    ],
+    "key": {
+      "I": {
+        "item": "create:golden_sheet"
+      },
+      "L": {
+        "item": "minecraft:leather"
+      }
+    },
+    "result": {
+      "item": "minecraft:golden_boots",
+      "count": 1
+    },
+    "acceptMirrored": false
+  }

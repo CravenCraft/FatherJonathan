@@ -1,0 +1,21 @@
+{
+    "type": "create:mechanical_crafting",
+    "pattern": [
+    "  I  I  ",
+    "  L  L  ",
+    "ILI  ILI"
+    ],
+    "key": {
+      "I": {
+        "item": "create:iron_sheet"
+      },
+      "L": {
+        "item": "minecraft:leather"
+      }
+    },
+    "result": {
+      "item": "minecraft:iron_boots",
+      "count": 1
+    },
+    "acceptMirrored": false
+  }

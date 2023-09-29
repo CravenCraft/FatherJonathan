@@ -1,0 +1,25 @@
+{
+    "type": "create:mechanical_crafting",
+    "pattern": [
+      "IDDI",
+      "DLLD",
+      "L  L",
+      "D  D"
+    ],
+    "key": {
+      "I": {
+        "item": "alloyed:steel_sheet"
+      },
+      "L": {
+        "item": "minecraft:leather"
+      },
+      "D": {
+        "item": "minecraft:diamond"
+      }
+    },
+    "result": {
+      "item": "minecraft:diamond_leggings",
+      "count": 1
+    },
+    "acceptMirrored": false
+  }

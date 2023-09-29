@@ -1,0 +1,17 @@
+{
+    "type": "create:mechanical_crafting",
+    "pattern": [
+    "IIIII",
+    "I I I"
+    ],
+    "key": {
+      "I": {
+        "item": "create:iron_sheet"
+      }
+    },
+    "result": {
+      "item": "minecraft:iron_helmet",
+      "count": 1
+    },
+    "acceptMirrored": false
+  }
