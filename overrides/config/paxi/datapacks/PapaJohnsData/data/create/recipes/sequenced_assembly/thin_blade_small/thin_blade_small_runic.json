@@ -1,0 +1,78 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "kubejs:thin_blade_small_cast"
+  },
+  "transitionalItem": {
+    "item": "kubejs:thin_blade_small_cast_runic"
+  },
+  "sequence": [
+    {
+      "type": "create:filling",
+      "ingredients": [
+        {
+          "item": "kubejs:thin_blade_small_cast"
+        },
+        {
+          "fluid": "kubejs:molten_runic",
+          "amount": 75
+        }
+      ],
+      "results": [
+        {
+          "item": "kubejs:thin_blade_small_cast"
+        }
+      ]
+    },
+    {
+      "type": "create:pressing",
+      "ingredients": [
+        {
+          "item": "kubejs:thin_blade_small_cast"
+        }
+      ],
+      "results": [
+        {
+          "item": "kubejs:thin_blade_small_cast"
+        }
+      ]
+    },
+    {
+      "type": "create:pressing",
+      "ingredients": [
+        {
+          "item": "kubejs:thin_blade_small_cast"
+        }
+      ],
+      "results": [
+        {
+          "item": "kubejs:thin_blade_small_cast"
+        }
+      ]
+    },
+    {
+      "type": "create:filling",
+      "ingredients": [
+        {
+          "item": "kubejs:thin_blade_small_cast"
+        },
+        {
+          "fluid": "minecraft:water",
+          "nbt": {},
+          "amount": 1000
+        }
+      ],
+      "results": [
+        {
+          "item": "kubejs:thin_blade_small_cast"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "item": "kubejs:thin_blade_small_runic"
+    }
+  ],
+  "loops": 1
+}

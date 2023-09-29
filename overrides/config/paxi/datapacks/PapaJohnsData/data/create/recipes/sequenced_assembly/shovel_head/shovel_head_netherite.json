@@ -1,0 +1,78 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "kubejs:shovel_head_cast"
+  },
+  "transitionalItem": {
+    "item": "kubejs:shovel_head_cast_netherite"
+  },
+  "sequence": [
+    {
+      "type": "create:filling",
+      "ingredients": [
+        {
+          "item": "kubejs:shovel_head_cast"
+        },
+        {
+          "fluid": "createbigcannons:molten_nethersteel",
+          "amount": 150
+        }
+      ],
+      "results": [
+        {
+          "item": "kubejs:shovel_head_cast"
+        }
+      ]
+    },
+    {
+      "type": "create:pressing",
+      "ingredients": [
+        {
+          "item": "kubejs:shovel_head_cast"
+        }
+      ],
+      "results": [
+        {
+          "item": "kubejs:shovel_head_cast"
+        }
+      ]
+    },
+    {
+      "type": "create:pressing",
+      "ingredients": [
+        {
+          "item": "kubejs:shovel_head_cast"
+        }
+      ],
+      "results": [
+        {
+          "item": "kubejs:shovel_head_cast"
+        }
+      ]
+    },
+    {
+      "type": "create:filling",
+      "ingredients": [
+        {
+          "item": "kubejs:shovel_head_cast"
+        },
+        {
+          "fluid": "minecraft:water",
+          "nbt": {},
+          "amount": 1000
+        }
+      ],
+      "results": [
+        {
+          "item": "kubejs:shovel_head_cast"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "item": "kubejs:shovel_head_netherite"
+    }
+  ],
+  "loops": 1
+}

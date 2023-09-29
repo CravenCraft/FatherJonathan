@@ -1,0 +1,78 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "kubejs:single_sided_blade_medium_cast"
+  },
+  "transitionalItem": {
+    "item": "kubejs:single_sided_blade_medium_cast_netherite"
+  },
+  "sequence": [
+    {
+      "type": "create:filling",
+      "ingredients": [
+        {
+          "item": "kubejs:single_sided_blade_medium_cast"
+        },
+        {
+          "fluid": "createbigcannons:molten_nethersteel",
+          "amount": 200
+        }
+      ],
+      "results": [
+        {
+          "item": "kubejs:single_sided_blade_medium_cast"
+        }
+      ]
+    },
+    {
+      "type": "create:pressing",
+      "ingredients": [
+        {
+          "item": "kubejs:single_sided_blade_medium_cast"
+        }
+      ],
+      "results": [
+        {
+          "item": "kubejs:single_sided_blade_medium_cast"
+        }
+      ]
+    },
+    {
+      "type": "create:pressing",
+      "ingredients": [
+        {
+          "item": "kubejs:single_sided_blade_medium_cast"
+        }
+      ],
+      "results": [
+        {
+          "item": "kubejs:single_sided_blade_medium_cast"
+        }
+      ]
+    },
+    {
+      "type": "create:filling",
+      "ingredients": [
+        {
+          "item": "kubejs:single_sided_blade_medium_cast"
+        },
+        {
+          "fluid": "minecraft:water",
+          "nbt": {},
+          "amount": 1000
+        }
+      ],
+      "results": [
+        {
+          "item": "kubejs:single_sided_blade_medium_cast"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "item": "kubejs:single_sided_blade_medium_netherite"
+    }
+  ],
+  "loops": 1
+}
