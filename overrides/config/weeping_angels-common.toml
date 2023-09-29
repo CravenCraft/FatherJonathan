@@ -15,10 +15,10 @@
 [teleporting]
 	#Determines the range that a player can be teleported from their current location
 	#Range: > 1
-	teleport_range = 400
+	teleport_range = 500
 	#Determines the chance a player will be teleported
 	#Range: 1 ~ 100
 	teleport_chance = 50
 	#A list of Dimensions that angels cannot teleport players to
-	banned_dimensions = ["minecraft:the_end"]
+	banned_dimensions = ["minecraft:the_end", "deeperdarker:otherside"]
 

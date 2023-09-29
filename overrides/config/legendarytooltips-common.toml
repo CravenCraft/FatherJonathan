@@ -33,7 +33,7 @@
 		compact_tooltips = true
 		# Which items should have a 3D model rendered in the tooltip.  If set to "equipment", the model will only be rendered for items with durability.
 		#Allowed Values: NONE, EQUIPMENT, ALL
-		render_item_model = "EQUIPMENT"
+		render_item_model = "NONE"
 
 	# Entry types:
 	#    Match all - Specifying just an asterisk (*) will match all items.  Examples: "*"
@@ -42,7 +42,7 @@
 	#    Mod name - @ followed by mod identifier to match all items from that mod.  Examples: "@spoiledeggs"
 	#    Rarity - ! followed by item's rarity to match all items with that rarity.  This is ONLY vanilla rarities.  Examples: "!uncommon", "!rare", "!epic"
 	#    Item name color - # followed by color hex code, to match all items with that exact color item name.  Examples: "#23F632"
-	#    Display name - % followed by any text.  Will match any item with this text (case-sensitive) in its tooltip display name.  Examples: "%Netherite", "%Uncommon"
+	#    Display name - % followed by any text.  Will match any item with this teext (case-sensitive) in its tooltip display name.  Examples: "%Netherite", "%Uncommon"
 	#    Tooltip text - ^ followed by any text.  Will match any item with this text (case-sensitive) anywhere in the tooltip text (besides the name).  Examples: "^Legendary"
 	#    NBT tag - & followed by tag name and optional comparator (=, >, <, or !=) and value, in the format <tag><comparator><value> or just <tag>.  Examples: "&Damage=0", "&Tier>1", "&map!=128", "&Enchantments"
 	#    Negation - ~ followed by any selector above.  This selector will be negated, matching every item that does NOT match the selector.  Examples: "~minecraft:stick", "~!uncommon", "~@minecraft"

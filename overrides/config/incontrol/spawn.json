@@ -1,1 +1,7 @@
-[]
+[
+    {
+        "mob": "weeping_angels:weeping_angel",
+        "dimension": "minecraft:the_nether",
+        "result": "deny"
+    }
+]
