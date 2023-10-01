@@ -107,6 +107,18 @@ StartupEvents.registry('item', e => {
   e.create('pickaxe_head_netherite').texture('molten_metals:item/parts/pickaxe_head/netherite/head')
   e.create('pickaxe_head_runic').texture('molten_metals:item/parts/pickaxe_head/runic/head')
 
+    // Scythe Head
+    e.create('scythe_head_cast').texture('molten_metals:item/parts/scythe_head/cast')
+    e.create('scythe_head_cast_iron').texture('molten_metals:item/parts/scythe_head/iron/cast')
+    e.create('scythe_head_cast_diamond').texture('molten_metals:item/parts/scythe_head/diamond/cast')
+    e.create('scythe_head_cast_netherite').texture('molten_metals:item/parts/scythe_head/netherite/cast')
+    e.create('scythe_head_cast_runic').texture('molten_metals:item/parts/scythe_head/runic/cast')
+    
+    e.create('scythe_head_iron').texture('molten_metals:item/parts/scythe_head/iron/head')
+    e.create('scythe_head_diamond').texture('molten_metals:item/parts/scythe_head/diamond/head')
+    e.create('scythe_head_netherite').texture('molten_metals:item/parts/scythe_head/netherite/head')
+    e.create('scythe_head_runic').texture('molten_metals:item/parts/scythe_head/runic/head')
+
   // Shovel Head
   e.create('shovel_head_cast').texture('molten_metals:item/parts/shovel_head/cast')
   e.create('shovel_head_cast_iron').texture('molten_metals:item/parts/shovel_head/iron/cast')

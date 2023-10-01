@@ -1,0 +1,19 @@
+{
+    "type" : "recipe",
+    "crafter": "blacksmith_crafting",
+    "inputs": [
+      {
+        "item" : "kubejs:double_sided_blade_medium_iron",
+        "count": 2
+      },
+      {
+        "item" : "kubejs:handle",
+        "count": 1
+      }
+    ],
+    "result": "simplyswords:iron_twinblade",
+    "count": 1,
+    "min-building-level" : 1,
+    "research-id" : "minecolonies:technology/blacksmith/lvl2/tier2tools",
+    "show-tooltip": true
+  }
