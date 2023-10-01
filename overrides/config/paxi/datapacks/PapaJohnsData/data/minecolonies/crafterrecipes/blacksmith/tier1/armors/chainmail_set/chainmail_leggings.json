@@ -1,0 +1,14 @@
+{
+    "type" : "recipe",
+    "crafter": "blacksmith_crafting",
+    "inputs": [
+      {
+        "item" : "minecraft:chain",
+        "count": 4
+      }
+    ],
+    "result": "minecraft:chainmail_leggings",
+    "count": 1,
+    "min-building-level" : 1,
+    "show-tooltip": true
+  }
