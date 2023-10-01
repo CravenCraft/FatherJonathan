@@ -12,6 +12,17 @@ StartupEvents.registry('item', e => {
   e.create('pole').texture('molten_metals:item/parts/pole')
   // e.create('sheet')
 
+  // Metal Sheet
+  e.create('sheet_cast').texture('molten_metals:item/parts/sheet/cast')
+  e.create('sheet_cast_iron').texture('molten_metals:item/parts/sheet/iron/cast')
+  e.create('sheet_cast_diamond').texture('molten_metals:item/parts/sheet/diamond/cast')
+  e.create('sheet_cast_netherite').texture('molten_metals:item/parts/sheet/netherite/cast')
+  e.create('sheet_cast_runic').texture('molten_metals:item/parts/sheet/runic/cast')
+
+  e.create('sheet_diamond').texture('molten_metals:item/parts/sheet/diamond/sheet')
+  e.create('sheet_netherite').texture('molten_metals:item/parts/sheet/netherite/sheet')
+  e.create('sheet_runic').texture('molten_metals:item/parts/sheet/runic/sheet')
+
   // Axe
   e.create('axe_head_cast').texture('molten_metals:item/parts/axe_head/cast')
   e.create('axe_head_cast_iron').texture('molten_metals:item/parts/axe_head/iron/cast')
