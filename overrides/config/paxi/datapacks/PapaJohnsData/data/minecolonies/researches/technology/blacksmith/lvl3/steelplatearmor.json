@@ -1,6 +1,6 @@
 {
   "branch": "minecolonies:technology",
-  "parentResearch": "minecolonies:technology/blacksmith/ironplatearmor",
+  "parentResearch": "minecolonies:technology/blacksmith/lvl2/ironplatearmor",
   "researchLevel": 3,
   "icon": "alloyed:steel_sheet",
   "requirements": [
@@ -9,7 +9,7 @@
       "level": 3
     },
     {
-      "item": "alloyed:steel_sheet",
+      "item": "kubejs:steel_sheet",
       "quantity": 10
     }
   ]

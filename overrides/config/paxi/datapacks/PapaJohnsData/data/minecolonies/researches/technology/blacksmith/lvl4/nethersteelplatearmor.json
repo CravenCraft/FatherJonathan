@@ -1,6 +1,6 @@
 {
   "branch": "minecolonies:technology",
-  "parentResearch": "minecolonies:technology/blacksmith/steelplatearmor",
+  "parentResearch": "minecolonies:technology/blacksmith/lvl3/steelplatearmor",
   "researchLevel": 4,
   "icon": "create:sturdy_sheet",
   "requirements": [
