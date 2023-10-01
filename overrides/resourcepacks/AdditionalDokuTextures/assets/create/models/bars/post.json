@@ -1,0 +1,30 @@
+{
+	"credit": "Made with Blockbench",
+	"ambientocclusion": false,
+	"textures": {
+		"edge": "create:block/bars/brass_bars_edge",
+		"particle": "create:block/bars/brass_bars"
+	},
+	"elements": [
+		{
+			"from": [7, 0, 7],
+			"to": [9, 16, 9],
+			"faces": {
+				"north": {"uv": [0, 0, 0, 0], "texture": "#edge"},
+				"east": {"uv": [9, 0, 7, 16], "texture": "#edge"},
+				"south": {"uv": [0, 0, 0, 0], "texture": "#edge"},
+				"west": {"uv": [7, 0, 9, 16], "texture": "#edge"}
+			}
+		},
+		{
+			"from": [7, 0, 7],
+			"to": [9, 16, 9],
+			"faces": {
+				"north": {"uv": [7, 0, 9, 16], "texture": "#edge"},
+				"east": {"uv": [0, 0, 0, 0], "texture": "#edge"},
+				"south": {"uv": [9, 0, 7, 16], "texture": "#edge"},
+				"west": {"uv": [0, 0, 0, 0], "texture": "#edge"}
+			}
+		}
+	]
+}
