@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345",
+    "678"
+  ],
+  "key": {
+    "1": {
+      "item": "minecraft:heavy_weighted_pressure_plate"
+    },
+    "3": {
+      "item": "minecraft:heavy_weighted_pressure_plate"
+    },
+    "4": {
+      "item": "minecraft:iron_helmet"
+    },
+    "5": {
+      "item": "minecraft:heavy_weighted_pressure_plate"
+    },
+    "6": {
+      "item": "minecraft:iron_bars"
+    },
+    "7": {
+      "item": "minecraft:iron_ingot"
+    },
+    "8": {
+      "item": "minecraft:iron_bars"
+    }
+  },
+  "result": {
+    "item": "jet_and_elias_armors:sentinel_set_helmet",
+    "count": 1
+  }
+}

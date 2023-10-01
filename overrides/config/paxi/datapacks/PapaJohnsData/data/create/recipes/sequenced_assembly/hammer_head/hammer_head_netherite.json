@@ -1,0 +1,78 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "kubejs:hammer_head_cast"
+  },
+  "transitionalItem": {
+    "item": "kubejs:hammer_head_cast_netherite"
+  },
+  "sequence": [
+    {
+      "type": "create:filling",
+      "ingredients": [
+        {
+          "item": "kubejs:hammer_head_cast"
+        },
+        {
+          "fluid": "createbigcannons:molten_nethersteel",
+          "amount": 500
+        }
+      ],
+      "results": [
+        {
+          "item": "kubejs:hammer_head_cast"
+        }
+      ]
+    },
+    {
+      "type": "create:pressing",
+      "ingredients": [
+        {
+          "item": "kubejs:hammer_head_cast"
+        }
+      ],
+      "results": [
+        {
+          "item": "kubejs:hammer_head_cast"
+        }
+      ]
+    },
+    {
+      "type": "create:pressing",
+      "ingredients": [
+        {
+          "item": "kubejs:hammer_head_cast"
+        }
+      ],
+      "results": [
+        {
+          "item": "kubejs:hammer_head_cast"
+        }
+      ]
+    },
+    {
+      "type": "create:filling",
+      "ingredients": [
+        {
+          "item": "kubejs:hammer_head_cast"
+        },
+        {
+          "fluid": "minecraft:water",
+          "nbt": {},
+          "amount": 1000
+        }
+      ],
+      "results": [
+        {
+          "item": "kubejs:hammer_head_cast"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "item": "kubejs:hammer_head_netherite"
+    }
+  ],
+  "loops": 1
+}

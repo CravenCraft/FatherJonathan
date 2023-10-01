@@ -1,0 +1,14 @@
+{
+    "type" : "recipe",
+    "crafter": "blacksmith_crafting",
+    "inputs": [
+      {
+        "item" : "minecraft:chain",
+        "count": 3
+      }
+    ],
+    "result": "minecraft:chainmail_helmet",
+    "count": 1,
+    "min-building-level" : 1,
+    "show-tooltip": true
+  }

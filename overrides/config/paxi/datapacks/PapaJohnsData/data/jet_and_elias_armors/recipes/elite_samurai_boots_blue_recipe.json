@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:blue_dye"
+    },
+    {
+      "item": "jet_and_elias_armors:samurai_set_boots"
+    }
+  ],
+  "result": {
+    "item": "jet_and_elias_armors:blue_samurai_set_boots",
+    "count": 1
+  }
+}

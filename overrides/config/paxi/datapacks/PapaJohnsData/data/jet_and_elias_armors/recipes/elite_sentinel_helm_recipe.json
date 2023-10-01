@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 12",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "1": {
+      "item": "minecraft:blue_wool"
+    },
+    "2": {
+      "item": "minecraft:blue_wool"
+    },
+    "3": {
+      "item": "minecraft:blaze_powder"
+    },
+    "4": {
+      "item": "jet_and_elias_armors:sentinel_set_helmet"
+    },
+    "5": {
+      "item": "minecraft:blaze_powder"
+    },
+    "7": {
+      "item": "minecraft:blaze_powder"
+    }
+  },
+  "result": {
+    "item": "jet_and_elias_armors:elite_sentinel_set_helmet",
+    "count": 1
+  }
+}

@@ -6,9 +6,22 @@ StartupEvents.registry('item', e => {
   // The texture for this item has to be placed in kubejs/assets/kubejs/textures/item/test_item.png
   // If you want a custom item model, you can create one in Blockbench and put it in kubejs/assets/kubejs/models/item/test_item.json
   e.create('blank').texture('molten_metals:item/parts/blank')
-  // e.create('handle')
-  // e.create('tough_handle')
+  e.create('unfinished_handle').texture('molten_metals:item/parts/unfinished_handle')
+  e.create('unfinished_pole').texture('molten_metals:item/parts/unfinished_pole')
+  e.create('handle').texture('molten_metals:item/parts/handle')
+  e.create('pole').texture('molten_metals:item/parts/pole')
   // e.create('sheet')
+
+  // Metal Sheet
+  e.create('sheet_cast').texture('molten_metals:item/parts/sheet/cast')
+  e.create('sheet_cast_iron').texture('molten_metals:item/parts/sheet/iron/cast')
+  e.create('sheet_cast_diamond').texture('molten_metals:item/parts/sheet/diamond/cast')
+  e.create('sheet_cast_netherite').texture('molten_metals:item/parts/sheet/netherite/cast')
+  e.create('sheet_cast_runic').texture('molten_metals:item/parts/sheet/runic/cast')
+
+  e.create('sheet_diamond').texture('molten_metals:item/parts/sheet/diamond/sheet')
+  e.create('sheet_netherite').texture('molten_metals:item/parts/sheet/netherite/sheet')
+  e.create('sheet_runic').texture('molten_metals:item/parts/sheet/runic/sheet')
 
   // Axe
   e.create('axe_head_cast').texture('molten_metals:item/parts/axe_head/cast')
@@ -93,6 +106,18 @@ StartupEvents.registry('item', e => {
   e.create('pickaxe_head_diamond').texture('molten_metals:item/parts/pickaxe_head/diamond/head')
   e.create('pickaxe_head_netherite').texture('molten_metals:item/parts/pickaxe_head/netherite/head')
   e.create('pickaxe_head_runic').texture('molten_metals:item/parts/pickaxe_head/runic/head')
+
+    // Scythe Head
+    e.create('scythe_head_cast').texture('molten_metals:item/parts/scythe_head/cast')
+    e.create('scythe_head_cast_iron').texture('molten_metals:item/parts/scythe_head/iron/cast')
+    e.create('scythe_head_cast_diamond').texture('molten_metals:item/parts/scythe_head/diamond/cast')
+    e.create('scythe_head_cast_netherite').texture('molten_metals:item/parts/scythe_head/netherite/cast')
+    e.create('scythe_head_cast_runic').texture('molten_metals:item/parts/scythe_head/runic/cast')
+    
+    e.create('scythe_head_iron').texture('molten_metals:item/parts/scythe_head/iron/head')
+    e.create('scythe_head_diamond').texture('molten_metals:item/parts/scythe_head/diamond/head')
+    e.create('scythe_head_netherite').texture('molten_metals:item/parts/scythe_head/netherite/head')
+    e.create('scythe_head_runic').texture('molten_metals:item/parts/scythe_head/runic/head')
 
   // Shovel Head
   e.create('shovel_head_cast').texture('molten_metals:item/parts/shovel_head/cast')

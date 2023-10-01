@@ -1,0 +1,78 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "kubejs:double_sided_blade_small_cast"
+  },
+  "transitionalItem": {
+    "item": "kubejs:double_sided_blade_small_cast_diamond"
+  },
+  "sequence": [
+    {
+      "type": "create:filling",
+      "ingredients": [
+        {
+          "item": "kubejs:double_sided_blade_small_cast"
+        },
+        {
+          "fluid": "createbigcannons:molten_steel",
+          "amount": 100
+        }
+      ],
+      "results": [
+        {
+          "item": "kubejs:double_sided_blade_small_cast"
+        }
+      ]
+    },
+    {
+      "type": "create:pressing",
+      "ingredients": [
+        {
+          "item": "kubejs:double_sided_blade_small_cast"
+        }
+      ],
+      "results": [
+        {
+          "item": "kubejs:double_sided_blade_small_cast"
+        }
+      ]
+    },
+    {
+      "type": "create:pressing",
+      "ingredients": [
+        {
+          "item": "kubejs:double_sided_blade_small_cast"
+        }
+      ],
+      "results": [
+        {
+          "item": "kubejs:double_sided_blade_small_cast"
+        }
+      ]
+    },
+    {
+      "type": "create:filling",
+      "ingredients": [
+        {
+          "item": "kubejs:double_sided_blade_small_cast"
+        },
+        {
+          "fluid": "minecraft:water",
+          "nbt": {},
+          "amount": 1000
+        }
+      ],
+      "results": [
+        {
+          "item": "kubejs:double_sided_blade_small_cast"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "item": "kubejs:double_sided_blade_small_diamond"
+    }
+  ],
+  "loops": 1
+}

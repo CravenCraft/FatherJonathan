@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 "
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:iron_ingot"
+    },
+    "1": {
+      "item": "jet_and_elias_armors:mercenary_gear_helmet"
+    },
+    "2": {
+      "item": "minecraft:iron_ingot"
+    },
+    "4": {
+      "item": "minecraft:blaze_powder"
+    }
+  },
+  "result": {
+    "item": "jet_and_elias_armors:menacing_knight_set_helmet",
+    "count": 1
+  }
+}

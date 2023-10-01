@@ -1,0 +1,15 @@
+{
+  "type" : "recipe",
+  "crafter": "blacksmith_crafting",
+  "inputs": [
+    {
+      "item" : "create:iron_sheet",
+      "count": 5
+    }
+  ],
+  "result": "jet_and_elias_armors:mercenary_gear_helmet",
+  "count": 1,
+  "min-building-level" : 1,
+  "research-id" : "minecolonies:technology/blacksmith/lvl2/tier2tools",
+  "show-tooltip": true
+}

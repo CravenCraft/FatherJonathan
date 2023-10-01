@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:white_wool"
+    },
+    "1": {
+      "item": "minecraft:white_wool"
+    },
+    "2": {
+      "item": "minecraft:white_wool"
+    },
+    "3": {
+      "item": "minecraft:white_wool"
+    },
+    "5": {
+      "item": "minecraft:white_wool"
+    },
+    "7": {
+      "item": "minecraft:white_carpet"
+    }
+  },
+  "result": {
+    "item": "jet_and_elias_armors:drifter_hood_armor_helmet",
+    "count": 1
+  }
+}

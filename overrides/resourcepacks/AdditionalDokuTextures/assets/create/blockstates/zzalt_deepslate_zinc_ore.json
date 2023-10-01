@@ -1,0 +1,18 @@
+{ "multipart": [
+    { "apply": [
+        { "model": "create:block/deepslate_ores/zinc/sides/0" },
+        { "model": "create:block/deepslate_ores/zinc/sides/1" },
+        { "model": "create:block/deepslate_ores/zinc/sides/2" },
+        { "model": "create:block/deepslate_ores/zinc/sides/3" },
+        { "model": "create:block/deepslate_ores/zinc/sides/4" }
+      ]
+    },
+    { "apply": [
+        { "model": "create:block/deepslate_ores/zinc/ends/0" },
+        { "model": "create:block/deepslate_ores/zinc/ends/1" },
+        { "model": "create:block/deepslate_ores/zinc/ends/2" },
+        { "model": "create:block/deepslate_ores/zinc/ends/3" }
+      ]
+    }
+  ]
+}

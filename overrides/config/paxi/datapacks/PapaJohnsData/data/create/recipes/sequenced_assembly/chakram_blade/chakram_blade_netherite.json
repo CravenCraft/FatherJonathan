@@ -1,0 +1,78 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "kubejs:chakram_blade_cast"
+  },
+  "transitionalItem": {
+    "item": "kubejs:chakram_blade_cast_netherite"
+  },
+  "sequence": [
+    {
+      "type": "create:filling",
+      "ingredients": [
+        {
+          "item": "kubejs:chakram_blade_cast"
+        },
+        {
+          "fluid": "createbigcannons:molten_nethersteel",
+          "amount": 300
+        }
+      ],
+      "results": [
+        {
+          "item": "kubejs:chakram_blade_cast"
+        }
+      ]
+    },
+    {
+      "type": "create:pressing",
+      "ingredients": [
+        {
+          "item": "kubejs:chakram_blade_cast"
+        }
+      ],
+      "results": [
+        {
+          "item": "kubejs:chakram_blade_cast"
+        }
+      ]
+    },
+    {
+      "type": "create:pressing",
+      "ingredients": [
+        {
+          "item": "kubejs:chakram_blade_cast"
+        }
+      ],
+      "results": [
+        {
+          "item": "kubejs:chakram_blade_cast"
+        }
+      ]
+    },
+    {
+      "type": "create:filling",
+      "ingredients": [
+        {
+          "item": "kubejs:chakram_blade_cast"
+        },
+        {
+          "fluid": "minecraft:water",
+          "nbt": {},
+          "amount": 1000
+        }
+      ],
+      "results": [
+        {
+          "item": "kubejs:chakram_blade_cast"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "item": "kubejs:chakram_blade_netherite"
+    }
+  ],
+  "loops": 1
+}

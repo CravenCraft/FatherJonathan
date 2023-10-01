@@ -1,0 +1,21 @@
+Texture pack created by NiceGuyNate (swimfreak on DokuStash).
+
+Credits from Dokustash or otherwise:
+
+- Dokucraft Light wood plank textures are used for almost all wood textures where you can see the planks, otherwised used color pallete for consistency
+- Dokucraft Light Minecart model code and texture
+- Dokucraft Light Copper and Iron blocks used for palette and base textures for all copper and iron blocks, texture inspired for brass textures and blocks as well
+- Dokucraft gunpowder used for all powder variants
+- Dokucraft bars and nuggets modified for zinc textures
+- Dokucraft paper texture modified for most paper-esq textures
+- iKraze feather from book #23957 for blueprint feather outline
+- Chocolate: Derived from anivay #28525
+- Rose Quartz Lamp: Derived from Anunitu #23330
+- Quartz blocks sourced from current Dokucraft Light textures, credit provided under "rose-quartz" tagged items in stash
+- teacup = sweetsosweet #17222, tea texture derived from Azuriuz #26038
+- Stone palette and stone textures derived from Dokucraft, Developed by Starseeker
+- Customized Honeyed Apple based on texture developed by Narwhal69 for additional additions
+- Wheat dough from Dokucraft Farmers Delight, flipped for some visibilty
+- bakewareitem and cinnamonrollitem from Pams support by Kurukuru Daza modified for blazecake
+- Glass Door based on Dokucraft Light and Vach #23306 and #23307
+- Stone references: Starra for veridium, crimsite, asurine cut stone textures and basis of those textures, #19419 by Aoku, Azuriuz #26199, Zeyart #16127, Janeator #16068

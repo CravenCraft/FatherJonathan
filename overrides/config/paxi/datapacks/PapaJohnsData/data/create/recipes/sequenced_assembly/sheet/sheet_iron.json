@@ -1,0 +1,78 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "kubejs:sheet_cast"
+  },
+  "transitionalItem": {
+    "item": "kubejs:sheet_cast_iron"
+  },
+  "sequence": [
+    {
+      "type": "create:filling",
+      "ingredients": [
+        {
+          "item": "kubejs:sheet_cast"
+        },
+        {
+          "fluid": "createbigcannons:molten_cast_iron",
+          "amount": 100
+        }
+      ],
+      "results": [
+        {
+          "item": "kubejs:sheet_cast"
+        }
+      ]
+    },
+    {
+      "type": "create:pressing",
+      "ingredients": [
+        {
+          "item": "kubejs:sheet_cast"
+        }
+      ],
+      "results": [
+        {
+          "item": "kubejs:sheet_cast"
+        }
+      ]
+    },
+    {
+      "type": "create:pressing",
+      "ingredients": [
+        {
+          "item": "kubejs:sheet_cast"
+        }
+      ],
+      "results": [
+        {
+          "item": "kubejs:sheet_cast"
+        }
+      ]
+    },
+    {
+      "type": "create:filling",
+      "ingredients": [
+        {
+          "item": "kubejs:sheet_cast"
+        },
+        {
+          "fluid": "minecraft:water",
+          "nbt": {},
+          "amount": 1000
+        }
+      ],
+      "results": [
+        {
+          "item": "kubejs:sheet_cast"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "item": "create:iron_sheet"
+    }
+  ],
+  "loops": 1
+}

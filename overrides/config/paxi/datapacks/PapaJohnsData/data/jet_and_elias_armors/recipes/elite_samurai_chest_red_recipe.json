@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:gold_ingot"
+    },
+    "2": {
+      "item": "minecraft:gold_ingot"
+    },
+    "3": {
+      "item": "minecraft:netherite_scrap"
+    },
+    "4": {
+      "item": "jet_and_elias_armors:legacy_samurai_armor_chestplate"
+    },
+    "5": {
+      "item": "minecraft:netherite_scrap"
+    },
+    "6": {
+      "item": "minecraft:gold_ingot"
+    },
+    "7": {
+      "item": "minecraft:black_wool"
+    },
+    "8": {
+      "item": "minecraft:gold_ingot"
+    }
+  },
+  "result": {
+    "item": "jet_and_elias_armors:samurai_set_chestplate",
+    "count": 1
+  }
+}
