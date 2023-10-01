@@ -1,19 +1,31 @@
 {
-  "type": "create:mechanical_crafting",
+  "type": "minecraft:crafting_shaped",
   "pattern": [
-    " 0 ",
-    "010",
-    "222"
+    " 1 ",
+    "345",
+    "678"
   ],
   "key": {
-    "0": {
-      "item": "create:iron_sheet"
-    },
     "1": {
+      "item": "minecraft:heavy_weighted_pressure_plate"
+    },
+    "3": {
+      "item": "minecraft:heavy_weighted_pressure_plate"
+    },
+    "4": {
       "item": "minecraft:iron_helmet"
     },
-    "2": {
-      "item": "create:sturdy_sheet"
+    "5": {
+      "item": "minecraft:heavy_weighted_pressure_plate"
+    },
+    "6": {
+      "item": "minecraft:iron_bars"
+    },
+    "7": {
+      "item": "minecraft:iron_ingot"
+    },
+    "8": {
+      "item": "minecraft:iron_bars"
     }
   },
   "result": {

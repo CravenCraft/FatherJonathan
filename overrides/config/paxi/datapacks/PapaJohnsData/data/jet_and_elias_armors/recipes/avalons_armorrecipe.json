@@ -1,23 +1,21 @@
 {
-  "type": "create:mechanical_crafting",
+  "type": "minecraft:crafting_shaped",
   "pattern": [
-    " 00 30 ",
-    "0 000 0",
-    "1 121  ",
-    "0 101 0"
+    " 1 ",
+    "345"
   ],
   "key": {
-    "0": {
-      "item": "create:sturdy_sheet"
-    },
     "1": {
-      "item": "minecraft:black_wool"
-    },
-    "2": {
-      "item": "jet_and_elias_armors:mercenary_gear_chestplate"
+      "item": "minecraft:netherite_scrap"
     },
     "3": {
-      "item": "minecraft:red_wool"
+      "item": "minecraft:black_wool"
+    },
+    "4": {
+      "item": "jet_and_elias_armors:mercenary_gear_chestplate"
+    },
+    "5": {
+      "item": "minecraft:redstone"
     }
   },
   "result": {

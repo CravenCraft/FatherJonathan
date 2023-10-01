@@ -1,8 +1,8 @@
 {
   "type": "minecraft:crafting_shaped",
   "pattern": [
-    "010",
-    "0 0"
+    "012",
+    "3 5"
   ],
   "key": {
     "0": {
@@ -10,6 +10,15 @@
     },
     "1": {
       "item": "minecraft:leather"
+    },
+    "2": {
+      "item": "minecraft:chain"
+    },
+    "3": {
+      "item": "minecraft:chain"
+    },
+    "5": {
+      "item": "minecraft:chain"
     }
   },
   "result": {

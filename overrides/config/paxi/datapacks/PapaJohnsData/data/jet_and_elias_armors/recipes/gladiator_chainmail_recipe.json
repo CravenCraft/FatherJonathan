@@ -1,16 +1,31 @@
 {
-  "type": "create:mechanical_crafting",
+  "type": "minecraft:crafting_shaped",
   "pattern": [
-    "0110",
-    "0  0",
-    "0  0"
+    "012",
+    "3 5",
+    "6 8"
   ],
   "key": {
     "0": {
       "item": "minecraft:chain"
     },
     "1": {
-      "item": "create:iron_sheet"
+      "item": "minecraft:chain"
+    },
+    "2": {
+      "item": "minecraft:chain"
+    },
+    "3": {
+      "item": "minecraft:chain"
+    },
+    "5": {
+      "item": "minecraft:chain"
+    },
+    "6": {
+      "item": "minecraft:chain"
+    },
+    "8": {
+      "item": "minecraft:chain"
     }
   },
   "result": {

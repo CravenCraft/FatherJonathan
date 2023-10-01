@@ -1,19 +1,25 @@
 {
-  "type": "create:mechanical_crafting",
+  "type": "minecraft:crafting_shaped",
   "pattern": [
-    " 00 2  ",
-    "  101  ",
-    "1 101 1"
+    "0  ",
+    "345",
+    " 7 "
   ],
   "key": {
     "0": {
-      "item": "create:iron_sheet"
+      "item": "minecraft:iron_ingot"
     },
-    "1": {
+    "3": {
       "item": "minecraft:leather"
     },
-    "2": {
+    "4": {
       "item": "jet_and_elias_armors:japanese_footsoldier_chestplate"
+    },
+    "5": {
+      "item": "minecraft:leather"
+    },
+    "7": {
+      "item": "minecraft:shield"
     }
   },
   "result": {

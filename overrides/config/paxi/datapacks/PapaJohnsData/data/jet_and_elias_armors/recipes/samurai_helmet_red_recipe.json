@@ -19,7 +19,7 @@
       "item": "minecraft:blaze_powder"
     },
     "4": {
-      "item": "minecraft:iron_helmet"
+      "item": "jet_and_elias_armors:japanese_footsoldier_helmet"
     },
     "5": {
       "item": "minecraft:blaze_powder"
@@ -35,7 +35,7 @@
     }
   },
   "result": {
-    "item": "jet_and_elias_armors:samurai_set_helmet",
+    "item": "jet_and_elias_armors:legacy_samurai_armor_helmet",
     "count": 1
   }
 }

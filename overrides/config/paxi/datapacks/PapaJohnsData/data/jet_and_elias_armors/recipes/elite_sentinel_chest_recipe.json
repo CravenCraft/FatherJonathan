@@ -1,9 +1,9 @@
 {
-  "type": "create:mechanical_crafting",
+  "type": "minecraft:crafting_shaped",
   "pattern": [
-    "010",
-    "232",
-    " 4 "
+    "012",
+    "345",
+    " 7 "
   ],
   "key": {
     "0": {
@@ -13,13 +13,19 @@
       "item": "minecraft:blaze_powder"
     },
     "2": {
-      "item": "minecraft:blaze_powder"
+      "item": "minecraft:blue_wool"
     },
     "3": {
-      "item": "jet_and_elias_armors:sentinel_set_chestplate"
+      "item": "minecraft:blaze_powder"
     },
     "4": {
-      "item": "minecraft:netherite_block"
+      "item": "jet_and_elias_armors:sentinel_set_chestplate"
+    },
+    "5": {
+      "item": "minecraft:blaze_powder"
+    },
+    "7": {
+      "item": "minecraft:netherite_scrap"
     }
   },
   "result": {

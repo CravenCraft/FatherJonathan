@@ -1,21 +1,30 @@
 {
-  "type": "create:mechanical_crafting",
+  "type": "minecraft:crafting_shaped",
   "pattern": [
-    " 0 ",
-    "121",
-    "303"
+    " 1 ",
+    "345",
+    "678"
   ],
   "key": {
-    "0": {
-      "item": "minecraft:netherite_block"
-    },
     "1": {
-      "item": "minecraft:blaze_powder"
-    },
-    "2": {
-      "item": "minecraft:netherite_leggings"
+      "item": "minecraft:netherite_ingot"
     },
     "3": {
+      "item": "minecraft:blaze_powder"
+    },
+    "4": {
+      "item": "minecraft:netherite_leggings"
+    },
+    "5": {
+      "item": "minecraft:blaze_powder"
+    },
+    "6": {
+      "item": "minecraft:chain"
+    },
+    "7": {
+      "item": "minecraft:diamond"
+    },
+    "8": {
       "item": "minecraft:chain"
     }
   },

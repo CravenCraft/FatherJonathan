@@ -1,16 +1,30 @@
 {
-  "type": "create:mechanical_crafting",
+  "type": "minecraft:crafting_shaped",
   "pattern": [
-    " IL    ",
-    "  IIL  ",
-    "I     I",
-    "I LIL I"
+    "01 ",
+    "345",
+    "67 "
   ],
   "key": {
-    "I": {
-      "item": "create:iron_sheet"
+    "0": {
+      "item": "minecraft:iron_ingot"
     },
-    "L": {
+    "1": {
+      "item": "minecraft:leather"
+    },
+    "3": {
+      "item": "minecraft:leather"
+    },
+    "4": {
+      "item": "minecraft:heavy_weighted_pressure_plate"
+    },
+    "5": {
+      "item": "minecraft:leather"
+    },
+    "6": {
+      "item": "minecraft:iron_ingot"
+    },
+    "7": {
       "item": "minecraft:leather"
     }
   },

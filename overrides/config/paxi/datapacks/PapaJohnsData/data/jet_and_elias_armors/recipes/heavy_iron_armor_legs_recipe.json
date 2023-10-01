@@ -1,10 +1,9 @@
 {
-  "type": "create:mechanical_crafting",
+  "type": "minecraft:crafting_shaped",
   "pattern": [
-    "010",
-    "2 2",
-    "2 2",
-    "0 0"
+    "012",
+    "3 5",
+    "6 8"
   ],
   "key": {
     "0": {
@@ -14,7 +13,19 @@
       "item": "minecraft:iron_leggings"
     },
     "2": {
-      "item": "create:iron_sheet"
+      "item": "minecraft:iron_block"
+    },
+    "3": {
+      "item": "minecraft:heavy_weighted_pressure_plate"
+    },
+    "5": {
+      "item": "minecraft:heavy_weighted_pressure_plate"
+    },
+    "6": {
+      "item": "minecraft:iron_block"
+    },
+    "8": {
+      "item": "minecraft:iron_block"
     }
   },
   "result": {

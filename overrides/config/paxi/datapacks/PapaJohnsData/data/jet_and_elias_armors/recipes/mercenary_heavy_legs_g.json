@@ -1,15 +1,21 @@
 {
   "type": "minecraft:crafting_shaped",
   "pattern": [
-    "010",
-    " 0 "
+    "012",
+    " 4 "
   ],
   "key": {
     "0": {
-      "item": "create:golden_sheet"
+      "item": "minecraft:gold_ingot"
     },
     "1": {
       "item": "jet_and_elias_armors:mercenary_gear_leggings"
+    },
+    "2": {
+      "item": "minecraft:gold_ingot"
+    },
+    "4": {
+      "item": "minecraft:gold_ingot"
     }
   },
   "result": {

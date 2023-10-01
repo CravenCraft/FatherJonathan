@@ -1,22 +1,37 @@
 {
-  "type": "create:mechanical_crafting",
+  "type": "minecraft:crafting_shaped",
   "pattern": [
-    "010",
-    "121",
-    "333"
+    "012",
+    "345",
+    "678"
   ],
   "key": {
     "0": {
       "item": "minecraft:iron_block"
     },
     "1": {
-      "item": "create:sturdy_sheet"
+      "item": "minecraft:black_wool"
     },
     "2": {
-      "item": "minecraft:iron_chestplate"
+      "item": "minecraft:iron_block"
     },
     "3": {
-      "item": "create:iron_sheet"
+      "item": "minecraft:black_wool"
+    },
+    "4": {
+      "item": "minecraft:iron_chestplate"
+    },
+    "5": {
+      "item": "minecraft:black_wool"
+    },
+    "6": {
+      "item": "minecraft:heavy_weighted_pressure_plate"
+    },
+    "7": {
+      "item": "minecraft:shield"
+    },
+    "8": {
+      "item": "minecraft:heavy_weighted_pressure_plate"
     }
   },
   "result": {

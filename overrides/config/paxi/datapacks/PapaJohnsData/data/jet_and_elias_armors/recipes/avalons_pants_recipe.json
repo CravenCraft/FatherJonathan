@@ -1,17 +1,31 @@
 {
-  "type": "create:mechanical_crafting",
+  "type": "minecraft:crafting_shaped",
   "pattern": [
-    "1  1",
-    "0  0",
-    "0  0",
-    "1  1"
+    "012",
+    "3 5",
+    "6 8"
   ],
   "key": {
     "0": {
-      "item": "create:sturdy_sheet"
+      "item": "minecraft:redstone"
     },
     "1": {
       "item": "minecraft:black_wool"
+    },
+    "2": {
+      "item": "minecraft:redstone"
+    },
+    "3": {
+      "item": "minecraft:black_wool"
+    },
+    "5": {
+      "item": "minecraft:black_wool"
+    },
+    "6": {
+      "item": "minecraft:heavy_weighted_pressure_plate"
+    },
+    "8": {
+      "item": "minecraft:heavy_weighted_pressure_plate"
     }
   },
   "result": {

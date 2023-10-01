@@ -1,18 +1,31 @@
 {
-  "type": "create:mechanical_crafting",
+  "type": "minecraft:crafting_shaped",
   "pattern": [
-  "10201",
-  "11 11"
+    " 1 ",
+    "345",
+    "678"
   ],
   "key": {
-    "0": {
+    "1": {
       "item": "minecraft:blaze_powder"
     },
-    "1": {
-      "item": "create:iron_sheet"
+    "3": {
+      "item": "minecraft:iron_ingot"
     },
-    "2": {
+    "4": {
       "item": "minecraft:iron_helmet"
+    },
+    "5": {
+      "item": "minecraft:iron_ingot"
+    },
+    "6": {
+      "item": "minecraft:iron_ingot"
+    },
+    "7": {
+      "item": "minecraft:blaze_powder"
+    },
+    "8": {
+      "item": "minecraft:iron_ingot"
     }
   },
   "result": {

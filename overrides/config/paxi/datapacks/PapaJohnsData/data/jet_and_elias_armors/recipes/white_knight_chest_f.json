@@ -1,17 +1,34 @@
 {
-  "type": "create:mechanical_crafting",
+  "type": "minecraft:crafting_shaped",
   "pattern": [
-    " IW WI ",
-    "I III I",
-    "I III I",
-    "I III I"
+    "0 2",
+    "345",
+    "678"
   ],
   "key": {
-    "I": {
-      "item": "create:iron_sheet"
+    "0": {
+      "item": "minecraft:iron_ingot"
     },
-    "W": {
+    "2": {
+      "item": "minecraft:iron_ingot"
+    },
+    "3": {
       "item": "minecraft:white_wool"
+    },
+    "4": {
+      "item": "minecraft:iron_chestplate"
+    },
+    "5": {
+      "item": "minecraft:white_wool"
+    },
+    "6": {
+      "item": "minecraft:iron_ingot"
+    },
+    "7": {
+      "item": "minecraft:iron_ingot"
+    },
+    "8": {
+      "item": "minecraft:iron_ingot"
     }
   },
   "result": {

@@ -1,16 +1,21 @@
 {
-  "type": "create:mechanical_crafting",
+  "type": "minecraft:crafting_shaped",
   "pattern": [
-  "  L  L  ",
-  "  I  I  ",
-  "LLI  ILL"
+    "0 2",
+    "3 5"
   ],
   "key": {
-    "I": {
-      "item": "create:iron_sheet"
-    },
-    "L": {
+    "0": {
       "item": "minecraft:leather"
+    },
+    "2": {
+      "item": "minecraft:leather"
+    },
+    "3": {
+      "item": "minecraft:iron_nugget"
+    },
+    "5": {
+      "item": "minecraft:iron_nugget"
     }
   },
   "result": {
