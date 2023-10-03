@@ -1,0 +1,17 @@
+{
+  "branch": "minecolonies:technology",
+  "parentResearch": "minecolonies:technology/fletcher/lvl4/tier4",
+  "researchLevel": 4,
+  "icon": "kubejs:sheet_runic",
+  "requirements": [
+    {
+      "mandatory-building": "fletcher",
+      "level": 4
+    },
+    {
+      "item": "kubejs:sheet_runic",
+      "quantity": 10
+    }
+  ],
+  "subtitle": "com.minecolonies.research.technology.fletcher.lvl5.tier5.subtitle"
+}

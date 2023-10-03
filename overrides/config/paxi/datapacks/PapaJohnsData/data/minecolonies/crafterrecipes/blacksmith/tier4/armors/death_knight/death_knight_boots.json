@@ -1,0 +1,15 @@
+{
+    "type" : "recipe",
+    "crafter": "blacksmith_crafting",
+    "inputs": [
+      {
+        "item" : "kubejs:sheet_netherite",
+        "count": 5
+      }
+    ],
+    "result": "jet_and_elias_armors:death_knight_armor_boots",
+    "count": 1,
+    "min-building-level" : 4,
+    "research-id" : "minecolonies:technology/blacksmith/lvl4/tier4tools",
+    "show-tooltip": true
+  }

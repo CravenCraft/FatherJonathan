@@ -1,0 +1,17 @@
+{
+  "branch": "minecolonies:technology",
+  "parentResearch": "minecolonies:technology/blacksmith/lvl3/tier3",
+  "researchLevel": 3,
+  "icon": "kubejs:sheet_netherite",
+  "requirements": [
+    {
+      "mandatory-building": "blacksmith",
+      "level": 3
+    },
+    {
+      "item": "kubejs:sheet_netherite",
+      "quantity": 10
+    }
+  ],
+  "subtitle": "com.minecolonies.research.technology.blacksmith.lvl4.tier4.subtitle"
+}

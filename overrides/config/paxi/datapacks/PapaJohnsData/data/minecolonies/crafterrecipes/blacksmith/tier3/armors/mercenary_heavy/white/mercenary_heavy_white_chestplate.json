@@ -1,0 +1,23 @@
+{
+    "type" : "recipe",
+    "crafter": "blacksmith_crafting",
+    "inputs": [
+      {
+        "item" : "kubejs:sheet_diamond",
+        "count": 6
+      },
+      {
+        "item": "minecraft:white_wool",
+        "count": 2
+      },
+      {
+        "item": "jet_and_elias_armors:mercenary_gear_chestplate",
+        "count": 1
+      }
+    ],
+    "result": "jet_and_elias_armors:white_mercenary_heavy_chestplate",
+    "count": 1,
+    "min-building-level" : 3,
+    "research-id" : "minecolonies:technology/blacksmith/lvl3/tier3tools",
+    "show-tooltip": true
+  }

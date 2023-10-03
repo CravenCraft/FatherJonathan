@@ -1,0 +1,27 @@
+{
+    "type" : "recipe",
+    "crafter": "blacksmith_crafting",
+    "inputs": [
+      {
+        "item" : "kubejs:sheet_diamond",
+        "count": 4
+      },
+      {
+        "item" : "minecraft:gold_ingot",
+        "count": 2
+      },
+      {
+        "item": "minecraft:blue_wool",
+        "count": 1
+      },
+      {
+        "item": "jet_and_elias_armors:mercenary_gear_helmet",
+        "count": 1
+      }
+    ],
+    "result": "minecraft:blue_gold_corinthos_helmet",
+    "count": 1,
+    "min-building-level" : 3,
+    "research-id" : "minecolonies:technology/blacksmith/lvl3/tier3tools",
+    "show-tooltip": true
+  }

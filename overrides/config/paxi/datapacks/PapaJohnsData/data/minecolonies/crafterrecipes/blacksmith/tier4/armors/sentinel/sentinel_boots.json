@@ -1,0 +1,23 @@
+{
+    "type" : "recipe",
+    "crafter": "blacksmith_crafting",
+    "inputs": [
+      {
+        "item" : "kubejs:sheet_netherite",
+        "count": 5
+      },      
+      {
+        "item" : "create:iron_sheet",
+        "count": 3
+      },
+      {
+        "item": "minecraft:leather",
+        "count": 3
+      }
+    ],
+    "result": "jet_and_elias_armors:sentinel_set_boots",
+    "count": 1,
+    "min-building-level" : 4,
+    "research-id" : "minecolonies:technology/blacksmith/lvl4/tier4tools",
+    "show-tooltip": true
+  }

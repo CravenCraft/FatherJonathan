@@ -1,0 +1,17 @@
+{
+  "branch": "minecolonies:technology",
+  "parentResearch": "minecolonies:technology/stringwork",
+  "researchLevel": 1,
+  "icon": "mineraft:leather",
+  "requirements": [
+    {
+      "mandatory-building": "fletcher",
+      "level": 1
+    },
+    {
+      "item": "mineraft:leather",
+      "quantity": 10
+    }
+  ],
+  "subtitle": "com.minecolonies.research.technology.fletcher.lvl2.tier2.subtitle"
+}

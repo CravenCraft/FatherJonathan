@@ -1,0 +1,19 @@
+{
+  "type" : "recipe",
+  "crafter": "blacksmith_crafting",
+  "inputs": [
+    {
+      "item" : "create:iron_sheet",
+      "count": 4
+    },
+    {
+      "item": "minecraft:iron_nugget",
+      "count": 2
+    }
+  ],
+  "result": "jet_and_elias_armors:bandit_armor_leggings",
+  "count": 1,
+  "min-building-level" : 2,
+  "research-id" : "minecolonies:technology/blacksmith/lvl2/tier2tools",
+  "show-tooltip": true
+}
