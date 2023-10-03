@@ -1,0 +1,15 @@
+{
+    "type" : "recipe",
+    "crafter": "blacksmith_crafting",
+    "inputs": [
+      {
+        "item" : "kubejs:sheet_diamond",
+        "count": 8
+      }
+    ],
+    "result": "minecraft:knight_m_pink_leggings",
+    "count": 1,
+    "min-building-level" : 3,
+    "research-id" : "minecolonies:technology/blacksmith/lvl3/tier3tools",
+    "show-tooltip": true
+  }

@@ -1,0 +1,27 @@
+{
+    "type" : "recipe",
+    "crafter": "blacksmith_crafting",
+    "inputs": [
+      {
+        "item" : "kubejs:sheet_runic",
+        "count": 5
+      },      
+      {
+        "item" : "kubejs:sheet_netherite",
+        "count": 2
+      },
+      {
+        "item": "minecraft:red_wool",
+        "count": 1
+      },
+      {
+        "item": "minecraft:blaze_powder",
+        "count": 1
+      }
+    ],
+    "item": "jet_and_elias_armors:avalon_cursed_helmet_helmet",
+    "count": 1,
+    "min-building-level" : 5,
+    "research-id" : "minecolonies:technology/blacksmith/lvl5/tier5tools",
+    "show-tooltip": true
+  }

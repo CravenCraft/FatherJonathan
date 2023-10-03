@@ -1,0 +1,23 @@
+{
+  "type" : "recipe",
+  "crafter": "blacksmith_crafting",
+  "inputs": [
+    {
+      "item" : "create:iron_sheet",
+      "count": 12
+    },
+    {
+      "item": "minecraft:white_wool",
+      "count": 2
+    },
+    {
+      "item": "minecraft:leather",
+      "count": 2
+    }
+  ],
+  "result": "jet_and_elias_armors:brute_armor_chestplate",
+  "count": 1,
+  "min-building-level" : 2,
+  "research-id" : "minecolonies:technology/blacksmith/lvl2/tier2tools",
+  "show-tooltip": true
+}

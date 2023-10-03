@@ -1,0 +1,27 @@
+{
+    "type" : "recipe",
+    "crafter": "blacksmith_crafting",
+    "inputs": [
+      {
+        "item" : "kubejs:sheet_runic",
+        "count": 8
+      },      
+      {
+        "item" : "kubejs:sheet_netherite",
+        "count": 3
+      },
+      {
+        "item": "minecraft:black_wool",
+        "count": 2
+      },
+      {
+        "item": "minecraft:blaze_powder",
+        "count": 2
+      }
+    ],
+    "item": "jet_and_elias_armors:avalon_armor_leggings",
+    "count": 1,
+    "min-building-level" : 5,
+    "research-id" : "minecolonies:technology/blacksmith/lvl5/tier5tools",
+    "show-tooltip": true
+  }

@@ -1,0 +1,17 @@
+{
+  "branch": "minecolonies:technology",
+  "parentResearch": "minecolonies:technology/blacksmith/lvl4/tier4",
+  "researchLevel": 4,
+  "icon": "kubejs:sheet_runic",
+  "requirements": [
+    {
+      "mandatory-building": "blacksmith",
+      "level": 4
+    },
+    {
+      "item": "kubejs:sheet_runic",
+      "quantity": 10
+    }
+  ],
+  "subtitle": "com.minecolonies.research.technology.blacksmith.lvl5.tier5.subtitle"
+}

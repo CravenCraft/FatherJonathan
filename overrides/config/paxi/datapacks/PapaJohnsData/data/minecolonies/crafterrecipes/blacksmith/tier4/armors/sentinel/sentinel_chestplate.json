@@ -1,0 +1,23 @@
+{
+    "type" : "recipe",
+    "crafter": "blacksmith_crafting",
+    "inputs": [
+      {
+        "item" : "kubejs:sheet_netherite",
+        "count": 12
+      }, 
+      {
+        "item" : "create:iron_sheet",
+        "count": 5
+      },
+      {
+        "item": "minecraft:black_wool",
+        "count": 2
+      }
+    ],
+    "result": "jet_and_elias_armors:sentinel_set_chestplate",
+    "count": 1,
+    "min-building-level" : 4,
+    "research-id" : "minecolonies:technology/blacksmith/lvl4/tier4tools",
+    "show-tooltip": true
+  }

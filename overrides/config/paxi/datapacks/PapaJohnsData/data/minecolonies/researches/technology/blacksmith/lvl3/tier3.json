@@ -1,0 +1,17 @@
+{
+  "branch": "minecolonies:technology",
+  "parentResearch": "minecolonies:technology/blacksmith/lvl2/tier2",
+  "researchLevel": 2,
+  "icon": "kubejs:sheet_diamond",
+  "requirements": [
+    {
+      "mandatory-building": "blacksmith",
+      "level": 2
+    },
+    {
+      "item": "kubejs:sheet_diamond",
+      "quantity": 10
+    }
+  ],
+  "subtitle": "com.minecolonies.research.technology.blacksmith.lvl3.tier3.subtitle"
+}

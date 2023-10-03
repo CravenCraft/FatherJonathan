@@ -1,0 +1,19 @@
+{
+  "type" : "recipe",
+  "crafter": "blacksmith_crafting",
+  "inputs": [
+    {
+      "item" : "create:iron_sheet",
+      "count": 10
+    },
+    {
+      "item": "minecraft:black_wool",
+      "count": 2
+    }
+  ],
+  "result": "jet_and_elias_armors:hedge_knight_armor_chestplate",
+  "count": 1,
+  "min-building-level" : 2,
+  "research-id" : "minecolonies:technology/blacksmith/lvl2/tier2tools",
+  "show-tooltip": true
+}
