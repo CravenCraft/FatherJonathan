@@ -3,7 +3,7 @@
     "crafter": "blacksmith_crafting",
     "inputs": [
       {
-        "item" : "kubejs:axe_head_iron",
+        "item" : "kubejs:thin_blade_medium_netherite",
         "count": 1
       },
       {
@@ -11,9 +11,9 @@
         "count": 1
       }
     ],
-    "result": "minecraft:iron_axe",
+    "result": "simplyswords:netherite_rapier",
     "count": 1,
-    "min-building-level" : 2,
-    "research-id" : "minecolonies:technology/blacksmith/lvl2/tier2",
+    "min-building-level" : 4,
+    "research-id" : "minecolonies:technology/blacksmith/lvl4/tier4",
     "show-tooltip": true
   }

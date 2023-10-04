@@ -1,0 +1,19 @@
+{
+    "type" : "recipe",
+    "crafter": "blacksmith_crafting",
+    "inputs": [
+      {
+        "item" : "kubejs:hammer_head_netherite",
+        "count": 1
+      },
+      {
+        "item" : "kubejs:pole",
+        "count": 1
+      }
+    ],
+    "result": "simplyswords:netherite_greathammer",
+    "count": 1,
+    "min-building-level" : 4,
+    "research-id" : "minecolonies:technology/blacksmith/lvl4/tier4",
+    "show-tooltip": true
+  }
