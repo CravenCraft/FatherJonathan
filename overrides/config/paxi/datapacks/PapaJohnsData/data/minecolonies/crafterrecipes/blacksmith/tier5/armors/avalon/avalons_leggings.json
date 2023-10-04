@@ -22,6 +22,6 @@
     "item": "jet_and_elias_armors:avalon_armor_leggings",
     "count": 1,
     "min-building-level" : 5,
-    "research-id" : "minecolonies:technology/blacksmith/lvl5/tier5tools",
+    "research-id" : "minecolonies:technology/blacksmith/lvl5/tier5",
     "show-tooltip": true
   }

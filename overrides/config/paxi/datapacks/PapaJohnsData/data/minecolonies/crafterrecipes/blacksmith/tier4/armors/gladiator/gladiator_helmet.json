@@ -14,6 +14,6 @@
     "result": "jet_and_elias_armors:gladiator_armor_helmet",
     "count": 1,
     "min-building-level" : 4,
-    "research-id" : "minecolonies:technology/blacksmith/lvl4/tier4tools",
+    "research-id" : "minecolonies:technology/blacksmith/lvl4/tier4",
     "show-tooltip": true
   }

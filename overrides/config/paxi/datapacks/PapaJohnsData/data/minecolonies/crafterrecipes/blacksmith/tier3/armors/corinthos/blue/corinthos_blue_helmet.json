@@ -18,6 +18,6 @@
     "result": "minecraft:blue_corinthos_helmet",
     "count": 1,
     "min-building-level" : 3,
-    "research-id" : "minecolonies:technology/blacksmith/lvl3/tier3tools",
+    "research-id" : "minecolonies:technology/blacksmith/lvl3/tier3",
     "show-tooltip": true
   }

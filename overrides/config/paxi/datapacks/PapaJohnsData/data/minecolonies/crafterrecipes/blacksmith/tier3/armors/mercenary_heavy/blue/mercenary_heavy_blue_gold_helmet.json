@@ -22,6 +22,6 @@
     "result": "minecraft:blue_gold_mercenary_heavy_helmet",
     "count": 1,
     "min-building-level" : 3,
-    "research-id" : "minecolonies:technology/blacksmith/lvl3/tier3tools",
+    "research-id" : "minecolonies:technology/blacksmith/lvl3/tier3",
     "show-tooltip": true
   }

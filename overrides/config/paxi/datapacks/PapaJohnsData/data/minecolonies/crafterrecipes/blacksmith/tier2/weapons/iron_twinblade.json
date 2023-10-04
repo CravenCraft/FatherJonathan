@@ -14,6 +14,6 @@
     "result": "simplyswords:iron_twinblade",
     "count": 1,
     "min-building-level" : 1,
-    "research-id" : "minecolonies:technology/blacksmith/lvl2/tier2tools",
+    "research-id" : "minecolonies:technology/blacksmith/lvl2/tier2",
     "show-tooltip": true
   }

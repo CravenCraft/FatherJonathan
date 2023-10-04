@@ -14,6 +14,6 @@
   "result": "jet_and_elias_armors:brute_armor_boots",
   "count": 1,
   "min-building-level" : 2,
-  "research-id" : "minecolonies:technology/blacksmith/lvl2/tier2tools",
+  "research-id" : "minecolonies:technology/blacksmith/lvl2/tier2",
   "show-tooltip": true
 }
