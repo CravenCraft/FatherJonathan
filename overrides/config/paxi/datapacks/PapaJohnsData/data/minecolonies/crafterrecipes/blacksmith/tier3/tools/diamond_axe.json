@@ -3,7 +3,7 @@
     "crafter": "blacksmith_crafting",
     "inputs": [
       {
-        "item" : "kubejs:axe_head_iron",
+        "item" : "kubejs:axe_head_diamond",
         "count": 1
       },
       {
@@ -11,9 +11,9 @@
         "count": 1
       }
     ],
-    "result": "minecraft:iron_axe",
+    "result": "minecraft:diamond_axe",
     "count": 1,
-    "min-building-level" : 2,
-    "research-id" : "minecolonies:technology/blacksmith/lvl2/tier2tools",
+    "min-building-level" : 3,
+    "research-id" : "minecolonies:technology/blacksmith/lvl3/tier3tools",
     "show-tooltip": true
   }

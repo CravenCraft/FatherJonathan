@@ -13,7 +13,7 @@
     ],
     "result": "minecraft:iron_shovel",
     "count": 1,
-    "min-building-level" : 1,
+    "min-building-level" : 2,
     "research-id" : "minecolonies:technology/blacksmith/lvl2/tier2tools",
     "show-tooltip": true
   }
