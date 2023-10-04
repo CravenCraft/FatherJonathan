@@ -11,7 +11,7 @@
         "count": 2
       }
     ],
-    "result": "minecraft:knight_f_pink_chestplate",
+    "result": "jet_and_elias_armors:knight_f_pink_chestplate",
     "count": 1,
     "min-building-level" : 3,
     "research-id" : "minecolonies:technology/blacksmith/lvl3/tier3",
