@@ -1,0 +1,18 @@
+{
+  "type" : "recipe",
+  "crafter": "fletcher_crafting",
+  "inputs": [
+    {
+      "item" : "minecraft:wheat",
+      "count": 5
+    },
+    {
+      "item" : "minecraft:string",
+      "count": 1
+    }
+  ],
+  "result": "jet_and_elias_armors:outrider_set_helmet",
+  "count": 1,
+  "min-building-level" : 1,
+  "show-tooltip": true
+}

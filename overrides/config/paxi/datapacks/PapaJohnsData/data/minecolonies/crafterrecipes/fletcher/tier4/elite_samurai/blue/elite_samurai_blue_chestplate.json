@@ -1,0 +1,19 @@
+{
+  "type" : "recipe",
+  "crafter": "fletcher_crafting",
+  "inputs": [
+    {
+      "item" : "kubejs:sheet_netherite",
+      "count": 8
+    },
+    {
+      "item" : "jet_and_elias_armors:legacy_samurai_armor_blue_chestplate",
+      "count": 1
+    }
+  ],
+  "result": "jet_and_elias_armors:blue_samurai_set_chestplate",
+  "count": 1,
+  "min-building-level" : 4,
+  "research-id" : "minecolonies:technology/fletcher/lvl4/tier4",
+  "show-tooltip": true
+}

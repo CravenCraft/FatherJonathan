@@ -1,0 +1,19 @@
+{
+  "type" : "recipe",
+  "crafter": "fletcher_crafting",
+  "inputs": [
+    {
+      "item" : "minecraft:leather",
+      "count": 2
+    },
+    {
+      "tag": "minecraft:planks",
+      "count": 5
+    }
+  ],
+  "result": "jet_and_elias_armors:ronin_set_boots",
+  "count": 1,
+  "min-building-level" : 2,
+  "research-id" : "minecolonies:technology/fletcher/lvl2/tier2",
+  "show-tooltip": true
+}

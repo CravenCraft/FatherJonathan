@@ -1,0 +1,23 @@
+{
+  "type" : "recipe",
+  "crafter": "fletcher_crafting",
+  "inputs": [
+    {
+      "item" : "kubejs:sheet_diamond",
+      "count": 8
+    },
+    {
+      "item" : "minecraft:blue_dye",
+      "count": 1
+    },
+    {
+      "tag": "minecraft:planks",
+      "count": 6
+    }
+  ],
+  "result": "jet_and_elias_armors:legacy_samurai_armor_blue_chestplate",
+  "count": 1,
+  "min-building-level" : 3,
+  "research-id" : "minecolonies:technology/fletcher/lvl3/tier3",
+  "show-tooltip": true
+}

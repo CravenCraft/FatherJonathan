@@ -1,0 +1,31 @@
+{
+  "type" : "recipe",
+  "crafter": "fletcher_crafting",
+  "inputs": [
+    {
+      "item" : "minecraft:lapis_lazuli",
+      "count": 10
+    },
+    {
+      "item" : "minecraft:red_wool",
+      "count": 3
+    },
+    {
+      "tag": "minecraft:planks",
+      "count": 1
+    },
+    {
+      "item": "kubejs:sheet_diamond",
+      "count": 1
+    },
+    {
+      "item": "minecraft:white_dye",
+      "count": 1
+    }
+  ],
+  "result": "jet_and_elias_armors:ronin_robe_red_white_sleeves_chestplate",
+  "count": 1,
+  "min-building-level" : 2,
+  "research-id" : "minecolonies:technology/fletcher/lvl2/tier2",
+  "show-tooltip": true
+}

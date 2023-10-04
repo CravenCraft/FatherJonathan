@@ -1,0 +1,23 @@
+{
+  "type" : "recipe",
+  "crafter": "fletcher_crafting",
+  "inputs": [
+    {
+      "item" : "minecraft:leather",
+      "count": 4
+    },
+    {
+      "item" : "minecraft:blue_wool",
+      "count": 2
+    },
+    {
+      "tag": "minecraft:planks",
+      "count": 2
+    }
+  ],
+  "result": "jet_and_elias_armors:wokou_armor_blue_chestplate",
+  "count": 1,
+  "min-building-level" : 2,
+  "research-id" : "minecolonies:technology/fletcher/lvl2/tier2",
+  "show-tooltip": true
+}

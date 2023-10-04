@@ -1,0 +1,14 @@
+{
+    "type" : "recipe",
+    "crafter": "fletcher_crafting",
+    "inputs": [
+      {
+        "tag": "minecraft:wool",
+        "count": 5
+      }
+    ],
+    "result": "jet_and_elias_armors:highlander_set_leggings",
+    "count": 1,
+    "min-building-level" : 1,
+    "show-tooltip": true
+  }

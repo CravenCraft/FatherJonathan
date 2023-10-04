@@ -1,0 +1,22 @@
+{
+  "type" : "recipe",
+  "crafter": "fletcher_crafting",
+  "inputs": [
+    {
+      "item" : "minecraft:leather",
+      "count": 3
+    },
+    {
+      "tag": "minecraft:planks",
+      "count": 2
+    },
+    {
+      "item" : "create:copper_sheet",
+      "count": 1
+    }
+  ],
+  "result": "jet_and_elias_armors:japanese_footsoldier_chestplate",
+  "count": 1,
+  "min-building-level" : 1,
+  "show-tooltip": true
+}

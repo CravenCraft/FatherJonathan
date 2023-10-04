@@ -1,0 +1,22 @@
+{
+  "type" : "recipe",
+  "crafter": "fletcher_crafting",
+  "inputs": [
+    {
+      "item" : "kubejs:sheet_netherite",
+      "count": 5
+    },
+    {
+      "item": "minecraft:red_dye"
+    },
+    {
+      "item" : "minecraft:leather",
+      "count": 4
+    }
+  ],
+  "result": "jet_and_elias_armors:samurai_set_leggings",
+  "count": 1,
+  "min-building-level" : 4,
+  "research-id" : "minecolonies:technology/fletcher/lvl4/tier4",
+  "show-tooltip": true
+}

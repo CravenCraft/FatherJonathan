@@ -1,0 +1,23 @@
+{
+  "type" : "recipe",
+  "crafter": "fletcher_crafting",
+  "inputs": [
+    {
+      "item" : "minecraft:black_wool",
+      "count": 1
+    },
+    {
+      "item": "minecraft:wheat",
+      "count": 5
+    },
+    {
+      "item": "minecraft:string",
+      "count": 1
+    }
+  ],
+  "result": "jet_and_elias_armors:wokou_armor_black_helmet",
+  "count": 1,
+  "min-building-level" : 2,
+  "research-id" : "minecolonies:technology/fletcher/lvl2/tier2",
+  "show-tooltip": true
+}

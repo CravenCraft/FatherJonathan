@@ -1,0 +1,23 @@
+{
+  "type" : "recipe",
+  "crafter": "fletcher_crafting",
+  "inputs": [
+    {
+      "item" : "create:iron_sheet",
+      "count": 4
+    },
+    {
+      "item": "jet_and_elias_armors:japanese_footsoldier_chestplate",
+      "count": 1
+    },
+    {
+      "item": "minecraft:leather",
+      "count": 2
+    }
+  ],
+  "result": "jet_and_elias_armors:iron_ronin_chestplate",
+  "count": 1,
+  "min-building-level" : 2,
+  "research-id" : "minecolonies:technology/fletcher/lvl2/tier2",
+  "show-tooltip": true
+}

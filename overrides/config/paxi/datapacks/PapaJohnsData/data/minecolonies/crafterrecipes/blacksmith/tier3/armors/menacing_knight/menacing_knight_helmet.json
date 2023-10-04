@@ -1,0 +1,20 @@
+{
+    "type" : "recipe",
+    "crafter": "blacksmith_crafting",
+    "inputs": [
+      {
+        "item" : "kubejs:sheet_diamond",
+        "count": 6
+      },
+      {
+        "item": "minecraft:blaze_powder",
+        "count": 1
+        
+      }
+    ],
+    "result": "minecraft:menacing_knight_set_helmet",
+    "count": 1,
+    "min-building-level" : 3,
+    "research-id" : "minecolonies:technology/blacksmith/lvl3/tier3",
+    "show-tooltip": true
+  }
