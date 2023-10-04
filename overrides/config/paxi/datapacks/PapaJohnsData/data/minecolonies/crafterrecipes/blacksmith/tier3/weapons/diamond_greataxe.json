@@ -3,17 +3,17 @@
     "crafter": "blacksmith_crafting",
     "inputs": [
       {
-        "item" : "kubejs:hammer_head_iron",
-        "count": 1
+        "item" : "kubejs:axe_head_diamond",
+        "count": 2
       },
       {
         "item" : "kubejs:pole",
         "count": 1
       }
     ],
-    "result": "simplyswords:iron_greathammer",
+    "result": "simplyswords:diamond_greataxe",
     "count": 1,
-    "min-building-level" : 2,
-    "research-id" : "minecolonies:technology/blacksmith/lvl2/tier2",
+    "min-building-level" : 3,
+    "research-id" : "minecolonies:technology/blacksmith/lvl3/tier3",
     "show-tooltip": true
   }

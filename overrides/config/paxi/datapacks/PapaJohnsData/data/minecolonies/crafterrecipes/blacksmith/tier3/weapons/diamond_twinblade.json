@@ -3,7 +3,7 @@
     "crafter": "blacksmith_crafting",
     "inputs": [
       {
-        "item" : "kubejs:single_sided_blade_medium_iron",
+        "item" : "kubejs:double_sided_blade_medium_diamond",
         "count": 2
       },
       {
@@ -11,9 +11,9 @@
         "count": 1
       }
     ],
-    "result": "simplyswords:iron_warglaive",
+    "result": "simplyswords:diamond_twinblade",
     "count": 1,
-    "min-building-level" : 2,
-    "research-id" : "minecolonies:technology/blacksmith/lvl2/tier2",
+    "min-building-level" : 3,
+    "research-id" : "minecolonies:technology/blacksmith/lvl3/tier3",
     "show-tooltip": true
   }
