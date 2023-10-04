@@ -1,0 +1,19 @@
+{
+    "type" : "recipe",
+    "crafter": "blacksmith_crafting",
+    "inputs": [
+      {
+        "item" : "kubejs:chakram_blade_runic",
+        "count": 1
+      },
+      {
+        "item" : "kubejs:handle",
+        "count": 1
+      }
+    ],
+    "result": "simplyswords:runic_chakram",
+    "count": 1,
+    "min-building-level" : 5,
+    "research-id" : "minecolonies:technology/blacksmith/lvl5/tier5",
+    "show-tooltip": true
+  }
