@@ -15,7 +15,7 @@
       "count": 4
     }
   ],
-  "item": "jet_and_elias_armors:havoc_knight_armor_chestplate",
+  "result": "jet_and_elias_armors:havoc_knight_armor_chestplate",
   "count": 1,
   "min-building-level" : 5,
   "research-id" : "minecolonies:technology/blacksmith/lvl5/tier5",
