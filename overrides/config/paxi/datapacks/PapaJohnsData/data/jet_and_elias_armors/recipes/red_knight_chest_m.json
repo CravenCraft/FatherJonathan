@@ -1,38 +1,21 @@
 {
   "type": "minecraft:crafting_shaped",
   "pattern": [
-    "0 2",
-    "345",
-    "678"
+    "012"
   ],
   "key": {
     "0": {
-      "item": "minecraft:red_wool"
+      "item": "minecraft:black_dye"
+    },
+    "1": {
+      "item": "jet_and_elias_armors:ronin_robe_red_chestplate"
     },
     "2": {
-      "item": "minecraft:red_wool"
-    },
-    "3": {
-      "item": "minecraft:iron_ingot"
-    },
-    "4": {
-      "item": "minecraft:iron_chestplate"
-    },
-    "5": {
-      "item": "minecraft:iron_ingot"
-    },
-    "6": {
-      "item": "minecraft:iron_ingot"
-    },
-    "7": {
-      "item": "minecraft:iron_ingot"
-    },
-    "8": {
-      "item": "minecraft:iron_ingot"
+      "item": "minecraft:black_dye"
     }
   },
   "result": {
-    "item": "jet_and_elias_armors:knight_m_red_chestplate",
+    "item": "jet_and_elias_armors:ronin_robe_red_black_sleeves_chestplate",
     "count": 1
   }
 }

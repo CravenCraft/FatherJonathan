@@ -1,25 +1,21 @@
 {
   "type": "minecraft:crafting_shaped",
   "pattern": [
-    "0 2",
-    "3 5"
+    "012"
   ],
   "key": {
     "0": {
-      "item": "minecraft:leather"
+      "item": "minecraft:black_dye"
+    },
+    "1": {
+      "item": "jet_and_elias_armors:ronin_robe_red_chestplate"
     },
     "2": {
-      "item": "minecraft:leather"
-    },
-    "3": {
-      "tag": "minecraft:planks"
-    },
-    "5": {
-      "tag": "minecraft:planks"
+      "item": "minecraft:black_dye"
     }
   },
   "result": {
-    "item": "jet_and_elias_armors:japanese_footsoldier_leggings",
+    "item": "jet_and_elias_armors:ronin_robe_red_black_sleeves_chestplate",
     "count": 1
   }
 }
