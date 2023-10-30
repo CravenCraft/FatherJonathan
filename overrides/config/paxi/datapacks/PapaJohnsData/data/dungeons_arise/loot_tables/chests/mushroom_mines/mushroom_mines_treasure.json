@@ -5,68 +5,6 @@
       "rolls": 1,
       "entries": [
         {
-          "type": "minecraft:item",
-          "weight": 1,
-          "name": "minecraft:diamond_pickaxe",
-          "functions": [
-            {
-              "function": "minecraft:enchant_with_levels",
-              "levels": {
-                "min": 0,
-                "max": 16
-              },
-              "treasure": true
-            }
-          ]
-        },
-        {
-          "type": "minecraft:item",
-          "weight": 10,
-          "name": "minecraft:stone_pickaxe",
-          "functions": [
-            {
-              "function": "minecraft:enchant_with_levels",
-              "levels": {
-                "min": 20,
-                "max": 39
-              },
-              "treasure": true
-            }
-          ]
-        },
-        {
-          "type": "minecraft:item",
-          "weight": 15,
-          "name": "minecraft:iron_pickaxe",
-          "functions": [
-            {
-              "function": "minecraft:enchant_with_levels",
-              "levels": {
-                "min": 15,
-                "max": 20
-              },
-              "treasure": true
-            }
-          ]
-        },
-        {
-          "type": "minecraft:item",
-          "weight": 5,
-          "name": "minecraft:golden_pickaxe",
-          "functions": [
-            {
-              "function": "minecraft:enchant_with_levels",
-              "levels": 39,
-              "treasure": true
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "rolls": 1,
-      "entries": [
-        {
           "type": "minecraft:empty",
           "weight": 700
         },
@@ -86,106 +24,59 @@
     {
       "rolls": {
         "min": 0,
-        "max": 2
+        "max": 1
       },
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "minecraft:diamond_chestplate",
-          "functions": [
-            {
-              "function": "minecraft:enchant_with_levels",
-              "levels": {
-                "min": 8,
-                "max": 20
-              }
-            }
-          ]
+          "name": "minecraft:diamond_pickaxe"
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:diamond_leggings",
-          "functions": [
-            {
-              "function": "minecraft:enchant_with_levels",
-              "levels": {
-                "min": 8,
-                "max": 20
-              }
-            }
-          ]
+          "name": "minecraft:golden_pickaxe"
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:diamond_helmet",
-          "functions": [
-            {
-              "function": "minecraft:enchant_with_levels",
-              "levels": {
-                "min": 8,
-                "max": 20
-              }
-            }
-          ]
+          "name": "minecraft:iron_pickaxe"
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:diamond_boots",
-          "functions": [
-            {
-              "function": "minecraft:enchant_with_levels",
-              "levels": {
-                "min": 8,
-                "max": 20
-              }
-            }
-          ]
+          "name": "minecraft:diamond_leggings"
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:iron_chestplate",
-          "functions": [
-            {
-              "function": "minecraft:enchant_with_levels",
-              "levels": 39
-            }
-          ]
+          "name": "minecraft:iron_chestplate"
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:iron_leggings",
-          "functions": [
-            {
-              "function": "minecraft:enchant_with_levels",
-              "levels": 39
-            }
-          ]
+          "name": "minecraft:iron_leggings"
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:iron_helmet",
-          "functions": [
-            {
-              "function": "minecraft:enchant_with_levels",
-              "levels": 39
-            }
-          ]
+          "name": "minecraft:iron_helmet"
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:iron_boots",
-          "functions": [
-            {
-              "function": "minecraft:enchant_with_levels",
-              "levels": 39
-            }
-          ]
+          "name": "minecraft:iron_boots"
         }
       ]
     },
     {
       "rolls": 1,
       "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:tnt",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            }
+          ]
+        },
         {
           "type": "minecraft:item",
           "name": "minecraft:brown_mushroom",
@@ -217,19 +108,19 @@
     {
       "rolls": {
         "min": 1,
-        "max": 3
+        "max": 2
       },
       "entries": [
         {
           "type": "minecraft:item",
-          "weight": 10,
+          "weight": 20,
           "name": "minecraft:emerald",
           "functions": [
             {
               "function": "minecraft:set_count",
               "count": {
                 "min": 1,
-                "max": 8
+                "max": 3
               }
             }
           ]
@@ -241,10 +132,7 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-              "count": {
-                "min": 6,
-                "max": 8
-              }
+              "count": 1
             }
           ]
         },
@@ -257,7 +145,7 @@
               "function": "minecraft:set_count",
               "count": {
                 "min": 4,
-                "max": 24
+                "max": 8
               }
             }
           ]
@@ -270,8 +158,8 @@
             {
               "function": "minecraft:set_count",
               "count": {
-                "min": 16,
-                "max": 48
+                "min": 6,
+                "max": 12
               }
             }
           ]

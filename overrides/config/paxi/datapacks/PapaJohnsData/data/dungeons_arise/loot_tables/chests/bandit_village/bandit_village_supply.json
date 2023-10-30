@@ -66,70 +66,6 @@
       ]
     },
     {
-      "rolls": {
-        "min": 2,
-        "max": 3
-      },
-      "entries": [
-        {
-          "type": "minecraft:item",
-          "weight": 8,
-          "name": "minecraft:iron_nugget",
-          "functions": [
-            {
-              "function": "minecraft:set_count",
-              "count": {
-                "min": 32,
-                "max": 64
-              }
-            }
-          ]
-        },
-        {
-          "type": "minecraft:item",
-          "weight": 16,
-          "name": "minecraft:gold_ingot",
-          "functions": [
-            {
-              "function": "minecraft:set_count",
-              "count": {
-                "min": 2,
-                "max": 6
-              }
-            }
-          ]
-        },
-        {
-          "type": "minecraft:item",
-          "weight": 8,
-          "name": "minecraft:gold_nugget",
-          "functions": [
-            {
-              "function": "minecraft:set_count",
-              "count": {
-                "min": 8,
-                "max": 48
-              }
-            }
-          ]
-        },
-        {
-          "type": "minecraft:item",
-          "weight": 16,
-          "name": "minecraft:iron_ingot",
-          "functions": [
-            {
-              "function": "minecraft:set_count",
-              "count": {
-                "min": 4,
-                "max": 12
-              }
-            }
-          ]
-        }
-      ]
-    },
-    {
       "rolls": 1,
       "entries": [
         {
@@ -173,7 +109,7 @@
         },
         {
           "type": "minecraft:empty",
-          "weight": 35
+          "weight": 100
         }
       ]
     }

@@ -2,31 +2,60 @@
   "type": "minecraft:chest",
   "pools": [
     {
-      "rolls": 1,
+      "rolls": {
+        "min": 1,
+        "max": 3
+      },
       "entries": [
         {
           "type": "minecraft:item",
-          "weight": 5,
+          "weight": 8,
+          "name": "minecraft:bow"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 8,
+          "name": "minecraft:iron_sword"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 10,
           "name": "minecraft:iron_helmet"
         },
         {
           "type": "minecraft:item",
-          "weight": 5,
+          "weight": 10,
           "name": "minecraft:iron_chestplate"
         },
         {
           "type": "minecraft:item",
-          "weight": 5,
+          "weight": 10,
           "name": "minecraft:iron_leggings"
         },
         {
           "type": "minecraft:item",
-          "weight": 5,
+          "weight": 10,
           "name": "minecraft:iron_boots"
         },
         {
+          "type": "minecraft:item",
+          "name": "minecraft:diamond_helmet"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:iron_chestplate"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:diamond_leggings"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:diamond_boots"
+        },
+        {
           "type": "minecraft:empty",
-          "weight": 50
+          "weight": 20
         },
         {
           "type": "minecraft:item",
@@ -41,36 +70,52 @@
               }
             }
           ]
-        },
+        }
+      ]
+    },
+    {
+      "rolls": {
+        "min": 1,
+        "max": 2
+      },
+      "entries": [
         {
           "type": "minecraft:item",
-          "weight": 15,
-          "name": "minecraft:fermented_spider_eye",
+          "name": "minecraft:gold_block",
           "functions": [
             {
               "function": "minecraft:set_count",
               "count": {
                 "min": 1,
-                "max": 4
+                "max": 2
               }
             }
           ]
-        }
-      ]
-    },
-    {
-      "rolls": 1,
-      "entries": [
+        },
         {
           "type": "minecraft:item",
-          "weight": 8,
-          "name": "minecraft:iron_nugget",
+          "weight": 24,
+          "name": "minecraft:iron_ingot",
           "functions": [
             {
               "function": "minecraft:set_count",
               "count": {
                 "min": 4,
-                "max": 24
+                "max": 12
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 32,
+          "name": "minecraft:gold_ingot",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 16
               }
             }
           ]
@@ -84,7 +129,21 @@
               "function": "minecraft:set_count",
               "count": {
                 "min": 8,
-                "max": 16
+                "max": 64
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 3,
+          "name": "minecraft:diamond",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 2
               }
             }
           ]
@@ -96,7 +155,7 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "minecraft:blue_orchid",
+          "name": "minecraft:wither_rose",
           "functions": [
             {
               "function": "minecraft:set_count",
@@ -119,33 +178,12 @@
               }
             }
           ]
-        },
-        {
-          "type": "minecraft:item",
-          "name": "minecraft:sand",
-          "functions": [
-            {
-              "function": "minecraft:set_count",
-              "count": {
-                "min": 1,
-                "max": 3
-              }
-            }
-          ]
         }
       ]
     },
     {
       "rolls": 1,
       "entries": [
-        {
-          "type": "minecraft:loot_table",
-          "name": "minecraft:chests/village/village_desert_house"
-        },
-        {
-          "type": "minecraft:empty",
-          "weight": 100
-        },
         {
           "type": "minecraft:loot_table",
           "name": "minecraft:chests/desert_pyramid"

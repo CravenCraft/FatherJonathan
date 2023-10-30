@@ -24,7 +24,7 @@
               "function": "minecraft:set_count",
               "count": {
                 "min": 4,
-                "max": 48
+                "max": 20
               }
             }
           ]
@@ -37,22 +37,8 @@
             {
               "function": "minecraft:set_count",
               "count": {
-                "min": 12,
-                "max": 16
-              }
-            }
-          ]
-        },
-        {
-          "type": "minecraft:item",
-          "weight": 5,
-          "name": "minecraft:netherite_scrap",
-          "functions": [
-            {
-              "function": "minecraft:set_count",
-              "count": {
-                "min": 1,
-                "max": 3
+                "min": 4,
+                "max": 8
               }
             }
           ]
@@ -64,13 +50,7 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "minecraft:diamond_boots",
-          "functions": [
-            {
-              "function": "minecraft:set_nbt",
-              "tag": "{Enchantments:[{id:\"minecraft:feather_falling\",lvl:6s}]}"
-            }
-          ]
+          "name": "minecraft:diamond_boots"
         },
         {
           "type": "minecraft:group",
@@ -82,8 +62,8 @@
                 {
                   "function": "minecraft:enchant_with_levels",
                   "levels": {
-                    "min": 25,
-                    "max": 39
+                    "min": 8,
+                    "max": 8
                   }
                 }
               ]
@@ -100,8 +80,8 @@
                 {
                   "function": "minecraft:enchant_with_levels",
                   "levels": {
-                    "min": 25,
-                    "max": 39
+                    "min": 8,
+                    "max": 8
                   }
                 }
               ]
@@ -113,8 +93,8 @@
                 {
                   "function": "minecraft:enchant_with_levels",
                   "levels": {
-                    "min": 25,
-                    "max": 39
+                    "min": 8,
+                    "max": 8
                   }
                 }
               ]
@@ -180,11 +160,6 @@
               "tag": "{Potion:\"minecraft:healing\"}"
             }
           ]
-        },
-        {
-          "type": "minecraft:item",
-          "weight": 10,
-          "name": "minecraft:totem_of_undying"
         }
       ]
     },
@@ -202,7 +177,7 @@
           "functions": [
             {
               "function": "minecraft:enchant_with_levels",
-              "levels": 30
+              "levels": 8
             }
           ]
         }
@@ -223,7 +198,7 @@
               "function": "minecraft:set_count",
               "count": {
                 "min": 1,
-                "max": 12
+                "max": 8
               }
             }
           ]
@@ -238,20 +213,6 @@
               "count": {
                 "min": 4,
                 "max": 8
-              }
-            }
-          ]
-        },
-        {
-          "type": "minecraft:item",
-          "weight": 1,
-          "name": "minecraft:enchanted_golden_apple",
-          "functions": [
-            {
-              "function": "minecraft:set_count",
-              "count": {
-                "min": 0,
-                "max": 1
               }
             }
           ]

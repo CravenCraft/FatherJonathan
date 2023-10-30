@@ -43,11 +43,6 @@
               "tag": "{Potion:\"minecraft:healing\"}"
             }
           ]
-        },
-        {
-          "type": "minecraft:item",
-          "weight": 1,
-          "name": "minecraft:totem_of_undying"
         }
       ]
     },
@@ -154,20 +149,6 @@
               "count": {
                 "min": 2,
                 "max": 8
-              }
-            }
-          ]
-        },
-        {
-          "type": "minecraft:item",
-          "weight": 1,
-          "name": "minecraft:enchanted_golden_apple",
-          "functions": [
-            {
-              "function": "minecraft:set_count",
-              "count": {
-                "min": 0,
-                "max": 1
               }
             }
           ]

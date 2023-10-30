@@ -215,15 +215,6 @@
           ]
         }
       ]
-    },
-    {
-      "rolls": 1,
-      "entries": [
-        {
-          "type": "minecraft:loot_table",
-          "name": "minecraft:chests/village/village_plains_house"
-        }
-      ]
     }
   ]
 }

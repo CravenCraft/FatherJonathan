@@ -64,13 +64,7 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "minecraft:diamond_sword",
-          "functions": [
-            {
-              "function": "minecraft:enchant_with_levels",
-              "levels": 16
-            }
-          ]
+          "name": "minecraft:diamond_sword"
         },
         {
           "type": "minecraft:empty",
@@ -78,43 +72,19 @@
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:iron_helmet",
-          "functions": [
-            {
-              "function": "minecraft:enchant_with_levels",
-              "levels": 20
-            }
-          ]
+          "name": "minecraft:iron_helmet"
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:iron_leggings",
-          "functions": [
-            {
-              "function": "minecraft:enchant_with_levels",
-              "levels": 20
-            }
-          ]
+          "name": "minecraft:iron_leggings"
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:iron_chestplate",
-          "functions": [
-            {
-              "function": "minecraft:enchant_with_levels",
-              "levels": 20
-            }
-          ]
+          "name": "minecraft:iron_chestplate"
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:iron_boots",
-          "functions": [
-            {
-              "function": "minecraft:enchant_with_levels",
-              "levels": 20
-            }
-          ]
+          "name": "minecraft:iron_boots"
         }
       ]
     },
@@ -129,7 +99,7 @@
               "function": "minecraft:set_count",
               "count": {
                 "min": 4,
-                "max": 12
+                "max": 8
               }
             }
           ]
@@ -142,7 +112,7 @@
               "function": "minecraft:set_count",
               "count": {
                 "min": 4,
-                "max": 16
+                "max": 8
               }
             }
           ]
@@ -154,8 +124,8 @@
             {
               "function": "minecraft:set_count",
               "count": {
-                "min": 16,
-                "max": 24
+                "min": 2,
+                "max": 12
               }
             }
           ]
