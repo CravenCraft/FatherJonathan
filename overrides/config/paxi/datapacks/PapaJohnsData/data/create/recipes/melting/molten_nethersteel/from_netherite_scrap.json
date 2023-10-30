@@ -2,28 +2,25 @@
   "type": "createbigcannons:melting",
   "ingredients": [
     {
-      "item": "minecraft:netherite_ingot"
+      "item": "minecraft:netherite_scrap"
     },
     {
-      "item": "minecraft:netherite_ingot"
-    },
-    {
-      "item": "minecraft:netherite_ingot"
+      "item": "minecraft:gold_ingot"
     },
     {
       "item": "minecraft:blaze_powder"
     },
     {
       "fluid": "createbigcannons:molten_steel",
-      "amount": 300
+      "amount": 50
     }
   ],
   "results": [
     {
       "fluid": "createbigcannons:molten_nethersteel",
-      "amount": 300
+      "amount": 50
     }
   ],
-  "processingTime": 360,
+  "processingTime": 90,
   "heatRequirement": "superheated"
 }

@@ -6,14 +6,14 @@
         },
         {
             "fluid": "minecraft:lava",
-            "amount": 50
+            "amount": 10
         }
     ],
     "results": [
         {
             "fluid": "createbigcannons:molten_cast_iron",
-            "amount": 50
+            "amount": 10
         }
     ],
-    "processingTime": 60
+    "processingTime": 30
 }

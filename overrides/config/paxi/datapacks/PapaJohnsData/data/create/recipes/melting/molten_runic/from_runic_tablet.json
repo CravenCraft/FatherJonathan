@@ -1,0 +1,23 @@
+{
+  "type": "createbigcannons:melting",
+  "ingredients": [
+    {
+      "item": "simplyswords:runic_tablet"
+    },
+    {
+      "item": "minecraft:dragon_breath"
+    },
+    {
+      "fluid": "createbigcannons:molten_nethersteel",
+      "amount": 100
+    }
+  ],
+  "results": [
+    {
+      "fluid": "kubejs:molten_runic",
+      "amount": 100
+    }
+  ],
+  "processingTime": 240,
+  "heatRequirement": "superheated"
+}

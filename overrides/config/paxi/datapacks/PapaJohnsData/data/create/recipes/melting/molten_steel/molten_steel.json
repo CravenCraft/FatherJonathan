@@ -5,14 +5,8 @@
       "item": "minecraft:diamond"
     },
     {
-      "item": "minecraft:diamond"
-    },
-    {
-      "item": "minecraft:diamond"
-    },
-    {
       "fluid": "createbigcannons:molten_cast_iron",
-      "amount": 300
+      "amount": 100
     },
     [
       {
@@ -26,7 +20,7 @@
   "results": [
     {
       "fluid": "createbigcannons:molten_steel",
-      "amount": 300
+      "amount": 100
     }
   ],
   "processingTime": 270,
