@@ -1,0 +1,6 @@
+
+[lms]
+	#The permission level required to execute command. 2 requires cheat enabled.
+	#Range: 0 ~ 4
+	permission_level = 2
+

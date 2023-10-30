@@ -1,0 +1,21 @@
+
+[Stamina]
+	#How much more/less stamina is consumed from melee attacks.
+	#Range: 0.0 ~ 2.0
+	meleeStaminaConsumption = 1.0
+	#How much more/less stamina is consumed from two handed attacks (stacks with MELEE_STAMINA_CONSUMPTION).
+	#Range: 0.0 ~ 2.0
+	twoHandedStaminaConsumption = 1.0
+	#How much more/less stamina is consumed from one handed (and dual wielding) attacks (stacks with MELEE_STAMINA_CONSUMPTION).
+	#Range: 0.0 ~ 2.0
+	oneHandedStaminaConsumption = 1.0
+	#The base amount of stamina a range attack will cost.
+	#Range: 0.0 ~ 2.0
+	rangeStaminaConsumption = 1.0
+	#The base amount of stamina a range attack will cost.
+	#Range: 0.0 ~ 2.0
+	blockStaminaConsumption = 1.0
+	#The base amount of stamina a range attack will cost.
+	#Range: 0.0 ~ 2.0
+	rollStaminaConsumption = 1.0
+
