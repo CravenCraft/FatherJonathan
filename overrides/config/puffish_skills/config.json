@@ -1,9 +1,11 @@
 {
 	"version": 1,
 
+	"show_warnings": true,
+
 	"categories": [
+		"conditioning",
 		"melee_combat",
-		"defense",
-		"agility"
+		"defense"
 	]
 }

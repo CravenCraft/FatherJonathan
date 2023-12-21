@@ -1,0 +1,73 @@
+{
+	"experience_per_level": {
+		"type": "expression",
+		"data": {
+			"expression": "max((level + 1) * 1000, 1000)"
+		}
+	},
+	"sources": [
+		{
+			"type": "puffish_skills:increase_stat",
+			"data": {
+				"conditions": {
+					"is_jump": {
+						"type": "stat",
+						"data": {
+							"stat": "minecraft.custom:minecraft.jump"
+						}
+					},
+					"is_sprinting": {
+						"type": "stat",
+						"data": {
+							"stat": "minecraft.custom:minecraft.sprint_one_cm"
+						}
+					},
+					"is_swimming": {
+						"type": "stat",
+						"data": {
+							"stat": "minecraft.custom:minecraft.swim_one_cm"
+						}
+					}
+				},
+				"parameters": {
+					"amount": {
+						"type": "amount"
+					}
+				},
+				"experience": [
+					{
+						"condition": "is_jump",
+						"expression": "10"
+					},
+					{
+						"condition": "is_sprinting",
+						"expression": "amount * 0.025"
+					},
+					{
+						"condition": "is_swimming",
+						"expression": "amount * 0.05"
+					}
+				]
+			}
+		},
+		{
+			"type": "puffish_skills:kill_entity",
+			"data": {
+				"parameters": {
+					"max_health": {
+						"type": "entity_max_health"
+					}
+				},
+				"experience": [
+					{
+						"expression": "max_health / 2"
+					}
+				],
+				"anti_farming": {
+					"limit_per_chunk": 15,
+					"reset_after_seconds": 300
+				}
+			}
+		}
+	]
+}

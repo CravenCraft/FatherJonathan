@@ -3,28 +3,80 @@
 	"experience_per_level": {
 		"type": "expression",
 		"data": {
-			"expression": "min(level ^ 1.432 + 10, 200)"
+			"expression": "max((level + 1) * 1000, 1000)"
 		}
 	},
 	"sources": [
 		{
-			"type": "puffish_skills:take_damage",
+			"type": "puffish_skills:increase_stat",
 			"data": {
+				"conditions": {
+					"damage_blocked_by_shield": {
+						"type": "stat",
+						"data": {
+							"stat": "minecraft.custom:minecraft.damage_blocked_by_shield"
+						}
+					}
+				},
 				"parameters": {
-					"damage": {
-						"type": "damage"
+					"amount": {
+						"type": "amount"
 					}
 				},
 				"experience": [
 					{
-						"expression": "damage * 0.25"
+						"condition": "damage_blocked_by_shield",
+						"expression": "amount"
 					}
-				],
-				"anti_farming": {
-					"enabled": true,
-					"limit_per_chunk": 15,
-					"reset_after_seconds": 300
-				}
+				]
+			}
+		},
+		{
+			"type": "puffish_skills:increase_stat",
+			"data": {
+				"conditions": {
+					"damage_absorbed": {
+						"type": "stat",
+						"data": {
+							"stat": "minecraft.custom:minecraft.damage_absorbed"
+						}
+					}
+				},
+				"parameters": {
+					"amount": {
+						"type": "amount"
+					}
+				},
+				"experience": [
+					{
+						"condition": "damage_absorbed",
+						"expression": "amount"
+					}
+				]
+			}
+		},
+		{
+			"type": "puffish_skills:increase_stat",
+			"data": {
+				"conditions": {
+					"damage_taken": {
+						"type": "stat",
+						"data": {
+							"stat": "minecraft.custom:minecraft.damage_taken"
+						}
+					}
+				},
+				"parameters": {
+					"amount": {
+						"type": "amount"
+					}
+				},
+				"experience": [
+					{
+						"condition": "damage_taken",
+						"expression": "amount"
+					}
+				]
 			}
 		}
 	]

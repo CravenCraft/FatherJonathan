@@ -1,6 +1,6 @@
 {
-	"root_resistance+1%": {
-		"title": "+1% Resistance",
+	"resistance+": {
+		"title": "Increase Resistance",
 		"frame": "challenge",
 		"icon": {
 			"type": "effect",
@@ -13,35 +13,18 @@
 				"type": "puffish_skills:attribute",
 				"data": {
 					"attribute": "puffish_skills:player.resistance",
-					"value": 0.01,
-					"operation": "multiply_total"
+					"value": 0.25,
+					"operation": "addition"
 				}
 			}
 		],
-		"editor-color": "#fffc00"
+		"editor-color": "#fffc00",
+		"metadata": {
+			"icon": "38jli9vy0jublua0"
+		}
 	},
-	"resistance+1%": {
-		"title": "+1% Resistance",
-		"icon": {
-			"type": "effect",
-			"data": {
-				"effect": "resistance"
-			}
-		},
-		"rewards": [
-			{
-				"type": "puffish_skills:attribute",
-				"data": {
-					"attribute": "puffish_skills:player.resistance",
-					"value": 0.01,
-					"operation": "multiply_total"
-				}
-			}
-		],
-		"editor-color": "#00ff75"
-	},
-	"roll_stamina_reduction+2": {
-		"title": "2% Roll Stamina Reduction",
+	"roll_stamina_reduction": {
+		"title": "Reduce Roll Stamina Cost",
 		"icon": {
 			"type": "item",
 			"data": {
@@ -52,16 +35,19 @@
 			{
 				"type": "puffish_skills:attribute",
 				"data": {
-					"attribute": "betterparagliders:roll_factor",
-					"value": -0.02,
+					"attribute": "betterparagliders:roll_stamina_reduction",
+					"value": 1,
 					"operation": "addition"
 				}
 			}
 		],
-		"editor-color": "#fbff00"
+		"editor-color": "#fbff00",
+		"metadata": {
+			"icon": "q7c2vx1bitewzumz"
+		}
 	},
-	"block_stamina_reduction+2": {
-		"title": "2% Block Stamina Reduction",
+	"block_stamina_reduction": {
+		"title": "Reduce Block Stamina Cost",
 		"icon": {
 			"type": "item",
 			"data": {
@@ -72,17 +58,65 @@
 			{
 				"type": "puffish_skills:attribute",
 				"data": {
-					"attribute": "betterparagliders:block_factor",
-					"value": -0.02,
+					"attribute": "betterparagliders:block_stamina_reduction",
+					"value": 1,
 					"operation": "addition"
 				}
 			}
 		],
-		"editor-color": "#fbff00"
+		"editor-color": "#0f160f",
+		"metadata": {
+			"icon": "mq26zr3arn8k3ukn"
+		}
+	},
+	"increase_health": {
+		"title": "Gain an Additional Heart",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "simplyswords:diamond_sai"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:generic.max_health",
+					"value": 2,
+					"operation": "addition"
+				}
+			}
+		],
+		"editor-color": "#b5c631",
+		"metadata": {
+			"icon": "4z2dixwf8zfbzb2g"
+		}
+	},
+	"knockback_resistance": {
+		"title": "Increase Knockback Resistance",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "simplyswords:diamond_sai"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:generic.knockback_resistance",
+					"value": 0.05,
+					"operation": "addition"
+				}
+			}
+		],
+		"editor-color": "#d3bedb",
+		"metadata": {
+			"icon": "82zh5j5e01cmokkf"
+		}
 	},
 	"light_tier1_unlock": {
-		"title": "Unlock Tier 1 Light Armor",
-		"description": "Unlocks Chainmail, Ashigaru, and Raider armors",
+		"title": "Unlocks Chainmail, Ashigaru, and Raider armors",
 		"frame": "challenge",
 		"icon": {
 			"type": "item",
@@ -98,11 +132,13 @@
 				}
 			}
 		],
-		"editor-color": "#cab7af"
+		"editor-color": "#cab7af",
+		"metadata": {
+			"icon": "o8wxth7c0vsqzfla"
+		}
 	},
 	"light_tier2_unlock": {
-		"title": "Unlock Tier 2 Light Armor",
-		"description": "Unlocks Wolf Raider and Mercenary Light Armors",
+		"title": "Unlocks Wolf Raider and Mercenary Light Armors",
 		"frame": "challenge",
 		"icon": {
 			"type": "item",
@@ -118,11 +154,13 @@
 				}
 			}
 		],
-		"editor-color": "#cab7af"
+		"editor-color": "#6da381",
+		"metadata": {
+			"icon": "mbm756b4sfej8sjr"
+		}
 	},
 	"light_tier3_unlock": {
-		"title": "Unlock Tier 3 Light Armor",
-		"description": "Unlocks Ronin and Horo-Sha Armors",
+		"title": "Unlocks Ronin and Horo-Sha Armors",
 		"frame": "challenge",
 		"icon": {
 			"type": "item",
@@ -138,11 +176,13 @@
 				}
 			}
 		],
-		"editor-color": "#cab7af"
+		"editor-color": "#ce9abb",
+		"metadata": {
+			"icon": "ftgx83j51ax0kx0m"
+		}
 	},
 	"light_tier4_unlock": {
-		"title": "Unlock Tier 4 Light Armor",
-		"description": "Unlocks Crusader Armors",
+		"title": "Unlocks Crusader Armors",
 		"frame": "challenge",
 		"icon": {
 			"type": "item",
@@ -158,11 +198,13 @@
 				}
 			}
 		],
-		"editor-color": "#cab7af"
+		"editor-color": "#f79ee5",
+		"metadata": {
+			"icon": "xkx99zaldro5j0u1"
+		}
 	},
 	"light_tier5_unlock": {
-		"title": "Unlock Tier 5 Light Armor",
-		"description": "Unlocks Samurai Armors",
+		"title": "Unlocks Samurai Armors",
 		"frame": "challenge",
 		"icon": {
 			"type": "item",
@@ -178,11 +220,13 @@
 				}
 			}
 		],
-		"editor-color": "#cab7af"
+		"editor-color": "#161f26",
+		"metadata": {
+			"icon": "2l01marmieyiy59v"
+		}
 	},
 	"light_tier6_unlock": {
-		"title": "Unlock Tier 6 Light Armor",
-		"description": "Unlocks Kensie Armors",
+		"title": "Unlocks Kensie Armors",
 		"frame": "challenge",
 		"icon": {
 			"type": "item",
@@ -198,11 +242,13 @@
 				}
 			}
 		],
-		"editor-color": "#cab7af"
+		"editor-color": "#060507",
+		"metadata": {
+			"icon": "ug56kyfj2qxkfr3z"
+		}
 	},
 	"light_tier7_unlock": {
-		"title": "Unlock Tier 7 Light Armor",
-		"description": "Unlocks The Gladiator Armor",
+		"title": "Unlocks The Gladiator Armor",
 		"frame": "challenge",
 		"icon": {
 			"type": "item",
@@ -218,11 +264,13 @@
 				}
 			}
 		],
-		"editor-color": "#cab7af"
+		"editor-color": "#f2e26d",
+		"metadata": {
+			"icon": "6w5e0fzqcwb489h2"
+		}
 	},
 	"light_tier8_unlock": {
-		"title": "Unlock Tier 8 Light Armor",
-		"description": "Unlocks The Takemaru Armor",
+		"title": "Unlocks The Takemaru Armor",
 		"frame": "challenge",
 		"icon": {
 			"type": "item",
@@ -238,11 +286,13 @@
 				}
 			}
 		],
-		"editor-color": "#cab7af"
+		"editor-color": "#592002",
+		"metadata": {
+			"icon": "ootuzpqc81hjvv1w"
+		}
 	},
 	"heavy_tier1_unlock": {
-		"title": "Unlock Tier 1 Heavy Armor",
-		"description": "Unlocks Iron, Drifter, and Hedge Knight Armors",
+		"title": "Unlocks Iron, Drifter, and Hedge Knight Armors",
 		"frame": "challenge",
 		"icon": {
 			"type": "item",
@@ -258,11 +308,13 @@
 				}
 			}
 		],
-		"editor-color": "#cab7af"
+		"editor-color": "#755272",
+		"metadata": {
+			"icon": "3wcpi2e7t7eqyopx"
+		}
 	},
 	"heavy_tier2_unlock": {
-		"title": "Unlock Tier 2 Heavy Armor",
-		"description": "Unlocks Mercenary, Brute, and Dreadnought Armors",
+		"title": "Unlocks Mercenary, Brute, and Dreadnought Armors",
 		"frame": "challenge",
 		"icon": {
 			"type": "item",
@@ -278,11 +330,13 @@
 				}
 			}
 		],
-		"editor-color": "#cab7af"
+		"editor-color": "#8324c1",
+		"metadata": {
+			"icon": "ecqa89logw5qzugh"
+		}
 	},
 	"heavy_tier3_unlock": {
-		"title": "Unlock Tier 3 Light Armor",
-		"description": "Unlocks Diamond, Knight, and Sentinel Armors",
+		"title": "Unlocks Diamond, Knight, and Sentinel Armors",
 		"frame": "challenge",
 		"icon": {
 			"type": "item",
@@ -298,11 +352,13 @@
 				}
 			}
 		],
-		"editor-color": "#cab7af"
+		"editor-color": "#e8b2bb",
+		"metadata": {
+			"icon": "9f5l73ewcg5urz9x"
+		}
 	},
 	"heavy_tier4_unlock": {
-		"title": "Unlock Tier 4 Light Armor",
-		"description": "Unlocks Heavy Mercenary, Corinthos, and Dame Armors",
+		"title": "Unlocks Heavy Mercenary, Corinthos, and Dame Armors",
 		"frame": "challenge",
 		"icon": {
 			"type": "item",
@@ -318,11 +374,13 @@
 				}
 			}
 		],
-		"editor-color": "#cab7af"
+		"editor-color": "#000000",
+		"metadata": {
+			"icon": "aq3if78gvw6hipzn"
+		}
 	},
 	"heavy_tier5_unlock": {
-		"title": "Unlock Tier 5 Light Armor",
-		"description": "Unlocks Netherite, Bulward, Dark Cursader, and Death Knight Armors",
+		"title": "Unlocks Netherite, Bulward, Dark Cursader, and Death Knight Armors",
 		"frame": "challenge",
 		"icon": {
 			"type": "item",
@@ -338,11 +396,13 @@
 				}
 			}
 		],
-		"editor-color": "#cab7af"
+		"editor-color": "#322082",
+		"metadata": {
+			"icon": "xhxwvgofejkeab23"
+		}
 	},
 	"heavy_tier6_unlock": {
-		"title": "Unlock Tier 6 Light Armor",
-		"description": "Unlocks The Elite Sentinel Armor",
+		"title": "Unlocks The Elite Sentinel Armor",
 		"frame": "challenge",
 		"icon": {
 			"type": "item",
@@ -358,11 +418,13 @@
 				}
 			}
 		],
-		"editor-color": "#cab7af"
+		"editor-color": "#3e4375",
+		"metadata": {
+			"icon": "ni4hb9a84djndqf2"
+		}
 	},
 	"heavy_tier7_unlock": {
-		"title": "Unlock Tier 7 Light Armor",
-		"description": "Unlocks The Avalon Armor",
+		"title": "Unlocks The Avalon Armor",
 		"frame": "challenge",
 		"icon": {
 			"type": "item",
@@ -378,11 +440,13 @@
 				}
 			}
 		],
-		"editor-color": "#cab7af"
+		"editor-color": "#a09c93",
+		"metadata": {
+			"icon": "pbw7k486d91viuaw"
+		}
 	},
 	"heavy_tier8_unlock": {
-		"title": "Unlock Tier 8 Light Armor",
-		"description": "Unlocks The Havoc Armor",
+		"title": "Unlocks The Havoc Armor",
 		"frame": "challenge",
 		"icon": {
 			"type": "item",
@@ -398,6 +462,9 @@
 				}
 			}
 		],
-		"editor-color": "#cab7af"
+		"editor-color": "#2b261d",
+		"metadata": {
+			"icon": "rc378rrukvown2d0"
+		}
 	}
 }

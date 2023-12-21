@@ -1,0 +1,417 @@
+{
+	"base_melee_stamina_reduction+1": {
+		"title": "Attack Stamina Reduction",
+		"description": "Reduces stamina cost by one point for all weapons",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "minecraft:wooden_sword"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "betterparagliders:base_melee_stamina_reduction",
+					"value": 1,
+					"operation": "addition"
+				}
+			}
+		],
+		"editor-color": "#d7c1e2",
+		"metadata": {
+			"icon": "iryq1vgq6sl1lzbl"
+		}
+	},
+	"one_handed_stamina_reduction+1": {
+		"title": "Reduces stamina cost by one point for one handed weapons",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "simplyswords:diamond_sai"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "betterparagliders:one_handed_stamina_reduction",
+					"value": 1,
+					"operation": "addition"
+				}
+			}
+		],
+		"editor-color": "#93ade1",
+		"metadata": {
+			"icon": "3nx8cze9x226qld1"
+		}
+	},
+	"two_handed_stamina_reduction+1": {
+		"title": "Reduces stamina cost by one point for two handed weapons",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "simplyswords:diamond_claymore"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "betterparagliders:two_handed_stamina_reduction",
+					"value": 1,
+					"operation": "addition"
+				}
+			}
+		],
+		"editor-color": "#d9afb6",
+		"metadata": {
+			"icon": "q3sg7080gndrhv6i"
+		}
+	},
+	"attack_speed+": {
+		"title": "Increase Attack Speed",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "golden_sword"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "generic.attack_speed",
+					"value": 0.03,
+					"operation": "addition"
+				}
+			}
+		],
+		"editor-color": "#586d4f",
+		"metadata": {
+			"icon": "yi5n02i800v15yno"
+		}
+	},
+	"melee_damage+": {
+		"title": "Increase Melee Damage",
+		"icon": {
+			"type": "effect",
+			"data": {
+				"effect": "strength"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.melee_damage",
+					"value": 0.4,
+					"operation": "addition"
+				}
+			}
+		],
+		"editor-color": "#ff2a00",
+		"metadata": {
+			"icon": "d9juyv6y8uj0gihc"
+		}
+	},
+	"critical_hit_damage+": {
+		"title": "Increase Critical Hit Damage",
+		"icon": {
+			"type": "effect",
+			"data": {
+				"effect": "instant_damage"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "apotheosis:crit_damage",
+					"value": 0.1,
+					"operation": "addition"
+				}
+			}
+		],
+		"editor-color": "#ff1a06",
+		"metadata": {
+			"icon": "ky4f0zfcditwc8kw"
+		}
+	},
+	"critical_hit_chance+": {
+		"title": "Increase Critical Hit Chance",
+		"icon": {
+			"type": "effect",
+			"data": {
+				"effect": "luck"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "apotheosis:crit_chance",
+					"value": 0.2,
+					"operation": "addition"
+				}
+			}
+		],
+		"editor-color": "#ff3a03",
+		"metadata": {
+			"icon": "b8gdy1jcbv5b1ejr"
+		}
+	},
+	"armor_pierce+": {
+		"title": "Increase Armor Pierce Damage",
+		"icon": {
+			"type": "effect",
+			"data": {
+				"effect": "absorption"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "apotheosis:armor_pierce",
+					"value": 3,
+					"operation": "addition"
+				}
+			}
+		],
+		"editor-color": "#ff3a95",
+		"metadata": {
+			"icon": "44vgmwo53jltai3q"
+		}
+	},
+	"tier2_one_handed_unlock": {
+		"title": "Unlock Tier 2 One Handed Weapons",
+		"description": "Unlocks tier 2 swords, axes, rapiers, spears, etc.",
+		"frame": "challenge",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "simplyswords:iron_longsword"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "gamestage remove @s tier2_one_handed"
+				}
+			}
+		],
+		"editor-color": "#e7eb0a",
+		"metadata": {
+			"icon": "aufjfa9espetvmt0"
+		}
+	},
+	"tier2_two_handed_unlock": {
+		"title": "Unlock Tier 2 Two Handed Weapons",
+		"description": "Unlocks tier 2 claymores, greathammers, greataxes, etc.",
+		"frame": "challenge",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "simplyswords:iron_greataxe"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "gamestage remove @s tier2_two_handed"
+				}
+			}
+		],
+		"editor-color": "#768505",
+		"metadata": {
+			"icon": "ds44nd1g87r3sudh"
+		}
+	},
+	"tier3_one_handed_unlock": {
+		"title": "Unlock Tier 3 One Handed Weapons",
+		"description": "Unlocks tier 3 swords, axes, rapiers, spears, etc.",
+		"frame": "challenge",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "simplyswords:diamond_longsword"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "gamestage remove @s tier3_one_handed"
+				}
+			}
+		],
+		"editor-color": "#78e40c",
+		"metadata": {
+			"icon": "4gqupw1r2uk5q7qs"
+		}
+	},
+	"tier3_two_handed_unlock": {
+		"title": "Unlock Tier 3 Two Handed Weapons",
+		"description": "Unlocks tier 3 claymores, greathammers, greataxes, etc.",
+		"frame": "challenge",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "simplyswords:diamond_greataxe"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "gamestage remove @s tier3_two_handed"
+				}
+			}
+		],
+		"editor-color": "#026404",
+		"metadata": {
+			"icon": "3gk09jkogwsgpk8c"
+		}
+	},
+	"tier4_one_handed_unlock": {
+		"title": "Unlock Tier 4 One Handed Weapons",
+		"description": "Unlocks tier 4 swords, axes, rapiers, spears, etc.",
+		"frame": "challenge",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "simplyswords:netherite_longsword"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "gamestage remove @s tier4_one_handed"
+				}
+			}
+		],
+		"editor-color": "#07c7d5",
+		"metadata": {
+			"icon": "8hhe0eli5gjlb3e7"
+		}
+	},
+	"tier4_two_handed_unlock": {
+		"title": "Unlock Tier 4 Two Handed Weapons",
+		"description": "Unlocks tier 4 claymores, greathammers, greataxes, etc.",
+		"frame": "challenge",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "simplyswords:netherite_greataxe"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "gamestage remove @s tier4_two_handed"
+				}
+			}
+		],
+		"editor-color": "#066f84",
+		"metadata": {
+			"icon": "t1o00uxwipb0k86b"
+		}
+	},
+	"tier5_one_handed_unlock": {
+		"title": "Unlock Tier 5 One Handed Weapons",
+		"description": "Unlocks tier 5 swords, axes, rapiers, spears, etc.",
+		"frame": "challenge",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "simplyswords:runic_longsword"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "gamestage remove @s tier5_one_handed"
+				}
+			}
+		],
+		"editor-color": "#350be0",
+		"metadata": {
+			"icon": "msc1wp74opopjzz8"
+		}
+	},
+	"tier5_two_handed_unlock": {
+		"title": "Unlock Tier 5 Two Handed Weapons",
+		"description": "Unlocks tier 5 claymores, greathammers, greataxes, etc.",
+		"frame": "challenge",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "simplyswords:runic_greataxe"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "gamestage remove @s tier5_two_handed"
+				}
+			}
+		],
+		"editor-color": "#1a0872",
+		"metadata": {
+			"icon": "pu634p6ukcqunfke"
+		}
+	},
+	"unique_one_handed_unlock": {
+		"title": "Unlock Unique One Handed Weapons",
+		"description": "Unlocks Mysterious Unique Weapons",
+		"frame": "challenge",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "simplyswords:dormant_relic"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "gamestage remove @s unique_one_handed"
+				}
+			}
+		],
+		"editor-color": "#db0a15",
+		"metadata": {
+			"icon": "0yk96nouut9ajw8q"
+		}
+	},
+	"unique_two_handed_unlock": {
+		"title": "Unlock Unique Two Handed Weapons",
+		"description": "Unlocks Mysterious Unique Weapons",
+		"frame": "challenge",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "simplyswords:slumbering_lichblade"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "gamestage remove @s unique_two_handed"
+				}
+			}
+		],
+		"editor-color": "#790113",
+		"metadata": {
+			"icon": "9nzj40vkttc1ioyx"
+		}
+	}
+}

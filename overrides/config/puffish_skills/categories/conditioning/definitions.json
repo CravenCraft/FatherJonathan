@@ -1,0 +1,209 @@
+{
+	"sprinting_stamina_reduction": {
+		"title": "Reduce Sprint Stamina Consumption",
+		"description": "Reduces the stamina consumed when sprinting.",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "diamond"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "betterparagliders:sprinting_stamina_reduction",
+					"value": 1,
+					"operation": "addition"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "widbiiq09bdpyvyd"
+		}
+	},
+	"swimming_stamina_reduction": {
+		"title": "Reduce Swim Stamina Consumption",
+		"description": "Reduces the stamina consumed when fast swimming.",
+		"icon": {
+			"type": "effect",
+			"data": {
+				"effect": "haste"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "betterparagliders:sprinting_stamina_reduction",
+					"value": 1,
+					"operation": "addition"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "p1q5psyyck7ghwfl"
+		}
+	},
+	"idle_stamina_regen": {
+		"title": "Increase Idle Stamina Regeneration",
+		"description": "Increases the rate at which stamina regenerates when the player idle or walking.",
+		"icon": {
+			"type": "effect",
+			"data": {
+				"effect": "haste"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "betterparagliders:idle_stamina_regen",
+					"value": 3,
+					"operation": "addition"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "18ukvjp2pvqvgjsy"
+		}
+	},
+	"submerged_stamina_regen": {
+		"title": "Increase Submerged Stamina Regeneration",
+		"description": "Increases the rate at which stamina regenerates when the player is in water.",
+		"icon": {
+			"type": "effect",
+			"data": {
+				"effect": "haste"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "betterparagliders:submerged_stamina_regen",
+					"value": 3,
+					"operation": "addition"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "g9e21udhfzin9kaw"
+		}
+	},
+	"water_breathing_stamina_regen": {
+		"title": "Increase Water Breathing Stamina Regeneration",
+		"description": "Increases the rate at which stamina regenerates when the player is underwater, and the Water Breathing effect is applied.",
+		"icon": {
+			"type": "effect",
+			"data": {
+				"effect": "haste"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "betterparagliders:water_breathing_stamina_regen",
+					"value": 1,
+					"operation": "addition"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "an07ow0ttsx3ebi1"
+		}
+	},
+	"sprint_speed": {
+		"title": "Increase Sprint Speed",
+		"description": "Increases the player's sprint speed.",
+		"icon": {
+			"type": "effect",
+			"data": {
+				"effect": "haste"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.sprinting_speed",
+					"value": 0.01,
+					"operation": "addition"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "1od2ewr7bi5tlnsz"
+		}
+	},
+	"hunger_reduction": {
+		"title": "Reduce Hunger Decay",
+		"description": "Reduces the rate at which the player's hunger decreases.",
+		"icon": {
+			"type": "effect",
+			"data": {
+				"effect": "haste"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.stamina",
+					"value": 0.4,
+					"operation": "addition"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "pf7mfmxuk2oj1tyi"
+		}
+	},
+	"heat_dampening": {
+		"title": "Reduce Heat Rate",
+		"description": "Reduces the rate at which the player's body temperature increases.",
+		"icon": {
+			"type": "effect",
+			"data": {
+				"effect": "haste"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "cold_sweat:heat_dampening",
+					"value": 0.1,
+					"operation": "addition"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "m9dra0ee2un5nd74"
+		}
+	},
+	"cold_dampening": {
+		"title": "Reduce Cold Rate",
+		"description": "Reduces the rate at which the player's body temperature decreases.",
+		"icon": {
+			"type": "effect",
+			"data": {
+				"effect": "haste"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "cold_sweat:cold_dampening",
+					"value": 0.1,
+					"operation": "addition"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "q3i7ic6icno9r44r"
+		}
+	}
+}

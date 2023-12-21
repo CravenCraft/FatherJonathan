@@ -1,0 +1,272 @@
+{
+	"kc2oucb9etkcru40": {
+		"definition": "swimming_stamina_reduction",
+		"x": -96,
+		"y": -448,
+		"root": false
+	},
+	"puomn4awaf140bmb": {
+		"definition": "sprinting_stamina_reduction",
+		"x": 96,
+		"y": -448,
+		"root": false
+	},
+	"jkhrt5a9mjeb8ljy": {
+		"definition": "sprint_speed",
+		"x": 96,
+		"y": -288,
+		"root": false
+	},
+	"gkdjrq3hgeugqrx9": {
+		"definition": "water_breathing_stamina_regen",
+		"x": -96,
+		"y": -288,
+		"root": false
+	},
+	"h1r6obab2vdoclzv": {
+		"definition": "heat_dampening",
+		"x": 32,
+		"y": -224,
+		"root": false
+	},
+	"yqo1z565gbg8ffib": {
+		"definition": "cold_dampening",
+		"x": -32,
+		"y": -224,
+		"root": false
+	},
+	"mew0nxi7bw08v3hn": {
+		"definition": "sprint_speed",
+		"x": 288,
+		"y": -192,
+		"root": false
+	},
+	"afnhjg7i1ley80tr": {
+		"definition": "idle_stamina_regen",
+		"x": 192,
+		"y": -96,
+		"root": false
+	},
+	"xswkkuy2kdj6qntz": {
+		"definition": "submerged_stamina_regen",
+		"x": -192,
+		"y": -96,
+		"root": false
+	},
+	"5t4arbryi89dqlxs": {
+		"definition": "water_breathing_stamina_regen",
+		"x": -384,
+		"y": -128,
+		"root": false
+	},
+	"pkpbq8289wkwnq0m": {
+		"definition": "sprint_speed",
+		"x": 384,
+		"y": -128,
+		"root": false
+	},
+	"rirbt8mtr23fsmg0": {
+		"definition": "hunger_reduction",
+		"x": -384,
+		"y": -416,
+		"root": false
+	},
+	"ocmeilmdy6m7v7xz": {
+		"definition": "hunger_reduction",
+		"x": 384,
+		"y": -416,
+		"root": false
+	},
+	"um1flk2r8hmoh9uj": {
+		"definition": "water_breathing_stamina_regen",
+		"x": -96,
+		"y": 256,
+		"root": false
+	},
+	"xuq95vcxhoo4r4t8": {
+		"definition": "hunger_reduction",
+		"x": 0,
+		"y": 352,
+		"root": true
+	},
+	"nb8zz6icd59hxct3": {
+		"definition": "heat_dampening",
+		"x": 160,
+		"y": 512,
+		"root": false
+	},
+	"cwel08ejcf7fyysg": {
+		"definition": "heat_dampening",
+		"x": 288,
+		"y": 512,
+		"root": false
+	},
+	"z2vezxgaxtueeu8g": {
+		"definition": "cold_dampening",
+		"x": -160,
+		"y": 512,
+		"root": false
+	},
+	"f0l5qtd4psk0rpb3": {
+		"definition": "cold_dampening",
+		"x": -288,
+		"y": 512,
+		"root": false
+	},
+	"b887vd3o15c6fauf": {
+		"definition": "sprinting_stamina_reduction",
+		"x": 256,
+		"y": 800,
+		"root": false
+	},
+	"a82oys5g72s1ptus": {
+		"definition": "swimming_stamina_reduction",
+		"x": -192,
+		"y": 864,
+		"root": false
+	},
+	"7kh1hcllxspgcfjc": {
+		"definition": "swimming_stamina_reduction",
+		"x": -256,
+		"y": 800,
+		"root": false
+	},
+	"xos9fub0spznscon": {
+		"definition": "sprinting_stamina_reduction",
+		"x": 192,
+		"y": 864,
+		"root": false
+	},
+	"x273z66jv7n172fx": {
+		"definition": "water_breathing_stamina_regen",
+		"x": -352,
+		"y": 832,
+		"root": false
+	},
+	"ulqlgh4dh0aatet6": {
+		"definition": "submerged_stamina_regen",
+		"x": -352,
+		"y": 864,
+		"root": false
+	},
+	"1ku49sdwm661mkko": {
+		"definition": "idle_stamina_regen",
+		"x": 320,
+		"y": -384,
+		"root": false
+	},
+	"db0oriewkiv5qgnz": {
+		"definition": "sprinting_stamina_reduction",
+		"x": 256,
+		"y": -480,
+		"root": false
+	},
+	"aj49rhz8jbl1m11t": {
+		"definition": "idle_stamina_regen",
+		"x": 288,
+		"y": -512,
+		"root": false
+	},
+	"topsn9hph8qs12c5": {
+		"definition": "heat_dampening",
+		"x": 352,
+		"y": -512,
+		"root": false
+	},
+	"onboo5e0uapsjnbs": {
+		"definition": "heat_dampening",
+		"x": 256,
+		"y": -416,
+		"root": false
+	},
+	"mihqjsinrnqbmmum": {
+		"definition": "sprinting_stamina_reduction",
+		"x": 128,
+		"y": -224,
+		"root": false
+	},
+	"85l0lgq38qdvlg79": {
+		"definition": "hunger_reduction",
+		"x": 192,
+		"y": -224,
+		"root": false
+	},
+	"t1min2kiwkxhgga9": {
+		"definition": "idle_stamina_regen",
+		"x": 64,
+		"y": -192,
+		"root": false
+	},
+	"3nz0bjmdfrueakdc": {
+		"definition": "submerged_stamina_regen",
+		"x": -64,
+		"y": -192,
+		"root": false
+	},
+	"5g6wrykz3lzv4njj": {
+		"definition": "swimming_stamina_reduction",
+		"x": -128,
+		"y": -224,
+		"root": false
+	},
+	"44uzv5oio71fz7jw": {
+		"definition": "hunger_reduction",
+		"x": -192,
+		"y": -224,
+		"root": false
+	},
+	"k959364v4203y32a": {
+		"definition": "water_breathing_stamina_regen",
+		"x": -288,
+		"y": -192,
+		"root": false
+	},
+	"ku5yjfd7fv45m9k8": {
+		"definition": "submerged_stamina_regen",
+		"x": -320,
+		"y": -384,
+		"root": false
+	},
+	"xuap0mjtm0nefxob": {
+		"definition": "cold_dampening",
+		"x": -256,
+		"y": -416,
+		"root": false
+	},
+	"ypapjjth7obzh3w1": {
+		"definition": "swimming_stamina_reduction",
+		"x": -256,
+		"y": -480,
+		"root": false
+	},
+	"pxmdhp377etqxusw": {
+		"definition": "submerged_stamina_regen",
+		"x": -288,
+		"y": -512,
+		"root": false
+	},
+	"hmmoplryafrdv1yv": {
+		"definition": "cold_dampening",
+		"x": -352,
+		"y": -512,
+		"root": false
+	},
+	"dpq0i2gzbsmps2q6": {
+		"definition": "sprint_speed",
+		"x": 352,
+		"y": 832,
+		"root": false
+	},
+	"hgmf7j5pho92dh04": {
+		"definition": "idle_stamina_regen",
+		"x": 352,
+		"y": 864,
+		"root": false
+	},
+	"fw8nryowffc4kq5d": {
+		"definition": "sprint_speed",
+		"x": 96,
+		"y": 256,
+		"root": false
+	}
+}
