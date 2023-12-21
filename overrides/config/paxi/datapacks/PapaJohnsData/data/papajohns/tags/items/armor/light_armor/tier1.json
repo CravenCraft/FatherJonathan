@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:chainmail_helmet",
+    "minecraft:chainmail_chestplate",
+    "minecraft:chainmail_leggings",
+    "minecraft:chainmail_boots",
+    "jet_and_elias_armors:drifter_hood_armor_helmet",
+    "jet_and_elias_armors:raider_armor_helmet",
+    "jet_and_elias_armors:raider_armor_chestplate",
+    "jet_and_elias_armors:raider_armor_leggings",
+    "jet_and_elias_armors:raider_armor_boots",
+    "jet_and_elias_armors:japanese_footsoldier_helmet",
+    "jet_and_elias_armors:japanese_footsoldier_chestplate",
+    "jet_and_elias_armors:japanese_footsoldier_leggings"
+  ]
+}

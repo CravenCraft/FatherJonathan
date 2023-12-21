@@ -1,0 +1,19 @@
+{
+  "replace": false,
+  "values": [
+    "jet_and_elias_armors:menacing_knight_helmet_big_helmet",
+    "jet_and_elias_armors:menacing_knight_set_helmet",
+    "jet_and_elias_armors:mercenary_gear_boots",
+    "jet_and_elias_armors:mercenary_gear_chestplate",
+    "jet_and_elias_armors:mercenary_gear_helmet",
+    "jet_and_elias_armors:mercenary_gear_leggings",
+    "jet_and_elias_armors:brute_armor_boots",
+    "jet_and_elias_armors:brute_armor_chestplate",
+    "jet_and_elias_armors:brute_armor_helmet",
+    "jet_and_elias_armors:brute_armor_leggings",
+    "jet_and_elias_armors:dreadnought_armor_boots",
+    "jet_and_elias_armors:dreadnought_armor_chestplate",
+    "jet_and_elias_armors:dreadnought_armor_helmet",
+    "jet_and_elias_armors:dreadnought_armor_leggings"
+  ]
+}

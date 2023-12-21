@@ -1,0 +1,32 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:diamond_helmet",
+    "minecraft:diamond_chestplate",
+    "minecraft:diamond_leggings",
+    "minecraft:diamond_boots",
+    "jet_and_elias_armors:knight_f_blue_chestplate",
+    "jet_and_elias_armors:knight_f_blue_helmet",
+    "jet_and_elias_armors:knight_f_pink_chestplate",
+    "jet_and_elias_armors:knight_f_pink_helmet",
+    "jet_and_elias_armors:knight_f_pink_leggings",
+    "jet_and_elias_armors:knight_f_red_chestplate",
+    "jet_and_elias_armors:knight_f_red_helmet",
+    "jet_and_elias_armors:knight_f_white_chestplate",
+    "jet_and_elias_armors:knight_f_white_helmet",
+    "jet_and_elias_armors:knight_m_blue_chestplate",
+    "jet_and_elias_armors:knight_m_blue_helmet",
+    "jet_and_elias_armors:knight_m_pink_boots",
+    "jet_and_elias_armors:knight_m_pink_chestplate",
+    "jet_and_elias_armors:knight_m_pink_helmet",
+    "jet_and_elias_armors:knight_m_pink_leggings",
+    "jet_and_elias_armors:knight_m_red_chestplate",
+    "jet_and_elias_armors:knight_m_red_helmet",
+    "jet_and_elias_armors:knight_m_white_chestplate",
+    "jet_and_elias_armors:knight_m_white_helmet",
+    "jet_and_elias_armors:sentinel_set_boots",
+    "jet_and_elias_armors:sentinel_set_chestplate",
+    "jet_and_elias_armors:sentinel_set_helmet",
+    "jet_and_elias_armors:sentinel_set_leggings"
+  ]
+}

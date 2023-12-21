@@ -1,0 +1,14 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:diamond_sword",
+    "minecraft:diamond_axe",
+    "simplyswords:diamond_chakram",
+    "simplyswords:diamond_rapier",
+    "simplyswords:diamond_warglaive",
+    "simplyswords:diamond_spear",
+    "simplyswords:diamond_sai",
+    "simplyswords:diamond_cutlass",
+    "simplyswords:diamond_longsword"
+  ]
+}

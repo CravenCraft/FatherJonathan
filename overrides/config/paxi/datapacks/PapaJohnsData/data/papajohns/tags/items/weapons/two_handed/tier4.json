@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "simplyswords:netherite_katana",
+    "simplyswords:netherite_scythe",
+    "simplyswords:netherite_glaive",
+    "simplyswords:netherite_claymore",
+    "simplyswords:netherite_twinblade",
+    "simplyswords:netherite_greathammer",
+    "simplyswords:netherite_greataxe",
+    "simplyswords:netherite_halberd"
+  ]
+}

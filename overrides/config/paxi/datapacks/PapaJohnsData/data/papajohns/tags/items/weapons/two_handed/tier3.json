@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "simplyswords:diamond_katana",
+    "simplyswords:diamond_scythe",
+    "simplyswords:diamond_glaive",
+    "simplyswords:diamond_claymore",
+    "simplyswords:diamond_twinblade",
+    "simplyswords:diamond_greathammer",
+    "simplyswords:diamond_greataxe",
+    "simplyswords:diamond_halberd"
+  ]
+}

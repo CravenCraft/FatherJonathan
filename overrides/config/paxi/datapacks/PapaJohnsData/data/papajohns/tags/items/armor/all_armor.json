@@ -1,21 +1,21 @@
 {
     "replace": false,
     "values": [
-        "#papajohns:armor/l1_armor",
-        "#papajohns:armor/l2_armor",
-        "#papajohns:armor/l3_armor",
-        "#papajohns:armor/l4_armor",
-        "#papajohns:armor/l5_armor",
-        "#papajohns:armor/l6_armor",
-        "#papajohns:armor/l7_armor",
-        "#papajohns:armor/l8_armor",
-        "#papajohns:armor/h1_armor",
-        "#papajohns:armor/h2_armor",
-        "#papajohns:armor/h3_armor",
-        "#papajohns:armor/h4_armor",
-        "#papajohns:armor/h5_armor",
-        "#papajohns:armor/h6_armor",
-        "#papajohns:armor/h7_armor",
-        "#papajohns:armor/h8_armor"
+        "#papajohns:light_armor/tier1",
+        "#papajohns:light_armor/tier2",
+        "#papajohns:light_armor/tier3",
+        "#papajohns:light_armor/tier4",
+        "#papajohns:light_armor/tier5",
+        "#papajohns:light_armor/tier6",
+        "#papajohns:light_armor/tier7",
+        "#papajohns:light_armor/tier8",
+        "#papajohns:heavy_armor/tier1",
+        "#papajohns:heavy_armor/tier2",
+        "#papajohns:heavy_armor/tier3",
+        "#papajohns:heavy_armor/tier4",
+        "#papajohns:heavy_armor/tier5",
+        "#papajohns:heavy_armor/tier6",
+        "#papajohns:heavy_armor/tier7",
+        "#papajohns:heavy_armor/tier8"
     ]
 }

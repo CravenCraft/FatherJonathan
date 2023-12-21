@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "simplyswords:runic_scythe",
+    "simplyswords:runic_glaive",
+    "simplyswords:runic_katana",
+    "simplyswords:runic_claymore",
+    "simplyswords:runic_twinblade",
+    "simplyswords:runic_greathammer",
+    "simplyswords:runic_greataxe",
+    "simplyswords:runic_halberd"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:wooden_sword",
+    "minecraft:wooden_axe",
+    "minecraft:stone_sword",
+    "minecraft:stone_axe",
+    "minecraft:golden_sword",
+    "minecraft:golden_axe",
+    "simplyswords:gold_chakram",
+    "simplyswords:gold_scythe",
+    "simplyswords:gold_rapier",
+    "simplyswords:gold_glaive",
+    "simplyswords:gold_warglaive",
+    "simplyswords:gold_spear",
+    "simplyswords:gold_sai",
+    "simplyswords:gold_katana",
+    "simplyswords:gold_cutlass",
+    "simplyswords:gold_longsword",
+    "simplyswords:gold_claymore",
+    "simplyswords:gold_twinblade",
+    "simplyswords:gold_greathammer",
+    "simplyswords:gold_greataxe",
+    "simplyswords:gold_halberd"
+  ]
+}
