@@ -1,7 +1,14 @@
 [
     {
-        "mob": "weeping_angels:weeping_angel",
-        "dimension": "minecraft:the_nether",
+        "gamestage": "cave_dweller_slane",
+        "mob": "cave_dweller:cave_dweller",
+        "onjoin": true,
+        "result": "deny"
+    },
+    {
+        "gamestage": "the_man_slane",
+        "mob": "man:managgresive",
+        "onjoin": true,
         "result": "deny"
     }
 ]
