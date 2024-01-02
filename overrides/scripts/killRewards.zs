@@ -15,14 +15,14 @@ StageHelper.grantStageOnKill(<entitytype:cave_dweller:cave_dweller>, (player, ta
 StageHelper.grantStageOnKill(<entitytype:man:managgresive>, (player, target) => {
 
     player.sendMessage("The Man has been slane.");
-    player.give(<item:paraglider:stamina_vessel>);
+    player.give(<item:paraglider:heart_container>);
 }, "the_man_slane");
 
 // ------------------------------ Minecraft Bosses ------------------------------
 StageHelper.grantStageOnKill(<entitytype:minecraft:wither>, (player, target) => {
 
     player.sendMessage("The Wither has been slane.");
-    player.give(<item:paraglider:heart_container>);
+    player.give(<item:paraglider:stamina_vessel>);
 }, "wither_slane");
 
 StageHelper.grantStageOnKill(<entitytype:minecraft:ender_dragon>, (player, target) => {
@@ -49,14 +49,14 @@ StageHelper.grantStageOnKill(<entitytype:graveyard:lich>, (player, target) => {
 StageHelper.grantStageOnKill(<entitytype:aquamirae:captain_cornelia>, (player, target) => {
 
     player.sendMessage("Captain Cornelia has been slane.");
-    player.give(<item:paraglider:heart_container>);
+    player.give(<item:paraglider:stamina_vessel>);
 }, "captain_cornelia_slane");
 
 // ------------------------------ Alex's Mobs Bosses ------------------------------
 StageHelper.grantStageOnKill(<entitytype:alexsmobs:void_worm>, (player, target) => {
 
     player.sendMessage("The Void Worm has been slane.");
-    player.give(<item:paraglider:heart_container>);
+    player.give(<item:paraglider:stamina_vessel>);
 }, "void_worm_slane");
 
 // ------------------------------ Cataclysm Bosses ------------------------------
@@ -76,7 +76,7 @@ StageHelper.grantStageOnKill(<entitytype:cataclysm:the_harbinger>, (player, targ
 StageHelper.grantStageOnKill(<entitytype:cataclysm:the_leviathan>, (player, target) => {
 
     player.sendMessage("The Leviathan has been slane.");
-    player.give(<item:paraglider:heart_container>);
+    player.give(<item:paraglider:stamina_vessel>);
 }, "leviathan_slane");
 
 StageHelper.grantStageOnKill(<entitytype:cataclysm:ignis>, (player, target) => {
