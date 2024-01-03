@@ -1,4 +1,9 @@
 [
+  
+  {
+    "item": "paraglider:spirit_orb",
+    "weight": 3
+  },
   {
     "item": "minecraft:chainmail_boots",
     "weight": 2

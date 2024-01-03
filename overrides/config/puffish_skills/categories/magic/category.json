@@ -1,0 +1,12 @@
+{
+	"unlocked_by_default": true,
+	"exclusive_root": true,
+	"title": "Magic Combat",
+	"icon": {
+		"type": "item",
+		"data": {
+			"item": "minecraft:iron_sword"
+		}
+	},
+	"background": "textures/gui/advancements/backgrounds/adventure.png"
+}

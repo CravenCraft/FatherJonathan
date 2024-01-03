@@ -1,0 +1,266 @@
+{
+	"hytd4ic19u8j2mkn": {
+		"definition": "critical_hit_damage+",
+		"x": 0,
+		"y": 608,
+		"root": true
+	},
+	"mi2tcczqv9kvned0": {
+		"definition": "melee_damage+",
+		"x": 32,
+		"y": 544,
+		"root": false
+	},
+	"46o8ed1qab5w5w6h": {
+		"definition": "attack_speed+",
+		"x": -32,
+		"y": 544,
+		"root": false
+	},
+	"hdtz7wo4vo012zwu": {
+		"definition": "armor_pierce+",
+		"x": 32,
+		"y": 448,
+		"root": false
+	},
+	"dhpq8zlc6wmk6wnh": {
+		"definition": "critical_hit_chance+",
+		"x": -32,
+		"y": 448,
+		"root": false
+	},
+	"lvpg2429henjzt1u": {
+		"definition": "tier2_two_handed_unlock",
+		"x": 32,
+		"y": 352,
+		"root": false
+	},
+	"elm0wkfp80t1x8i1": {
+		"definition": "tier2_one_handed_unlock",
+		"x": -32,
+		"y": 352,
+		"root": false
+	},
+	"057p4alq082cefgn": {
+		"definition": "melee_damage+",
+		"x": 128,
+		"y": 320,
+		"root": false
+	},
+	"p8yhz4q9k3vzbw6e": {
+		"definition": "attack_speed+",
+		"x": -128,
+		"y": 320,
+		"root": false
+	},
+	"gvlv2cciwtmc50ju": {
+		"definition": "armor_pierce+",
+		"x": 192,
+		"y": 224,
+		"root": false
+	},
+	"l9t48h8capipc0ss": {
+		"definition": "critical_hit_chance+",
+		"x": -192,
+		"y": 224,
+		"root": false
+	},
+	"h5jaiuo2lz6of5gl": {
+		"definition": "critical_hit_damage+",
+		"x": -128,
+		"y": 224,
+		"root": false
+	},
+	"9iybki9o3cj3m8yv": {
+		"definition": "critical_hit_damage+",
+		"x": 128,
+		"y": 224,
+		"root": false
+	},
+	"u8or9t8rb6bxot8i": {
+		"definition": "tier3_two_handed_unlock",
+		"x": 64,
+		"y": 256,
+		"root": false
+	},
+	"ph0jznw7s201m99s": {
+		"definition": "tier3_one_handed_unlock",
+		"x": -64,
+		"y": 256,
+		"root": false
+	},
+	"8jz8ar9nzsfslupl": {
+		"definition": "critical_hit_damage+",
+		"x": 0,
+		"y": 224,
+		"root": false
+	},
+	"81hnz6vyetttmws1": {
+		"definition": "unique_two_handed_unlock",
+		"x": 64,
+		"y": -256,
+		"root": false
+	},
+	"veo5u4g7w62d76jy": {
+		"definition": "unique_one_handed_unlock",
+		"x": -64,
+		"y": -256,
+		"root": false
+	},
+	"lt5rhl28zhvm7zh2": {
+		"definition": "critical_hit_chance+",
+		"x": -32,
+		"y": -192,
+		"root": false
+	},
+	"qexelmrzb3pkwonk": {
+		"definition": "critical_hit_chance+",
+		"x": 0,
+		"y": -128,
+		"root": false
+	},
+	"3pj1z1e8lre9mgrl": {
+		"definition": "one_handed_stamina_reduction+1",
+		"x": -32,
+		"y": -64,
+		"root": false
+	},
+	"va51xqo3sg1vhvn7": {
+		"definition": "two_handed_stamina_reduction+1",
+		"x": 32,
+		"y": -64,
+		"root": false
+	},
+	"po7dqvgf6xe6miuw": {
+		"definition": "melee_damage+",
+		"x": 32,
+		"y": 64,
+		"root": false
+	},
+	"ofatjayia29wtabi": {
+		"definition": "attack_speed+",
+		"x": -32,
+		"y": 64,
+		"root": false
+	},
+	"zgoiyja0p16az7ln": {
+		"definition": "armor_pierce+",
+		"x": 0,
+		"y": 128,
+		"root": false
+	},
+	"9m9z7lym99vu2pts": {
+		"definition": "armor_pierce+",
+		"x": 64,
+		"y": 0,
+		"root": false
+	},
+	"fqubo6i38lj7bjir": {
+		"definition": "critical_hit_chance+",
+		"x": -64,
+		"y": 0,
+		"root": false
+	},
+	"9d4nx1i6pxrjvm20": {
+		"definition": "one_handed_stamina_reduction+1",
+		"x": -32,
+		"y": 192,
+		"root": false
+	},
+	"iz01cs1ao0xkrb89": {
+		"definition": "two_handed_stamina_reduction+1",
+		"x": 32,
+		"y": 192,
+		"root": false
+	},
+	"r72s57pxeggr89li": {
+		"definition": "two_handed_stamina_reduction+1",
+		"x": 32,
+		"y": -320,
+		"root": false
+	},
+	"wgd12ape32k37b9s": {
+		"definition": "increase_spell_resistance",
+		"x": 0,
+		"y": -384,
+		"root": false
+	},
+	"3gjrd8irhfqdpf51": {
+		"definition": "one_handed_stamina_reduction+1",
+		"x": -32,
+		"y": -320,
+		"root": false
+	},
+	"1uanxy3bxujavzas": {
+		"definition": "tier4_two_handed_unlock",
+		"x": 64,
+		"y": 96,
+		"root": false
+	},
+	"oh377gsuoud4ikna": {
+		"definition": "tier4_one_handed_unlock",
+		"x": -64,
+		"y": 96,
+		"root": false
+	},
+	"4u2kggbd8jz17c24": {
+		"definition": "tier5_one_handed_unlock",
+		"x": -64,
+		"y": -96,
+		"root": false
+	},
+	"pxph7ovhw19rlqp3": {
+		"definition": "attack_speed+",
+		"x": -64,
+		"y": -160,
+		"root": false
+	},
+	"qp3rh5nvwsk6pk27": {
+		"definition": "melee_damage+",
+		"x": 64,
+		"y": -160,
+		"root": false
+	},
+	"rq4ajb7103qas5te": {
+		"definition": "tier5_two_handed_unlock",
+		"x": 64,
+		"y": -96,
+		"root": false
+	},
+	"5shryyspmngregxp": {
+		"definition": "melee_damage+",
+		"x": 64,
+		"y": 160,
+		"root": false
+	},
+	"fpsrka4hm0sdo3om": {
+		"definition": "attack_speed+",
+		"x": -64,
+		"y": 160,
+		"root": false
+	},
+	"k8birwv6jq4hved6": {
+		"definition": "increase_spell_resistance",
+		"x": 0,
+		"y": -32,
+		"root": false
+	},
+	"aekqs2kjlg1i0ujk": {
+		"definition": "increase_spell_resistance",
+		"x": 0,
+		"y": 288,
+		"root": false
+	},
+	"bpcn9fw60v9il5mv": {
+		"definition": "armor_pierce+",
+		"x": 32,
+		"y": -192,
+		"root": false
+	},
+	"9wpi89uo7g4xb4xr": {
+		"definition": "critical_hit_damage+",
+		"x": 0,
+		"y": 32,
+		"root": false
+	}
+}

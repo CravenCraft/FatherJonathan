@@ -1,5 +1,9 @@
 [
   {
+    "item": "paraglider:spirit_orb",
+    "weight": 1
+  },
+  {
     "item": "minecraft:leather_boots",
     "weight": 1
   },

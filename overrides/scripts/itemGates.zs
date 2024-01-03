@@ -1,6 +1,6 @@
 import mods.itemstages.ItemStages;
 
-// Weapon Restrictions
+// Melee Weapon Restrictions
 ItemStages.restrict(<tag:items:papajohns:weapons/one_handed/tier2>, "tier2_one_handed").preventInventory(false).preventPickup(false);
 ItemStages.restrict(<tag:items:papajohns:weapons/one_handed/tier3>, "tier3_one_handed").preventInventory(false).preventPickup(false);
 ItemStages.restrict(<tag:items:papajohns:weapons/one_handed/tier4>, "tier4_one_handed").preventInventory(false).preventPickup(false);
@@ -12,6 +12,12 @@ ItemStages.restrict(<tag:items:papajohns:weapons/two_handed/tier3>, "tier3_two_h
 ItemStages.restrict(<tag:items:papajohns:weapons/two_handed/tier4>, "tier4_two_handed").preventInventory(false).preventPickup(false);
 ItemStages.restrict(<tag:items:papajohns:weapons/two_handed/tier5>, "tier5_two_handed").preventInventory(false).preventPickup(false);
 ItemStages.restrict(<tag:items:papajohns:weapons/two_handed/unique>, "unique_two_handed").preventInventory(false).preventPickup(false);
+
+// Magic Weapon Restrictions
+ItemStages.restrict(<tag:items:papajohns:weapons/books/uncommon>, "uncommon_magic").preventInventory(false).preventPickup(false);
+ItemStages.restrict(<tag:items:papajohns:weapons/books/rare>, "rare_magic").preventInventory(false).preventPickup(false);
+ItemStages.restrict(<tag:items:papajohns:weapons/books/epic>, "epic_magic").preventInventory(false).preventPickup(false);
+ItemStages.restrict(<tag:items:papajohns:weapons/books/legendary>, "legendary_magic").preventInventory(false).preventPickup(false);
 
 // Equipment Restrictions
 ItemStages.restrict(<tag:items:papajohns:armor/light_armor/tier1>, "tier1").preventInventory(false).preventPickup(false);

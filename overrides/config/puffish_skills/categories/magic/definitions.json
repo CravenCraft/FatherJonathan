@@ -1,0 +1,117 @@
+{
+	"increase_spell_resistance": {
+		"title": "Increase Spell Resistance by 5%",
+		"icon": {
+			"type": "effect",
+			"data": {
+				"effect": "irons_spellbooks:fortify"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "irons_spellbooks:spell_resist",
+					"value": 0.05,
+					"operation": "addition"
+				}
+			}
+		],
+		"editor-color": "#d7c1e2",
+		"metadata": {
+			"icon": "iryq1vgq6sl1lzbl"
+		}
+	},
+	"cooldown_reduction": {
+		"title": "Reduce Spell Cooldown by 5%",
+		"icon": {
+			"type": "effect",
+			"data": {
+				"effect": "irons_spellbooks:hastened"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "irons_spellbooks:cooldown_reduction",
+					"value": 0.05,
+					"operation": "addition"
+				}
+			}
+		],
+		"editor-color": "#d7c1e2",
+		"metadata": {
+			"icon": "iryq1vgq6sl1lzbl"
+		}
+	},
+	"increase_mana_regeneration": {
+		"title": "Increase Mana Regeneration by 5%",
+		"icon": {
+			"type": "effect",
+			"data": {
+				"effect": "irons_spellbooks:ascension"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "irons_spellbooks:mana_regen",
+					"value": 0.05,
+					"operation": "addition"
+				}
+			}
+		],
+		"editor-color": "#d7c1e2",
+		"metadata": {
+			"icon": "iryq1vgq6sl1lzbl"
+		}
+	},
+	"increase_spell_power": {
+		"title": "Increase Spell Power by 5%",
+		"icon": {
+			"type": "effect",
+			"data": {
+				"effect": "irons_spellbooks:charged"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "irons_spellbooks:spell_power",
+					"value": 0.05,
+					"operation": "addition"
+				}
+			}
+		],
+		"editor-color": "#d7c1e2",
+		"metadata": {
+			"icon": "iryq1vgq6sl1lzbl"
+		}
+	},
+	"increase_max_mana": {
+		"title": "Increase Max Mana by 20",
+		"icon": {
+			"type": "effect",
+			"data": {
+				"effect": "irons_spellbooks:instant_mana"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "irons_spellbooks:max_mana",
+					"value": 20,
+					"operation": "addition"
+				}
+			}
+		],
+		"editor-color": "#d7c1e2",
+		"metadata": {
+			"icon": "iryq1vgq6sl1lzbl"
+		}
+	}
+}
